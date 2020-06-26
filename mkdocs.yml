@@ -22,7 +22,7 @@ nav:
   - Whitepapers: whitepapers/index.md
   - Community: community/index.md
   - Products: products/index.md
-  - FAQs: faqs.md
+  - FAQs: faqs/index.md
  
 # These social links will be rendered as icons in the footer, as long as the type corresponds to FontAwesome glyph.
 extra:

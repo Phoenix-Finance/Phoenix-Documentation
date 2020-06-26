@@ -1,0 +1,83 @@
+# Basic project details.
+site_name: 'FinNexus Documentation'
+site_description: 'Decentralised Protocol Clusters'
+site_author: 'FinNexus Team'
+site_url: ''
+
+# Links to the core FinNexus smart contract repository.
+repo_name: 'FinNexus'
+repo_url: 'https://github.com/FinNexus'
+
+# Setting `edit_uri` to an empty string disables the edit button, which points to the wrong page.
+# If at some point this documentation is moved into the core  repository, then this can be
+# removed.
+edit_uri: ''
+
+docs_dir: 'content'
+
+
+# Top level headings become tabs at the top due to `tabs: true` in the theme.
+nav:
+  - Introduction: index.md
+  - Whitepapers: whitepapers/index.md
+  - Community: community/index.md
+  - Products: products/index.md
+  - FAQs: faqs.md
+ 
+# These social links will be rendered as icons in the footer, as long as the type corresponds to FontAwesome glyph.
+extra:
+  social:
+    - icon: 'brands/github'
+      link: 'https://github.com/FinNexus'
+    - icon: 'brands/twitter'
+      link: 'https://twitter.com/fin_nexus'
+    - icon: 'brands/reddit'
+      link: 'https://www.reddit.com/r/finnexus/'
+    - icon: 'brands/medium'
+      link: 'https://medium.com/finnexus/'
+
+# This set of documentation uses the MkDocs Material theme by squidfunk: https://github.com/squidfunk/mkdocs-material
+theme:
+  name: 'material'
+  language: 'en'
+  palette:
+    primary: 'indigo'
+    accent: 'deep purple'
+  logo: 'img/logos/square.png'
+  favicon: 'img/favicon.ico'
+  feature:
+    tabs: true
+    instant: false
+
+# Extension settings.
+# In addition to the standard extensions, this also requires the PyMdown Extensions by facelessuser: https://github.com/facelessuser/pymdown-extensions
+markdown_extensions:
+  - toc:
+      permalink: True # Generates permanent links for each page section.
+  - admonition # Small descriptive elements for notes, warnings, etc.
+  - pymdownx.arithmatex # Math rendering.
+  - pymdownx.tasklist: # Allows nested and better checkboxes.
+      custom_checkbox: True # Without this setting, checkboxes look rubbish in the material theme.
+  - pymdownx.highlight: # Code syntax highlighting.
+      linenums: True
+  - pymdownx.extra: # Better fenced code blocks, emphasis, footnotes, lists, tables, abbreviations, and raw HTML.
+      pymdownx.betterem:
+        smart_enable: 'all' # Smarter line breaks when emphasising lines.
+  - pymdownx.details # Collapsible admonition-style blocks containing further information.
+  - pymdownx.escapeall # Backslashes escape everything.
+  - pymdownx.caret # Superscripts and insert text.
+  - pymdownx.superfences
+  - pymdownx.tabbed # tabs
+  - pymdownx.tilde # Strikethrough and underlines.
+  - pymdownx.magiclink: # Better links and github references.
+      provider: 'github'
+      repo_url_shortener: true
+      repo_url_shorthand: true
+      social_url_shorthand: true
+      user: 'noahniuwa'
+      repo: 'fnx_docs'
+
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+
+extra_css: [extra.css]

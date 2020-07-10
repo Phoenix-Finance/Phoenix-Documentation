@@ -18,11 +18,19 @@ docs_dir: 'content'
 
 # Top level headings become tabs at the top due to `tabs: true` in the theme.
 nav:
-  - Introduction: index.md
-  - Whitepapers: whitepapers/index.md
-  - Community: community/index.md
-  - Products: products/index.md
-  - FAQs: faqs/index.md
+
+  - About FinNexus: 
+    - Introduction: index.md
+    - Whitepapers: whitepapers/index.md
+    - Community: community/index.md
+    - Products: products/index.md
+    - FAQs: faqs/index.md
+  - Options Protocol:
+    - Introduction:  options/index.md
+    - What are options?:  options/guide.md
+    - Key Terms:  options/terms.md
+    - Documentation:  options/docs.md
+
  
 # These social links will be rendered as icons in the footer, as long as the type corresponds to FontAwesome glyph.
 extra:

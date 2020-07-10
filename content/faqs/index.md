@@ -23,7 +23,7 @@ In ICTO, which is the public sales stage, the unit price of convertible FNX is 0
 We are discussing a presale round to the communities before ICTO within 2 months, and participants in our communities will be enjoying a discount. Further information will be disclosed later in our [official telegram group](https://t.me/FinNexusOfficial).
 
 ### What is the total supply and distribution of FNX tokens?
-![](../_media/fnx-allocation.png)
+![](../img/faqs/fnx-allocation.png)
 
 As in the white paper, the potential total supply of the FNX tokens will be 500 million units, which is the upper limit of the total possible FNX tokens on the market.
 
@@ -40,7 +40,7 @@ Suppose, FinNexus successfully issues 60 million units of convertible FNX in ICT
 
 We can draw a line of the token issuance with the narrations above:
 
-![](../_media/market-sales.png)
+![](../img/faqs/market-sales.png)
 
 Noted that there is an upper limit of 8.3 million FNX tokens in the institutional private sales stage as shown in the chart above. The more conversion is made, the fewer FNX tokens are left on the market. The upper limited of conversion will be 48 million units of convertible FNX, which is 80% of the total amount, provided that Finnexus makes an upper limit sale in ICTO.
 

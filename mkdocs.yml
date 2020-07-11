@@ -25,6 +25,7 @@ nav:
     - Community: community/index.md
     - Products: products/index.md
     - FAQs: faqs/index.md
+    - Add FNX to Your Wallet: community/add_fnx.md
   - Options Protocol:
     - FPO Protocol Overview:  options/index.md
     - What are options?:  options/guide.md

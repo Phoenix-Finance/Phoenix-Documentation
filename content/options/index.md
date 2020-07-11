@@ -194,7 +194,7 @@ In FPO v0.1, all the crypto assets' values, including the collaterals, strike as
 All related token prices except options token will be fed by the oracle and written in the contract.
 All price feeds are exercised in every 5 minutes.
 
-![](../img/options/options07.png "Band Protocol partnership")
+![](../img/options/options07.jpeg "Band Protocol partnership")
 <br>
 <br>
 
@@ -209,7 +209,8 @@ FPO v0.1 has not been audited yet, and can currently be considered experimental 
 FPO v0.1 is free of charge except:
 There is a 0.3% transaction fee when buying and selling options on the FinNexus exchange venue.
 There is a 0.3% fee collected from the holders, when exercising the options at expiration; and a 0.3% fee collected from the liquidator when liquidating.
-User interface
+
+### User interface
 
 FPO v0.1 will provide a user-friendly interface for users to buy and sell the option tokens easily. In the first version, there is no interface for option writers, but one may do the related writing operations through the API.
 

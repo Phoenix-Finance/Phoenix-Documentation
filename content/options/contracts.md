@@ -158,11 +158,11 @@ All price data needed in the FinNexus Options Protocol are stored in this contra
 Each options token is an independent contract which is deployed automatically by the options manager contract. The contract is special ERC(WRC)20 contract with an expiration time. After expiration, the token is invalid and cannot be transferred. The tokens otherwise meet all ERC(WRC)20 standards.
 
 ## Trade Orders Contract
-**Responsibilities**
-* Matches orders for selling and buying.
-* Supplies a tool for market makers.
+**Responsibilities**  
+* Matches orders for selling and buying.  
+* Supplies a tool for market makers.  
 
-This contract  is relatively independent from the core options contracts, it is used for providing liquidity for options tokens.. It helps traders buy and sell options tokens easily. It is intended as a temporary solution for providing liquidity. In later versions we intend to use a more decentralized model of liquidity which would not rely on  trusted market makers.
+This contract  is relatively independent of the core options contracts, it is used for providing liquidity for options tokens. It helps traders buy and sell options tokens easily. It is intended as a temporary solution for providing liquidity. In later versions we intend to use a more decentralized model of liquidity which would not rely on  trusted market makers.
 
 
 

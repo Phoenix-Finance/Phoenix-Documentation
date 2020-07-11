@@ -26,14 +26,16 @@ nav:
     - Products: products/index.md
     - FAQs: faqs/index.md
   - Options Protocol:
-    - Introduction:  options/index.md
+    - FPO Protocol Overview:  options/index.md
     - What are options?:  options/guide.md
     - Key Terms:  options/terms.md
-    - Documentation:  options/docs.md
+    - Smart Contracts:  options/contracts.md
 
  
 # These social links will be rendered as icons in the footer, as long as the type corresponds to FontAwesome glyph.
 extra:
+  extra_javascript:
+    - js/image_zoom.js
   social:
     - icon: 'brands/github'
       link: 'https://github.com/FinNexus'
@@ -56,6 +58,11 @@ theme:
   feature:
     tabs: true
     instant: false
+
+
+plugins:
+    - search
+    
 
 # Extension settings.
 # In addition to the standard extensions, this also requires the PyMdown Extensions by facelessuser: https://github.com/facelessuser/pymdown-extensions
@@ -84,8 +91,4 @@ markdown_extensions:
       social_url_shorthand: true
       user: 'noahniuwa'
       repo: 'fnx_docs'
-
-extra_javascript:
-  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
-
-extra_css: [extra.css]
+ 

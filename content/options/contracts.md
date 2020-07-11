@@ -32,7 +32,7 @@ This is the main contract for FOB 1.0 which is composed of a number of sub contr
 
 ## API Overview
  
-### `**getOptionsTokenInfo()**`
+### `getOptionsTokenInfo()`
 
 **Description:** Gets the information of existing options
 

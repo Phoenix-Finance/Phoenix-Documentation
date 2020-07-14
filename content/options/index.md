@@ -167,7 +167,7 @@ The Liquidation Ratio is the minimum required collateralization ratio for each o
 
 FPO oracles will provide the system with price data used to track whether or not the Liquidation Ratio is breached. Once breached, the positions will be exposed to potential liquidation.
 
-Following the examples above, for a BTC call option with a strike price of $7000, when 6300 ≤ market price P ≤ 9100, the minimum margin for writing one option contract is $3500 (0.5*$7000). If the writer deposits $7000 worth of FNX tokens into the smart contract as the collateral, then the collateralization ratio will be 200% ($7000/$3500).
+Following the examples above, for a BTC call option with a strike price of $7000, when $6300 ≤ market price P ≤ $9100, the minimum margin for writing one option contract is $3500 (0.5 * $7000). If the writer deposits  $7000 worth of FNX tokens into the smart contract as the collateral, then the collateralization ratio will be 200% ( $7000 / $3500).
 
 Due to the uniqueness of the FPO protocol, please note that the collateralization ratio is subject to changes due to the price movement of both the underlying asset and the collateralized assets.
 

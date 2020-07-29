@@ -31,6 +31,10 @@ nav:
     - What are options?:  options/guide.md
     - Key Terms:  options/terms.md
     - Smart Contracts:  options/contracts.md
+  - APIs:
+    - FNX API Overview:  apis/index.md
+    - FNX Token API v0.1 Alpha:  apis/token.md
+
 
  
 # These social links will be rendered as icons in the footer, as long as the type corresponds to FontAwesome glyph.

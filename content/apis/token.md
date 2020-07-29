@@ -10,53 +10,46 @@ The API makes use of Web3 to interact directly with the blockchain and also uses
 
 A single route at `/api/v1` returns all of the API data, while individual pieces of data may also be queried at the specific routes listed below.
 
+## Routes
 
-# Get Started Locally:
-```
-$ npm install
-$ npm start
-```
+### `Get all token data` 
 
-# Routes
+> [`GET https://fnx-api.herokuapp.com/api/v1`](https://fnx-api.herokuapp.com/api/v1)
 
-All data: 
-[`GET https://fnx-api.herokuapp.com/api/v1`](https://fnx-api.herokuapp.com/api/v1)
+### `Max supply:`
+> [`GET https://fnx-api.herokuapp.com/api/v1/maxAmount`](https://fnx-api.herokuapp.com/api/v1/maxAmount) 
 
-Max supply: 
-[`GET https://fnx-api.herokuapp.com/api/v1/maxAmount`](https://fnx-api.herokuapp.com/api/v1/maxAmount)
+### `Minted FNX`
+> [`GET https://fnx-api.herokuapp.com/api/v1/minted`](https://fnx-api.herokuapp.com/api/v1/minted)
 
-Minted FNX: 
-[`GET https://fnx-api.herokuapp.com/api/v1/minted`](https://fnx-api.herokuapp.com/api/v1/minted)
+### `Current total supply`
+> [`GET https://fnx-api.herokuapp.com/api/v1/currentTotalSupply`](https://fnx-api.herokuapp.com/api/v1/currentTotalSupply) 
 
-Current total supply: 
-[`GET https://fnx-api.herokuapp.com/api/v1/currentTotalSupply`](https://fnx-api.herokuapp.com/api/v1/currentTotalSupply)
+### `Operational reserves`
+> [`GET https://fnx-api.herokuapp.com/api/v1/opReserves`](https://fnx-api.herokuapp.com/api/v1/opReserves)    
 
-Operational reserves: 
-[`GET https://fnx-api.herokuapp.com/api/v1/opReserves`](https://fnx-api.herokuapp.com/api/v1/opReserves)
+### `Team and founding investors`
+> [`GET https://fnx-api.herokuapp.com/api/v1/teamAndFounders`](https://fnx-api.herokuapp.com/api/v1/teamAndFounders) 
 
+### `Variable issuance`
+> [`GET https://fnx-api.herokuapp.com/api/v1/variableIssuance`](https://fnx-api.herokuapp.com/api/v1/variableIssuance)
 
-Team and founding investors: 
-[`GET https://fnx-api.herokuapp.com/api/v1/teamAndFounders`](https://fnx-api.herokuapp.com/api/v1/teamAndFounders)
+### `Institutional investors`
+> [`GET https://fnx-api.herokuapp.com/api/v1/institutional`](https://fnx-api.herokuapp.com/api/v1/institutional) 
 
-Variable issuance: 
-[`GET https://fnx-api.herokuapp.com/api/v1/variableIssuance`](https://fnx-api.herokuapp.com/api/v1/variableIssuance)
+### `Burnt FNX`
+> [`GET https://fnx-api.herokuapp.com/api/v1/burned`](https://fnx-api.herokuapp.com/api/v1/burned)    
 
-Institutional investors: 
-[`GET https://fnx-api.herokuapp.com/api/v1/institutional`](https://fnx-api.herokuapp.com/api/v1/institutional)
+### `Converted FNX`
+> [`GET https://fnx-api.herokuapp.com/api/v1/converted`](https://fnx-api.herokuapp.com/api/v1/converted)
 
-Burnt FNX: 
-[`GET https://fnx-api.herokuapp.com/api/v1/burned`](https://fnx-api.herokuapp.com/api/v1/burned)
+### `FNX in Circulation` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/fnxInCirculation`](https://fnx-api.herokuapp.com/api/v1/fnxInCirculation)
 
-Converted FNX: 
-[`GET https://fnx-api.herokuapp.com/api/v1/converted`](https://fnx-api.herokuapp.com/api/v1/converted)
+### `FNX Locked in FPO`
+> [`GET https://fnx-api.herokuapp.com/api/v1/lockedFnx`](https://fnx-api.herokuapp.com/api/v1/lockedFnx)    
 
-FNX in Circulation: 
-[`GET https://fnx-api.herokuapp.com/api/v1/fnxInCirculation`](https://fnx-api.herokuapp.com/api/v1/fnxInCirculation)
-
-FNX Locked in FPO: 
-[`GET https://fnx-api.herokuapp.com/api/v1/lockedFnx`](https://fnx-api.herokuapp.com/api/v1/lockedFnx)
-
-FNX Circulation with locked FNX deducted: 
-[`GET https://fnx-api.herokuapp.com/api/v1/    fnxInCirculationDeducted
+### `FNX Circulation with locked FNX deducted` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/    fnxInCirculationDeducted
 `](https://fnx-api.herokuapp.com/api/v1/    fnxInCirculationDeducted
 )

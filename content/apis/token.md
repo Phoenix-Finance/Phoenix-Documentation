@@ -52,6 +52,5 @@ A single route at `/api/v1` returns all of the API data, while individual pieces
 > [`GET https://fnx-api.herokuapp.com/api/v1/lockedFnx`](https://fnx-api.herokuapp.com/api/v1/lockedFnx)    
 
 ### `FNX Circulation with locked FNX deducted` 
-> [`GET https://fnx-api.herokuapp.com/api/v1/    fnxInCirculationDeducted
-`](https://fnx-api.herokuapp.com/api/v1/    fnxInCirculationDeducted
+> [`GET https://fnx-api.herokuapp.com/api/v1/fnxInCirculationDeducted`](https://fnx-api.herokuapp.com/api/v1/fnxInCirculationDeducted
 )

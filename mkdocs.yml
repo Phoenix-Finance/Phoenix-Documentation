@@ -32,7 +32,7 @@ nav:
     - Key Terms:  options/terms.md
     - Smart Contracts:  options/contracts.md
   - APIs:
-    - FNX API Overview:  apis/index.md
+    - Overview:  apis/index.md
     - FNX Token API v0.1 Alpha:  apis/token.md
 
 

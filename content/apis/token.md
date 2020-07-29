@@ -14,43 +14,43 @@ A single route at `/api/v1` returns all of the API data, while individual pieces
 
 ## Routes
 
-### `Get all token data` 
+### `Get all token data:` 
 
 > [`GET https://fnx-api.herokuapp.com/api/v1`](https://fnx-api.herokuapp.com/api/v1)
 
 ### `Max supply:`
 > [`GET https://fnx-api.herokuapp.com/api/v1/maxAmount`](https://fnx-api.herokuapp.com/api/v1/maxAmount) 
 
-### `Minted FNX`
+### `Minted FNX:`
 > [`GET https://fnx-api.herokuapp.com/api/v1/minted`](https://fnx-api.herokuapp.com/api/v1/minted)
 
-### `Current total supply`
+### `Current total supply:`
 > [`GET https://fnx-api.herokuapp.com/api/v1/currentTotalSupply`](https://fnx-api.herokuapp.com/api/v1/currentTotalSupply) 
 
-### `Operational reserves`
+### `Operational reserves:`
 > [`GET https://fnx-api.herokuapp.com/api/v1/opReserves`](https://fnx-api.herokuapp.com/api/v1/opReserves)    
 
-### `Team and founding investors`
+### `Team and founding investors:`
 > [`GET https://fnx-api.herokuapp.com/api/v1/teamAndFounders`](https://fnx-api.herokuapp.com/api/v1/teamAndFounders) 
 
-### `Variable issuance`
+### `Variable issuance:`
 > [`GET https://fnx-api.herokuapp.com/api/v1/variableIssuance`](https://fnx-api.herokuapp.com/api/v1/variableIssuance)
 
-### `Institutional investors`
+### `Institutional investors:`
 > [`GET https://fnx-api.herokuapp.com/api/v1/institutional`](https://fnx-api.herokuapp.com/api/v1/institutional) 
 
-### `Burnt FNX`
+### `Burnt FNX:`
 > [`GET https://fnx-api.herokuapp.com/api/v1/burned`](https://fnx-api.herokuapp.com/api/v1/burned)    
 
-### `Converted FNX`
+### `Converted FNX:`
 > [`GET https://fnx-api.herokuapp.com/api/v1/converted`](https://fnx-api.herokuapp.com/api/v1/converted)
 
-### `FNX in Circulation` 
+### `FNX in circulation:` 
 > [`GET https://fnx-api.herokuapp.com/api/v1/fnxInCirculation`](https://fnx-api.herokuapp.com/api/v1/fnxInCirculation)
 
-### `FNX Locked in FPO`
+### `FNX locked in FPO:`
 > [`GET https://fnx-api.herokuapp.com/api/v1/lockedFnx`](https://fnx-api.herokuapp.com/api/v1/lockedFnx)    
 
-### `FNX Circulation with locked FNX deducted` 
+### `FNX in circulation with locked FNX deducted:` 
 > [`GET https://fnx-api.herokuapp.com/api/v1/fnxInCirculationDeducted`](https://fnx-api.herokuapp.com/api/v1/fnxInCirculationDeducted
 )

@@ -4,7 +4,9 @@
 
 This is an API for getting data about the FNX token and the FinNexus Options Protocol on the Wanchain blockchain.
 
-[Live api: https://fnx-api.herokuapp.com/api/v1](https://fnx-api.herokuapp.com/api/v1)
+## API URL
+
+[https://fnx-api.herokuapp.com/api/v1](https://fnx-api.herokuapp.com/api/v1)
 
 The API makes use of Web3 to interact directly with the blockchain and also uses smart contract ABIs to connect with smart contract addresses and get access to their functions and events. 
 

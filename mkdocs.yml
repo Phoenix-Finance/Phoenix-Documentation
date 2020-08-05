@@ -50,6 +50,8 @@ extra:
       link: 'https://www.reddit.com/r/finnexus/'
     - icon: 'brands/medium'
       link: 'https://medium.com/finnexus/'
+    - icon: 'brands/discord'
+      link: 'https://discord.gg/bCDMHN7'
 
 # This set of documentation uses the MkDocs Material theme by squidfunk: https://github.com/squidfunk/mkdocs-material
 theme:

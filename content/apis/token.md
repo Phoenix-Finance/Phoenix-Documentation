@@ -12,7 +12,8 @@ The API makes use of Web3 to interact directly with the blockchain and also uses
 
 A single route at `/api/v1` returns all of the API data, while individual pieces of data may also be queried at the specific routes listed below.
 
-## Routes
+## Full Info Routes
+*These routes return raw values, formatted values, and other associated information as a simple JSON object.*
 
 ### `Get all token data:` 
 
@@ -58,4 +59,11 @@ A single route at `/api/v1` returns all of the API data, while individual pieces
 > [`GET https://fnx-api.herokuapp.com/api/v1/ethCurrentTotalSupply`](https://fnx-api.herokuapp.com/api/v1/ethCurrentTotalSupply)
 
 
+## Raw Number Routes 
+*These routes return raw numebrs only, as required for consumption by certain other APIs.*
 
+### `Current total supply of FNX (Raw Number):` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/currentTotalSupplyRaw`](https://fnx-api.herokuapp.com/api/v1/currentTotalSupplyRaw)
+
+### `FNX in circulation (Raw Number):` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/fnxInCirculationRaw`](https://fnx-api.herokuapp.com/api/v1/fnxInCirculationRaw)

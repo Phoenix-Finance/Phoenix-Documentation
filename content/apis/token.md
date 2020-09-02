@@ -65,6 +65,9 @@ A single route at `/api/v1` returns all of the API data, while individual pieces
 ### `Current total supply of FNX (Raw Number):` 
 > [`GET https://fnx-api.herokuapp.com/api/v1/currentTotalSupplyRaw`](https://fnx-api.herokuapp.com/api/v1/currentTotalSupplyRaw)
 
+### `Current total supply of FNX Decimal Conversion (Raw Number):` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/currentTotalSupplyRawDecimals`](https://fnx-api.herokuapp.com/api/v1/currentTotalSupplyRawDecimals)
+
 ### `FNX in circulation (Raw Number):` 
 > [`GET https://fnx-api.herokuapp.com/api/v1/fnxInCirculationRaw`](https://fnx-api.herokuapp.com/api/v1/fnxInCirculationRaw)
 

@@ -26,11 +26,13 @@ nav:
     - Products: products/index.md
     - FAQs: faqs/index.md
     - Add FNX to Your Wallet: community/add_fnx.md
-  - Options Protocol:
-    - FPO Protocol Overview:  options/index.md
-    - What are options?:  options/guide.md
+  - Options Protocol (FPO):
+    - Introduction:  options/index.md
+    - What are options?: options/guide.md
     - Key Terms:  options/terms.md
-    - Smart Contracts:  options/contracts.md
+    - FPO v0.1:  options/v0.1.md
+    - v0.1 Smart Contracts:  options/contracts.md
+    - FPO v1.0:  options/v1.0.md
   - APIs:
     - Overview:  apis/index.md
     - FNX Token API v0.1 Alpha:  apis/token.md

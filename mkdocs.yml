@@ -23,9 +23,16 @@ nav:
     - Introduction: index.md
     - Whitepapers: whitepapers/index.md
     - Community: community/index.md
-    - Products: products/index.md
     - FAQs: faqs/index.md
     - Add FNX to Your Wallet: community/add_fnx.md
+  - FinNexus Token (FNX): 
+    - Tokenomics: economics/index.md
+  - Products: 
+    - Introduction: products/index.md
+    - Liquidity Mining: products/liquidity.md
+    - Jack's Pot: products/jackspot.md
+    - Wandora Box: products/wandora.md
+
   - Options Protocol (FPO):
     - Introduction:  options/index.md
     - What are options?: options/guide.md

@@ -26,7 +26,7 @@ nav:
     - FAQs: faqs/index.md
     - Add FNX to Your Wallet: community/add_fnx.md
   - FinNexus Token (FNX): 
-    - Tokenomics: economics/index.md
+    - Tokenomics: token/index.md
   - Products: 
     - Introduction: products/index.md
     - Liquidity Mining: products/liquidity.md

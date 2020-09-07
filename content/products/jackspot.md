@@ -12,7 +12,7 @@ Unlike a typical lottery where you lose the funds spent on tickets, with Jack’
 
 ## How to Access Jack's Pot
 
-You can access Jack’s Pot either through the [web interface](https://jackspot.finnexus.app/#/) or through the Wan Wallet DApp store. You can download the wallet from the Wanchain home page at [https://www.wanchain.org/getstarted/](https://www.wanchain.org/getstarted/), and you can find wallet guides at [http://wanchain.guide/](http://wanchain.guide/) and [http://explorewanchain.org/](http://explorewanchain.org/).
+You can access Jack’s Pot either through the [web interface](https://jackspot.finnexus.app/#/) or through the Wan Wallet DApp store. You can download the wallet from the Wanchain home page at [https://www.wanchain.org/getstarted/](https://www.wanchain.org/getstarted/), and you can find wallet guides at [https//wanchain.guide/](https//wanchain.guide/) and [https//explorewanchain.org/](https//explorewanchain.org/).
 
 <center>See this video guide for how to add a DApp in the Wanchain Wallet DApp store:</center>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/5gm2Yq_2S1k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center><center>*Video Guide*</center>

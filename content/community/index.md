@@ -11,7 +11,7 @@
 # Partners
 
 [Genesis Group](https://www.genesis-group.com/)  
-[Consensus Lab](http://consensus-lab.com/)  
+[Consensus Lab](https://consensus-lab.com/)  
 [Hillstone Partners](https://www.hillstonepe.co/)  
 [Bitrue](https://www.bitrue.com/)  
 [UangMe](https://www.uangme.id/)  

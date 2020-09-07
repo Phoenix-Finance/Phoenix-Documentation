@@ -47,7 +47,7 @@ To stake and begin earning FNX liquidity mining rewards:
 
 1. After successfully contributing your crypto (you will need to approve FNX and/or ETH to interact with the Uniswap smart contract first), liquidity providers will receive UNI-V2 pool tokens. These UNI-V2 tokens represent your share of the FNX/ETH liquidity pool. You can track the size of the pool and your share of it [here](https://etherscan.io/token/0x722885cab8be10b27f359fcb225808fe2af07b16#balances). The share of liquidity provided by FinNexus Foundation located [here](https://etherscan.io/token/0x722885cab8be10b27f359fcb225808fe2af07b16?a=0xe596470d291cb2d32ec111afc314b07006690c72) will of course be excluded from earning rewards. **Please note that merely providing liquidity will NOT earn you FNX rewards, you MUST complete the next step.**
 
-1. Visit the mining UI (which will be on [liquidity.finnexus.io](http://liquidity.finnexus.io)). With the UNI-V2 tokens from the previous step in your address, enter the amount of FNX/ETH UNI-V2 tokens you want to stake from your wallet. Once you have completed this step, you will begin to accrue FNX rewards.
+1. Visit the mining UI (which will be on [liquidity.finnexus.io](https//liquidity.finnexus.io)). With the UNI-V2 tokens from the previous step in your address, enter the amount of FNX/ETH UNI-V2 tokens you want to stake from your wallet. Once you have completed this step, you will begin to accrue FNX rewards.
 
 ## Distribution of FNX
 
@@ -61,7 +61,7 @@ The specific distribution rules will be as follows:
 
 1. FNX rewards accrue in real-time. Token holders who have staked their FNX/ETH UNI-V2 tokens will need to “claim” their FNX token rewards on-chain. Unlike other yield farming programs, these rewards will not be automatically distributed. Please be aware of the ETH gas fees required to claim your FNX rewards.
 
-1. Liquidity providers also earn a pro-rata portion of the trading fees that accrue to the [pool](https://uniswap.info/pair/0x722885cab8be10b27f359fcb225808fe2af07b16). With each transaction, the Uniswap Protocol assesses a 0.3% fee that accrues to the pool itself with each trade. When liquidity providers “withdraw” their UNI-V2 tokens from the mining UI (will be on [liquidity.finnexus.io](http://liquidity.finnexus.io)), they will also be able to access their portion of accumulated transaction fees in the FNX/ETH liquidity pool.
+1. Liquidity providers also earn a pro-rata portion of the trading fees that accrue to the [pool](https://uniswap.info/pair/0x722885cab8be10b27f359fcb225808fe2af07b16). With each transaction, the Uniswap Protocol assesses a 0.3% fee that accrues to the pool itself with each trade. When liquidity providers “withdraw” their UNI-V2 tokens from the mining UI (will be on [liquidity.finnexus.io](https//liquidity.finnexus.io)), they will also be able to access their portion of accumulated transaction fees in the FNX/ETH liquidity pool.
 
 1. The time for depositing UNI-V2 tokens and the start of the FNX rewards accrual will be announced shortly.
 

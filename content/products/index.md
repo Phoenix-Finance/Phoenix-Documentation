@@ -10,5 +10,5 @@ FinNexus's main product is FPO (FinNexus Protocol for Options). The protocol has
 
 ## Wanchain DApp guides
 
-Guides for using the Wanchain Wallet and DApp store can be found at [Wanchain.guide](http://wanchain.guide/) and at [explorewanchain.org](https://www.explorewanchain.org/#/wallet_and_tools/wan-wallet)
+Guides for using the Wanchain Wallet and DApp store can be found at [Wanchain.guide](https://wanchain.guide/) and at [explorewanchain.org](https://www.explorewanchain.org/#/wallet_and_tools/wan-wallet)
 

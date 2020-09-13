@@ -1,20 +1,20 @@
 # The FinNexus Token - FNX
 
-The FNX token is the network token for the entire suite of FinNexus protocol clusters. It serves a variety of purposes including payment medium, settlement medium, collateral, liquidity minin incentive, and more. In our flagship FinNexus Protocol for Options (FPO) product, its most important role is that of collateral. It is the value from which synthetic options may be generated. As FPO's options are all over-collateralized, the value of the assets in the FPO pool must always be enough to cover outstanding options contracts, and FNX will play a key role in providing that value. 
+The FNX token is the network token for the entire suite of FinNexus protocol clusters. It serves a variety of purposes including payment medium, settlement medium, collateral, liquidity mining, and more. In our flagship FinNexus Protocol for Options (FPO) product, its most important role is that of collateral. It is the value from which synthetic options may be generated. As FPO's options are all over-collateralized, the value of the assets in the FPO pool must always be enough to cover outstanding options contracts, and FNX will play a key role in providing that value. 
 
 ## Tokenomics
 
-| **Items**                                                               | **Amount**    | **Percentage** | **status**         | **Time to Release/Burn**     | **Duration of Release**                      |
+| **Items**                                                               | **Amount**    | **Percentage** | **Status**      | **Time to Release/Burn**     | **Duration of Release**                      |
 |---------------------------------------------------------------------|-----------|------------|----------------|--------------------------|-------------------------------------------|
-| **FNX Maximum Supply**                                                  | **500000000** | **100.00%**   | **-**              | **-**                        | **Coded in Smart Contract**                   |
-| Institutional Investors                                             | 8333333   | 1.67%      | locked         | 08/26/20                 | 12 months                                 |
-| Team and Founding Investors                                         | 25000000  | 5.00%      | locked         | 05/26/21                 | 30 months                                 |
-| Reserves for mining incentives and DAO building                     | 350000000 | 70.00%     | Locked         | TBD                      | unlock according to the mining incentives |
-| Insurance Pool                                                      | 25000000  | 5.00%      | locked         | -                        | -                                         |
-| Operation Reserves for marketing expenses, gas fees, salaries, etc. | 22340567  | 4.47%      | locked         | 05/26/21                 | 60 months                                 |
-| reserved for future token sales                                     | 25000000  | 5.00%      | locked         | TBD                      | TBD                                       |
-| ICTO Token Burned and Converted                                     | 30580313  | 6.12%      | Burned         | Burned before 2020-08-23 | -                                         |
-| Circulation                                                         | 13745786  | 2.75%      | In circulation | -                        | -                                         |
+| **FNX Maximum Supply**                                                  | **500000000** | **100.00%**   | **-**              | **-**                        | **Set in smart contract** |
+| Institutional investors                                            | 8333333   | 1.67%      | Locked         | 08/26/20                 | 12 months                                 |
+| Team reserves                               | 25000000  | 5.00%      | Locked         | 05/26/21                 | 30 months                                 |
+| Community rewards fund (liquidity mining and DAO) | 350000000 | 70.00%     | Locked         | TBD                      | During periods of liquidity mining |
+| Insurance Pool                                                      | 25000000  | 5.00%      | Locked         | -                        | -                                         |
+| Operational Reserves | 22340567  | 4.47%      | Locked         | 05/26/21                 | 60 months                                 |
+| Future token sales                                    | 25000000  | 5.00%      | locked         | TBD                      | TBD                                       |
+| Burnt tokens                          | 30580313  | 6.12%      | Burnt        | Burnt before 2020-08-23 | -                                         |
+| Circulation                                                         | 13745786  | 2.75%      | Circulating | -                        | -                                         |
 
 *(Please note that on 21st August 2020, FinNexus moved 1 million $FNX from the Community Rewards Fund (Mining Incentives & DAO) to the Uniswap mining smart contract address, in the mining pool, as stated [here](https://medium.com/finnexus/introducing-fnx-liquidity-mining-rewards-on-uniswap-24493fbe49d8).)*
 

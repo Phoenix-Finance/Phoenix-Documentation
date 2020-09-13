@@ -34,8 +34,8 @@ A single route at `/api/v1` returns all of the API data, while individual pieces
 ### `Team and founding investors:`
 > [`GET https://fnx-api.herokuapp.com/api/v1/teamAndFounders`](https://fnx-api.herokuapp.com/api/v1/teamAndFounders) 
 
-### `Variable issuance:`
-> [`GET https://fnx-api.herokuapp.com/api/v1/variableIssuance`](https://fnx-api.herokuapp.com/api/v1/variableIssuance)
+### `Community rewards:`
+> [`GET https://fnx-api.herokuapp.com/api/v1/communityRewards`](https://fnx-api.herokuapp.com/api/v1/communityRewards)
 
 ### `Institutional investors:`
 > [`GET https://fnx-api.herokuapp.com/api/v1/institutional`](https://fnx-api.herokuapp.com/api/v1/institutional) 
@@ -58,6 +58,8 @@ A single route at `/api/v1` returns all of the API data, while individual pieces
 ### `Current total supply of FNX on Ethereum:` 
 > [`GET https://fnx-api.herokuapp.com/api/v1/ethCurrentTotalSupply`](https://fnx-api.herokuapp.com/api/v1/ethCurrentTotalSupply)
 
+### `Current total supply of FNX on Wanchain:` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/wanCurrentTotalSupply`](https://fnx-api.herokuapp.com/api/v1/wanCurrentTotalSupply)
 
 ## Raw Number Routes 
 *These routes return raw numebrs only, as required for consumption by certain other APIs.*
@@ -76,3 +78,12 @@ A single route at `/api/v1` returns all of the API data, while individual pieces
 
 ### `Current total supply of FNX on Ethereum (Raw Number):` 
 > [`GET https://fnx-api.herokuapp.com/api/v1/ethCurrentTotalSupplyRaw`](https://fnx-api.herokuapp.com/api/v1/ethCurrentTotalSupplyRaw)
+
+### `Current total supply of FNX on Wanchain (Raw Number):` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/wanCurrentTotalSupplyRaw`](https://fnx-api.herokuapp.com/api/v1/wanCurrentTotalSupplyRaw)
+
+### `Current total supply of FNX on Ethereum Decimal Conversion (Raw Number):` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/ethCurrentTotalSupplyRawDecimals`](https://fnx-api.herokuapp.com/api/v1/ethCurrentTotalSupplyRawDecimals)
+
+### `Current total supply of FNX on Wanchain Decimal Conversion (Raw Number):` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/wanCurrentTotalSupplyRawDecimals`](https://fnx-api.herokuapp.com/api/v1/wanCurrentTotalSupplyRawDecimals)

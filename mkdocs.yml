@@ -43,6 +43,8 @@ nav:
   - APIs:
     - Overview:  apis/index.md
     - FNX Token API v0.1 Alpha:  apis/token.md
+  - Terminology:
+    - Overview:  terminology/index.md
 
 
  

@@ -12,8 +12,8 @@ Where:
 
 C = units of collateral "ex: 1,000,000 FNX"  
 C<sup>rc</sup> = price of one unit of collateral in the reference currency  "ex: $00.10"
-A = units of asset "ex: 38 ETH"  
-A<sup>rc</sup> = price of one unit of asset in the reference currency  "ex: 38"
+A = units of asset "ex: 38 ETH"    
+A<sup>rc</sup> = price of one unit of asset in the reference currency  "ex: 38"  
 rc = referrence currency "ex: USD"  
 
 CR = 1000000 * 00.10 / 38 * 400 = 6.58 or 658%
@@ -24,7 +24,7 @@ The Minimum Collateralization Ratio (MCR) is the minimum required value of the  
 
 **Example 1: Issuing DAI with MakerDAO** 
 
-MakerDAO is one of the most well-known and widely used defi appplications in the world. It allows users to generate a DAI token which is a synthetic asset meant to track the price of the US dollar. In order to issue new DAI, a user must lock up collateral which is higher in value than the amount of die they want to generate. ETH and other select assets are able to be used as collateral. MakerDAO requires that the value of the collateral is 150% or more than the value of the amount of DAI to be generated, or other words, that the Collateralization Ratio (CR) is not lower than 150%. ***In this case, 150% is the MCR.*** Values are defined using USD as a reference currency. Therefore, in order to generate 200 DAI, one must lock up at least 600 USD worth of ETH or other accepted collateral type. This ensures that there is always a sufficient value of collateral to back up the issued DAI in case the price of the collateral falls. If value of the collateral falls too close to the value of the synthetic asset that it backs (DAI), then it will be liquidated.
+MakerDAO is one of the most well-known and widely used defi appplications in the world. It allows users to generate a DAI token which is a synthetic asset meant to track the price of the US dollar. In order to issue new DAI, a user must lock up collateral which is higher in value than the amount of die they want to generate. ETH and other select assets are able to be used as collateral. MakerDAO requires that the value of the collateral is 150% or more than the value of the amount of DAI to be generated, or other words, that the Collateralization Ratio (CR) is not lower than 150%. ***In this case, 150% is the MCR.*** Values are defined using USD as a reference currency. Therefore, in order to generate 200 DAI, one must lock up at least 300 USD worth of ETH or other accepted collateral type. This ensures that there is always a sufficient value of collateral to back up the issued DAI in case the price of the collateral falls. If value of the collateral falls too close to the value of the synthetic asset that it backs (DAI), then it will be liquidated.
 
 **Example 2: Writing Options with FPO v0.1 (legacy version)** 
 

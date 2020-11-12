@@ -12,6 +12,7 @@ Where:
 
 C = units of collateral "ex: 1,000,000 FNX"  
 A = units of asset "ex: 38 ETH" 
+
 C<sup>rc</sup> = price of one unit of collateral in the reference currency  "ex: $00.10"  
 A<sup>rc</sup> = price of one unit of asset in the reference currency  "ex: 400"  
 rc = referrence currency "ex: USD"  

@@ -1,4 +1,4 @@
-# How to Add FNX to Your Desktop Wallet
+# How to Add FNX to Your Wanchain Desktop Wallet
 
 1) Install the official Wanchain Desktop Wallet ([download here](https://www.wanchain.org/getstarted/), see wallet guides [here](https://www.explorewanchain.org/#/wallet_and_tools/wan-wallet) and [here](https://wanchain.guide/)). The mobile wallet is also supported but this guide only has specific instructions for adding FNX in the desktop wallet  
 

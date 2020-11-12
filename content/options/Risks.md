@@ -40,4 +40,22 @@ Also, to protect against possible flash loan exploits, a pool participant can on
 
 ### (1) Multi-asset consideration and settlement risks
 
-FPO v1.0 has provided friendly choices for option buyers by setting their customized option terms when buying options, including a selection of currencies (ETH, USDC, or FNX) to pay.
+FPO v1.0 has provided friendly choices for option buyers by setting their customized option terms when buying options, including a selection of currencies to pay. However, different from the pools with single asset on Ethereum, the pool on Wanchain is in a hybrid form with both WAN and FNX as the acceptable assets. This liquidity pool is the sole counterparty for all options. When selling or exercising options, the holder is trading against the pool, therefore, the crypto assets as consideration or settlement are transacted from the compositions in the pool. Due to the pool’s multi-asset nature, when selling or exercising options, users will get a basket of tokens that reflects the current composition of these assets (WAN/FNX) in the pool. Therefore, users will get risk exposure to the crypto assets in the pool.
+
+### (2) Options of American type
+
+Options on FPO v1.0 are all American types and options holders should exercise in-the-money options manually. Please do remember to exercise your ITM options, or you will lose your profits upon expiration.
+
+## 3. Smart contract risks
+
+The audit process of FPO v1.0 is still in progress. The whole DeFi is still in the early and experimenting stage. Please keep cautious of the smart contract risks and do not put your life savings inside. 
+
+## 4. Oracle risks
+
+FinNexus has partnered with Chainlink, the leading decentralized blockchain data provider for bringing off-chain data to smart contracts on Ethereum and other blockchains. FPO v1.0 applies decentralized price feeds of crypto asset pairs on Ethereum, provided by ChainLink.
+
+Chainlink is a decentralized oracle network that enables smart contracts to securely access off-chain data feeds, web APIs, and traditional bank payments. It is well known for providing highly secure and reliable oracles.
+
+Also, FinNexus is cooperating with Band Protocol for price feeds on Wanchain.
+
+Nevertheless, oracles and external price data aggregation can be considered as a potential risk to the stability of the FPO.

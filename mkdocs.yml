@@ -43,6 +43,7 @@ nav:
     - Making FPO v1.0 Secure: options/Safe and Secure.md
     
   - FinNexus Token (FNX): 
+    - FNX Address: community/FNX address.md
     - Tokenomics: token/index.md
     - Add FNX to Wanchain Wallet: community/add_fnx.md
     

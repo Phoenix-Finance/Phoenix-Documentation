@@ -29,7 +29,7 @@ nav:
     - Tokenomics: token/index.md
   - Products: 
     - Introduction: products/index.md
-    - FinNexus Protocol for Options (FPO) :/options
+    - FinNexus Protocol for Options (FPO): options/index.md
     - Liquidity Mining: products/liquidity.md
     - Jack's Pot: products/jackspot.md
     - Wandora Box: products/wandora.md

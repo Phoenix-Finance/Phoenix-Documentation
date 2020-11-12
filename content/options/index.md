@@ -17,8 +17,8 @@ v1.0 introduces the innovative Multi-Asset Single Pool (MASP) model for decentra
 
 ## Differences From Perspective of Users
 
-From the options buyer's perspective, both protocols are broadly similar. Both allow for the buying, selling, and exercising of a variety of decentralized options.
+From the options buyer's perspective, a clear benefit to options buyers in FPO v1.0 is that they can choose the terms of the options at their own discretion; while in v0.1, all options are predetermined by the sellers. As the liquidity of options is shared in the pool, FPO v1.0 will have little price slippage and enjoy much deeper liquidity.
 
-One of the most significant difference between the two versions is on the option writer's side. With the v0.1 model, options writers may specify exactly the individual options they wish to issue. While this does give writers greater control, it also puts them at greater risk. When using the v1.0 model, the options writers simply contribute liquidity to liquidity/collateral pools, and all options are generated from the pooled liquidity. The rewards and risks are shared proportionally amongst all liquidity providers. This gives liquidity providers the opportunity to diversify the concentrated risks faced by a single option writer, while share rewards from the option premiums in the pool.
+From the option writer's perspective, with the v0.1 model, options writers may specify exactly the individual options they wish to issue. While this does give writers greater control, it also puts them at greater risk. When using the v1.0 model, the options writers simply contribute liquidity to liquidity/collateral pools, and all options are generated from the pooled liquidity. The rewards and risks are shared proportionally amongst all liquidity providers. This gives liquidity providers the opportunity to diversify the concentrated risks faced by a single option writer, while share rewards from the option premiums in the pool.
 
 For a more in depth look into v0.1, v1.0, and for information about options in general, please continue reading the other articles in this section.

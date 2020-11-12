@@ -25,8 +25,7 @@ nav:
     - Community: community/index.md
     - FAQs: faqs/index.md
     - Add FNX to Your Wallet: community/add_fnx.md
-  - FinNexus Token (FNX): 
-    - Tokenomics: token/index.md
+
   - Products: 
     - Introduction: products/index.md
     - FinNexus Protocol for Options (FPO): options/index.md
@@ -42,6 +41,9 @@ nav:
     - v0.1 Smart Contracts:  options/contracts.md
     - FPO v1.0:  options/v1.0.md
     - Making FPO v1.0 Secure: options/Safe and Secure.md
+    
+  - FinNexus Token (FNX): 
+    - Tokenomics: token/index.md
     
   - APIs:
     - Overview:  apis/index.md

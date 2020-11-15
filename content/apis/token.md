@@ -66,6 +66,16 @@ A single route at `/api/v1` returns all of the API data, while individual pieces
 ## FinNexus Protocol For Options (FPO) Routes
 *These return information about FPO.*
 
+ 
+### `FPO total value locked on all chains` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/fpoTvl`](https://fnx-api.herokuapp.com/api/v1/fpoTvl)
+
+### `FPO total value locked on Wanchain` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/fpoTvlEth`](https://fnx-api.herokuapp.com/api/v1/fpoTvlEth)
+
+### `FPO total value locked on Ethereum` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/fpoTvlWan`](https://fnx-api.herokuapp.com/api/v1/fpoTvlWan)
+
 ### `FPO WAN total value on Wanchain pool` 
 > [`GET https://fnx-api.herokuapp.com/api/v1/wan_wanPoolTotalValue`](https://fnx-api.herokuapp.com/api/v1/wan_wanPoolTotalValue)
 

@@ -61,6 +61,36 @@ A single route at `/api/v1` returns all of the API data, while individual pieces
 ### `Current total supply of FNX on Wanchain:` 
 > [`GET https://fnx-api.herokuapp.com/api/v1/wanCurrentTotalSupply`](https://fnx-api.herokuapp.com/api/v1/wanCurrentTotalSupply)
 
+
+
+## FinNexus Protocol For Options (FPO) Routes
+*These return information about FPO.*
+
+### `FPO WAN total value on Wanchain pool` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/wan_wanPoolTotalValue`](https://fnx-api.herokuapp.com/api/v1/wan_wanPoolTotalValue)
+
+### `FPO FNX total value on Wanchain pool` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/wan_fnxPoolTotalValue`](https://fnx-api.herokuapp.com/api/v1/wan_fnxPoolTotalValue)
+
+### `FPO FNX total value in FNX Ethereum Pool` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/eth_fnxPoolTotalValue`](https://fnx-api.herokuapp.com/api/v1/eth_fnxPoolTotalValue)
+
+### `FPO USDC total value in USDC Ethereum Pool` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/eth_usdcPoolTotalValue`](https://fnx-api.herokuapp.com/api/v1/eth_usdcPoolTotalValue)
+
+### `FPO WAN total amount on Wanchain pool` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/wan_wanPoolTotal`](https://fnx-api.herokuapp.com/api/v1/wan_wanPoolTotal)
+
+### `FPO FNX total amount on Wanchain pool` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/wan_fnxPoolTotal`](https://fnx-api.herokuapp.com/api/v1/wan_fnxPoolTotal)
+
+### `FPO FNX total amount in FNX Ethereum Pool` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/eth_fnxPoolTotal`](https://fnx-api.herokuapp.com/api/v1/eth_fnxPoolTotal)
+
+### `FPO USDC total amount in USDC Ethereum Pool` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/eth_usdcPoolTotal`](https://fnx-api.herokuapp.com/api/v1/eth_usdcPoolTotal)
+
+
 ## Raw Number Routes 
 *These routes return raw numebrs only, as required for consumption by certain other APIs.*
 

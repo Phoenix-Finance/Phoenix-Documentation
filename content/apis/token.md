@@ -46,14 +46,14 @@ A single route at `/api/v1` returns all of the API data, while individual pieces
 <!-- ### `Converted FNX:`
 > [`GET https://fnx-api.herokuapp.com/api/v1/converted`](https://fnx-api.herokuapp.com/api/v1/converted) -->
 
-### `FNX Circulating Supply:` 
-> [`GET https://fnx-api.herokuapp.com/api/v1/fnxCirculatingSupply`](https://fnx-api.herokuapp.com/api/v1/fnxInCirculation)
+### `FNX circulating supply:` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/fnxCirculatingSupply`](https://fnx-api.herokuapp.com/api/v1/fnxCirculatingSupply)
 
 ### `FNX locked in FPO:`
 > [`GET https://fnx-api.herokuapp.com/api/v1/lockedFnx`](https://fnx-api.herokuapp.com/api/v1/lockedFnx)    
 
 ### `FNX in circulation with locked FNX deducted:` 
-> [`GET https://fnx-api.herokuapp.com/api/v1/fnxInCirculationDeducted`](https://fnx-api.herokuapp.com/api/v1/fnxInCirculationDeducted)
+> [`GET https://fnx-api.herokuapp.com/api/v1/fnxCirculatingSupplyDeducted`](https://fnx-api.herokuapp.com/api/v1/fnxCirculatingSupplyDeducted)
 
 ### `Current total supply of FNX on Ethereum:` 
 > [`GET https://fnx-api.herokuapp.com/api/v1/ethCurrentTotalSupply`](https://fnx-api.herokuapp.com/api/v1/ethCurrentTotalSupply)
@@ -101,29 +101,29 @@ A single route at `/api/v1` returns all of the API data, while individual pieces
 > [`GET https://fnx-api.herokuapp.com/api/v1/eth_usdcPoolTotal`](https://fnx-api.herokuapp.com/api/v1/eth_usdcPoolTotal)
 
 
-## Raw Number Routes 
+## raw number Routes 
 *These routes return raw numebrs only, as required for consumption by certain other APIs.*
 
-### `Current total supply of FNX (Raw Number):` 
+### `Current total supply of FNX (raw number):` 
 > [`GET https://fnx-api.herokuapp.com/api/v1/currentTotalSupplyRaw`](https://fnx-api.herokuapp.com/api/v1/currentTotalSupplyRaw)
 
-### `Current total supply of FNX Decimal Conversion (Raw Number):` 
+### `Current total supply of FNX Decimal Conversion (raw number):` 
 > [`GET https://fnx-api.herokuapp.com/api/v1/currentTotalSupplyRawDecimals`](https://fnx-api.herokuapp.com/api/v1/currentTotalSupplyRawDecimals)
 
-### `FNX in circulation (Raw Number):` 
-> [`GET https://fnx-api.herokuapp.com/api/v1/fnxInCirculationRaw`](https://fnx-api.herokuapp.com/api/v1/fnxInCirculationRaw)
+### `FNX in circulation (raw number):` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/fnxCirculatingSupplyRaw`](https://fnx-api.herokuapp.com/api/v1/fnxCirculatingSupplyRaw)
 
-### `FNX in circulation Decimal Conversion (Raw Number):` 
-> [`GET https://fnx-api.herokuapp.com/api/v1/fnxInCirculationRawDecimals`](https://fnx-api.herokuapp.com/api/v1/fnxInCirculationRawDecimals)
+### `FNX in circulation decimal conversion (raw number):` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/fnxCirculatingSupplyRawDecimals`](https://fnx-api.herokuapp.com/api/v1/fnxCirculatingSupplyRawDecimals)
 
-### `Current total supply of FNX on Ethereum (Raw Number):` 
+### `Current total supply of FNX on Ethereum (raw number):` 
 > [`GET https://fnx-api.herokuapp.com/api/v1/ethCurrentTotalSupplyRaw`](https://fnx-api.herokuapp.com/api/v1/ethCurrentTotalSupplyRaw)
 
-### `Current total supply of FNX on Wanchain (Raw Number):` 
+### `Current total supply of FNX on Wanchain (raw number):` 
 > [`GET https://fnx-api.herokuapp.com/api/v1/wanCurrentTotalSupplyRaw`](https://fnx-api.herokuapp.com/api/v1/wanCurrentTotalSupplyRaw)
 
-### `Current total supply of FNX on Ethereum Decimal Conversion (Raw Number):` 
+### `Current total supply of FNX on Ethereum decimal conversion (raw number):` 
 > [`GET https://fnx-api.herokuapp.com/api/v1/ethCurrentTotalSupplyRawDecimals`](https://fnx-api.herokuapp.com/api/v1/ethCurrentTotalSupplyRawDecimals)
 
-### `Current total supply of FNX on Wanchain Decimal Conversion (Raw Number):` 
+### `Current total supply of FNX on Wanchain decimal conversion (raw number):` 
 > [`GET https://fnx-api.herokuapp.com/api/v1/wanCurrentTotalSupplyRawDecimals`](https://fnx-api.herokuapp.com/api/v1/wanCurrentTotalSupplyRawDecimals)

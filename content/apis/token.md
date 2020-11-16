@@ -43,11 +43,11 @@ A single route at `/api/v1` returns all of the API data, while individual pieces
 ### `Burnt FNX:`
 > [`GET https://fnx-api.herokuapp.com/api/v1/burned`](https://fnx-api.herokuapp.com/api/v1/burned)    
 
-### `Converted FNX:`
-> [`GET https://fnx-api.herokuapp.com/api/v1/converted`](https://fnx-api.herokuapp.com/api/v1/converted)
+<!-- ### `Converted FNX:`
+> [`GET https://fnx-api.herokuapp.com/api/v1/converted`](https://fnx-api.herokuapp.com/api/v1/converted) -->
 
-### `FNX in circulation:` 
-> [`GET https://fnx-api.herokuapp.com/api/v1/fnxInCirculation`](https://fnx-api.herokuapp.com/api/v1/fnxInCirculation)
+### `FNX Circulating Supply:` 
+> [`GET https://fnx-api.herokuapp.com/api/v1/fnxCirculatingSupply`](https://fnx-api.herokuapp.com/api/v1/fnxInCirculation)
 
 ### `FNX locked in FPO:`
 > [`GET https://fnx-api.herokuapp.com/api/v1/lockedFnx`](https://fnx-api.herokuapp.com/api/v1/lockedFnx)    

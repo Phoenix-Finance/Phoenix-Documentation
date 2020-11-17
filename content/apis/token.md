@@ -47,13 +47,10 @@ A single route at `/api/v1` returns all of the API data, while individual pieces
 > [`GET https://fnx-api.herokuapp.com/api/v1/converted`](https://fnx-api.herokuapp.com/api/v1/converted) -->
 
 ### `FNX circulating supply:` 
-> [`GET https://fnx-api.herokuapp.com/api/v1/fnxCirculatingSupply`](https://fnx-api.herokuapp.com/api/v1/fnxCirculatingSupply)
-
-### `FNX locked in FPO:`
-> [`GET https://fnx-api.herokuapp.com/api/v1/lockedFnx`](https://fnx-api.herokuapp.com/api/v1/lockedFnx)    
+> [`GET https://fnx-api.herokuapp.com/api/v1/fnxCirculatingSupply`](https://fnx-api.herokuapp.com/api/v1/fnxCirculatingSupply)  
 
 ### `FNX in circulation with locked FNX deducted:` 
-> [`GET https://fnx-api.herokuapp.com/api/v1/fnxCirculatingSupplyDeducted`](https://fnx-api.herokuapp.com/api/v1/fnxCirculatingSupplyDeducted)
+> [`GET https://fnx-api.herokuapp.com/api/v1/effectiveCirculatingSupply`](https://fnx-api.herokuapp.com/api/v1/effectiveCirculatingSupply)
 
 ### `Current total supply of FNX on Ethereum:` 
 > [`GET https://fnx-api.herokuapp.com/api/v1/ethCurrentTotalSupply`](https://fnx-api.herokuapp.com/api/v1/ethCurrentTotalSupply)

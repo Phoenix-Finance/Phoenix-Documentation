@@ -16,7 +16,7 @@ However, FPO v1.0 applies a unique Multi-Asset Single-Pool (MASP) model, which p
 
 As introduced before, the option sellers’ risks can be relatively high. MASP pools all the sellers and liquidity, also sometimes referred to as collateral, together to form a collective counterparty for all options. The point of this pool is to diversify the pool’s risk exposure away from any single type of option. While this tactic largely mitigates the risk exposure for a single seller, it does not eliminate it. The collateralization ratio of the monolithic pool should be high enough to safeguard against massive market movements and other black swan events.
 
-As a result, FinNexus introduces the [Minimum Collateral Ratio (MCR)](terminology/index.md) requirement for the pool. It is an innovative mechanism designed to control the size of the pool’s total options exposure. The MCR ensures that the options are always over-collateralized.
+As a result, FinNexus introduces the [Minimum Collateral Ratio (MCR)](https://www.docs.finnexus.io/terminology/) requirement for the pool. It is an innovative mechanism designed to control the size of the pool’s total options exposure. The MCR ensures that the options are always over-collateralized.
 
 Due to the multiple asset nature of the pool, according to the liquidity, volatility, and market acceptance of these different crypto assets, The MCR for FNX, USDC, and WAN is set to be different, 500%, 120%, and 500% respectively, and a weighted average MCR (if the pool has multiple kinds of assets) will decide the maximum value of options able to be issued by the pool.
 

@@ -65,7 +65,7 @@ However, the options market of crypto assets is not liquid enough to provide all
 
 Therefore, FinNexus applies the average IV from the most liquid options on the market, which is 1 day, 2 days, and 7 days at-the-money IV, and feeds it into FPO v1.0 by an hourly [moving average](https://www.investopedia.com/terms/m/movingaverage.asp). The protocol then uses this data point as the ‘Anchor IV’ for our DeFi options market.
 
-Based on this ‘Anchor IV’, FPO v1.0 applies the [Stochastic Volatility Inspired (SVI) parameterization model](https://medium.com/finnexus/designs-to-make-fpo-v1-0-safe-and-secure-afee6a729e1b), and derives the [volatility matrix or volatility surface](https://www.investopedia.com/articles/stock-analysis/081916/volatility-surface-explained.asp). To be noticed that the whole IV Surface is subjected to changes based on the feed of the ‘Anchor IV’.
+Based on this ‘Anchor IV’, FPO v1.0 applies the [Stochastic Volatility Inspired (SVI) parameterization model](https://www.math.kth.se/matstat/seminarier/reports/M-exjobb14/140909.pdf), and derives the [volatility matrix or volatility surface](https://www.investopedia.com/articles/stock-analysis/081916/volatility-surface-explained.asp). To be noticed that the whole IV Surface is subjected to changes based on the feed of the ‘Anchor IV’.
 
 Through these innovative mechanisms, FPO seeks to eliminate the abnormal IV movements due to the illiquidity of the market, derive the IV for less liquid options, and be fed by the live IV changes through anchors, according to the market conditions.
 

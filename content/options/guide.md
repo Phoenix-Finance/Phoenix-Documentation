@@ -15,9 +15,7 @@ For example, a fruit store wants to buy 500 kg of apples from an orchard owner, 
 
 The contract above is a typical option. It is called a [Plain Vanilla](https://www.investopedia.com/terms/p/plainvanilla.asp) call option.
 
-The following terms are essential to understanding the nature of options products. Bookmark this page for future reference!
-
-![](https://www.youtube.com/watch?v=CRhGikRHSu8)
+The following terms are essential to understanding the nature of options products. 
 
 ## Option Buyers and Sellers
 

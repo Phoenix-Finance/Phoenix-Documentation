@@ -17,6 +17,7 @@ The contract above is a typical option. It is called a [Plain Vanilla](https://w
 
 The following terms are essential to understanding the nature of options products. Bookmark this page for future reference!
 
+![](https://www.youtube.com/watch?v=CRhGikRHSu8)
 
 ## Option Buyers and Sellers
 

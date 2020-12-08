@@ -23,7 +23,7 @@ There will be multiple periods of liquidity mining. Follow us on [Twitter](https
 |#  | Start Date|End Date|Expected Return Rate|Platform|
 |---|---|---|---|---|
 |   1| Aug. 21st, 2020| Sept. 20th, 2020 |~600%|Uniswap|
-|   2||TBA|||
+|   2| Sept. 20th, 2020|ongoing|~100%|Uniswap|
 |   3||TBA|||
 |...n||TBA|||
 

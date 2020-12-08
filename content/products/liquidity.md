@@ -1,6 +1,6 @@
 # Liquidity Mining
 
-The FinNexus Options Liquidity Mining DApp rewards participants with extra FNX for providing liquidity to the [FNX/ETH Uniswap Pool](https://uniswap.info/pair/0x722885cab8be10b27f359fcb225808fe2af07b16)
+The [FinNexus Options Liquidity Mining DApp](https://liquidity.finnexus.io/) rewards participants with extra FNX for providing liquidity to the [FNX/ETH Uniswap Pool](https://uniswap.info/pair/0x722885cab8be10b27f359fcb225808fe2af07b16)
 
 ## About FNX Liquidity Mining
 

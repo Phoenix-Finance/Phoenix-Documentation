@@ -19,4 +19,4 @@ Simply by depositing in the collateral pool from the UI, users will be eligible 
 
 ![FNX mining](https://miro.medium.com/max/3000/1*lMO3yj-DFtc7cxKbibcR3g.png)
 
-Noted: the WAN rewards on Wanchain ended on 2020-12-08.
+Note: the WAN rewards on Wanchain ended on 2020-12-08.

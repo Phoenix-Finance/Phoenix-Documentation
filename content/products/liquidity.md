@@ -8,7 +8,7 @@ A healthy FNX ecosystem requires deep liquidity pools so that community members 
 
 FNX ERC20 tokens will be distributed as rewards to liquidity providers to the [FNX/ETH pool on Uniswap V2](https://uniswap.info/pair/0x722885cab8be10b27f359fcb225808fe2af07b16). 
 
-As the team indicated [here](https://medium.com/finnexus/finnexus-will-use-business-development-innovative-monetary-policy-to-bootstrap-network-effects-e6b772a515cf) and [here](https://medium.com/finnexus/capturing-value-with-the-fnx-token-2747711c44f) in previous discussions about bootstrapping network effects to ensure FNX token value capture, the token bucket in our whitepaper and [tokenomics](https://medium.com/finnexus/fnx-tokenomics-62c582807219) reserved for Variable Issuance will be used for liquidity incentives. This category of tokens, 75 million in total, is intended to be distributed to active and engaged FinNexus ecosystem participants over the next 5 to 7 years. We store these FNX tokens at [this Wanchain address](https://www.wanscan.org/address/0xd5b5965754102660d9ccE5Bc57A7Dc2a87e359d9).
+As the team indicated [here](https://medium.com/finnexus/finnexus-will-use-business-development-innovative-monetary-policy-to-bootstrap-network-effects-e6b772a515cf) and [here](https://medium.com/finnexus/capturing-value-with-the-fnx-token-2747711c44f) in previous discussions about bootstrapping network effects to ensure FNX token value capture, the token bucket in our whitepaper and [tokenomics](https://medium.com/finnexus/fnx-tokenomics-update-382dcbc5d1b9) reserved for Community Rewards Fund (Mining Incentives) will be used for liquidity incentives. This category of tokens is intended to be distributed to active and engaged FinNexus ecosystem participants. We store these FNX tokens at [this Wanchain address](https://www.wanscan.org/address/0xd5b5965754102660d9ccE5Bc57A7Dc2a87e359d9).
 
 
 The [FinNexus](https://twitter.com/fin_nexus) team hopes to institute more rewards for liquidity provision across other Uniswap pairs and perhaps even other protocols such as [Balancer](https://balancer.exchange/) and [Bancor](https://www.bancor.network/). We are particularly keen to test our thesis that such a reward program leads to deeper liquidity pools as well as the durability and persistence of that depth.
@@ -23,7 +23,7 @@ There will be multiple periods of liquidity mining. Follow us on [Twitter](https
 |#  | Start Date|End Date|Expected Return Rate|Platform|
 |---|---|---|---|---|
 |   1| Aug. 21st, 2020| Sept. 20th, 2020 |~600%|Uniswap|
-|   2| Sept. 20th, 2020|ongoing|~100%|Uniswap|
+|   2| Sept. 20th, 2020|ongoing|1000FNX/day|Uniswap|
 |   3||TBA|||
 |...n||TBA|||
 
@@ -53,16 +53,13 @@ To stake and begin earning FNX liquidity mining rewards:
 
 The specific distribution rules will be as follows:
 
-1. FNX will be distributed based on the staked amount of UNI-V2 tokens from each address in the rewards contract.
+1. The total reward is fixed at 5000 FNX per day; (It was adjusted to 1000FNX since 30th Oct 2020)
 
-1. The number of FNX rewards accrued is according to the balance of the staked UNI-V2 tokens in each address and the time staked. Thus, liquidity providers will be rewarded for both the time in the pool and the amount of FNX and ETH in the pool. Earlier stakers and stakers with higher value of stake will earn more FNX during this incentive program.
+1. FNX will be distributed pro-rata (proportionally) to those who contribute UNI-V2 tokens to the mining contract. Earlier stakers and stakers with higher value of stake will earn more FNX during this incentive program.
 
-1. The mining reward is 0.5 FNX per day when staking one UNI-V2 token.
+1. FNX rewards accrue in real-time. Token holders who have staked their FNX/ETH UNI-V2 tokens will need to “claim” their FNX token rewards on-chain. These rewards will not be automatically distributed. Please be aware of the ETH gas fees required to claim your FNX rewards. Your claimable rewards do not expire like they do in some DeFi protocols. They will be there for you whenever you get the chance to claim them. No need to worry about high gas fees or getting busy during the week.
 
-1. FNX rewards accrue in real-time. Token holders who have staked their FNX/ETH UNI-V2 tokens will need to “claim” their FNX token rewards on-chain. Unlike other yield farming programs, these rewards will not be automatically distributed. Please be aware of the ETH gas fees required to claim your FNX rewards.
+1. Liquidity providers also earn a portion of the trading fees that accrue to the pool. With each transaction, the Uniswap Protocol assesses a 0.3% fee that accrues to the pool itself. When liquidity providers withdraw their UNI-V2 tokens from the mining UI on liquidity.finnexus.io, they will also be able to access their portion of accumulated transaction fees in the FNX/ETH liquidity pool.
 
-1. Liquidity providers also earn a pro-rata portion of the trading fees that accrue to the [pool](https://uniswap.info/pair/0x722885cab8be10b27f359fcb225808fe2af07b16). With each transaction, the Uniswap Protocol assesses a 0.3% fee that accrues to the pool itself with each trade. When liquidity providers “withdraw” their UNI-V2 tokens from the mining UI (will be on [liquidity.finnexus.io](https//liquidity.finnexus.io)), they will also be able to access their portion of accumulated transaction fees in the FNX/ETH liquidity pool.
-
-1. The time for depositing UNI-V2 tokens and the start of the FNX rewards accrual will be announced shortly.
 
 

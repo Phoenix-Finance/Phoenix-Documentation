@@ -2,7 +2,7 @@ MASP stands for Multi-Asset-Single-Pool. It is the core mechanism applied in FPO
 
 FPO v1.0 is a decentralized peer-to-pool options protocol, with liquidity pools as the counterparty for writing and settling option contracts.
 
-'Multi-Asset' features in the liquidity pools enables the creation and trading of options from any type of underlying asset, including crpyto assets, commodities, fiats, stocks, indexes, etc. The potential for the underliers can be unlimited.
+'Multi-Asset' features in the liquidity pools enables the creation and trading of options from any type of underlying asset, including crypto assets, commodities, fiats, stocks, indexes, etc. The potential for the underliers can be unlimited.
 
 Also, 'Multi-Asset' means that there can be multiple types of crypto assets in the liquidity pool. For example, FPO v1.0 now has a USDC pool on Ethereum. It may include any stable coins like USDT, DAI, etc.,on Ethereum in later updates.
 

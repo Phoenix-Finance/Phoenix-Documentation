@@ -21,7 +21,7 @@ The following terms are essential to understanding the nature of options product
 
 Each option contract has two parties, the option buyer/holder and the option seller/writer. Unlike a futures contract, with options, the rights and obligations of the two sides of this equation (called “counterparties”) are not parallel. The option buyer pays the option premium and is entitled to rights only. The option seller receives the premium as consideration for giving up those rights.
 
-## Security Requirements
+## Collateral Requirements
 
 Due to the counterparty relationship described above, the buyer/holder of an option may just sit there and see how the market goes, waiting to decide whether to exercise the right or not. On the other hand, the seller/writer of an option has an obligation. Whenever the holder decides to exercise his option, he/she must settle according to the terms of the option contract. Therefore, a security deposit or collateral of some sort, must be handled to ensure the contract will perform accordingly.
 

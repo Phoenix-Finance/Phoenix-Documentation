@@ -1,0 +1,5 @@
+DeFi is still at a nascent experimental stage. We witnessed a number of exploits in the past, among which a great proportion are done though flash loans. These instant uncollateralized loans enable attackers to make nearly risk-free trials to hack decentralized protocols with little capital requirements and low costs beyond Ethereum gas fees and the time to research the potential exploit.
+
+However, flash loans require that all assets borrowed should be returned before the end of the transaction, in the same mined block.
+
+To protect against possible flash loan exploits in FPO v1.0, a special mechanism called ‘Chill Time’ is designed, during which the options buyers cannot sell or exercise the options, and the pool participants cannot withdraw their assets out of the pool. ‘Chill Time’ is set to be one hour.

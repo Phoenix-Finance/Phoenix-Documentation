@@ -54,6 +54,7 @@ nav:
   - Terminology:
     - Overview:  terminology/index.md
     - FPO:  terminology/FPO.md
+    - Liquidity Pools: terminology/LP.md
     - MASP:  terminology/MASP.md
     - FPT:  terminology/FPT.md
     - CR & MCR:  terminology/CR.md

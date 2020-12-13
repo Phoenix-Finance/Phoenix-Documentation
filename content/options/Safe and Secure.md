@@ -4,7 +4,7 @@ In addition to the basic introduction of FinNexus Protocol for Options (FPO) mod
 
 ### 1. Minimum Collateral Requirement
 
-As introduced in the [options guidance](guide.md), for the writers/sellers of options, the potential risks are theoretically unlimited. To keep the option contracts secure and capable to perform, there are usually two ways to maintain the full collateralization of the options exposure. 
+As introduced in the [options guidance](index.md), for the writers/sellers of options, the potential risks are theoretically unlimited. To keep the option contracts secure and capable to perform, there are usually two ways to maintain the full collateralization of the options exposure. 
 
 #### (1) Margin Requirements for Cash Settlement
 As widely applied in traditional finance and centralized crypto exchanges, for writers/sellers of options, in other words those who short call or put options, some deposits are required to collateralize the option contracts as margin. The margin ratio is normally 5% to 20%. For example, Deribit’s margin requirement for shorting options is shown [here](https://www.deribit.com/pages/docs/options). This mechanism is capital efficient. It needs less initial margin deposit and provides additional leverage to the sellers, but may require additional capital input, or even lead to liquidation events if the price moves unfavorably. [Cash settlement](https://www.investopedia.com/terms/c/cashsettlement.asp) is often applied with respect to these kinds of options.

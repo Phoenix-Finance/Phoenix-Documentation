@@ -6,7 +6,7 @@ It works similar as the Uniswap LP token or Balancer LP token (BPT), but in the 
 
 Options exposure sold to options buyers will earn options premiums. These premiums will automatically accrue in the MASP liquidity pool and, as premiums compound over time, there should be an increased value reflected in the FPT tokens. Remember that these FPT tokens represent are pro-rata share in the liquidity pool. Returns of pool participants are easily measured by the pool share net value.
 
-Currently, FPTs in the USDC pool, FNX pool on Ethereum and FNX/WAN pool on Wanchain, are named FPT-A, FPT-B and FPT-C respectively.
+Currently, FPTs in the USDC pool on Ethereum, in the FNX pool on Ethereum, and  in the FNX/WAN pool on Wanchain, are named as FPT-A, FPT-B and FPT-C respectively.
 
 **FPT-A address(on Ethereum)**: 0x16305b9ec0bdbe32cf8a0b5c142ceb3682db9d2d
 

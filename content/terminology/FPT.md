@@ -8,8 +8,9 @@ Options exposure sold to options buyers will earn options premiums. These premiu
 
 Currently, FPTs in the USDC pool, FNX pool on Ethereum and FNX/WAN pool on Wanchain, are named FPT-A, FPT-B and FPT-C respectively.
 
-FPT-A address(on Ethereum): 0x594adb0b00e7a55b77caf51271a45551483ec26c
+**FPT-A address(on Ethereum)**: 0x16305b9ec0bdbe32cf8a0b5c142ceb3682db9d2d
 
-FPT-B address(on Ethereum): 0x1341625a4411828013a0d56d511562ce52d7fe51
+**FPT-B address(on Ethereum)**: 0x7e605fb638983a448096d82ffd2958ba012f30cd
 
-FPT-C address(on Wanchain):0x1330145c4be069c85bfcfb14431ab181042c6e05
+**FPT-C address(on Wanchain)**:0x1330145c4be069c85bfcfb14431ab181042c6e05
+

@@ -53,7 +53,12 @@ nav:
     - FNX Token API v0.1 Alpha:  apis/token.md
   - Terminology:
     - Overview:  terminology/index.md
+    - FPO:  terminology/FPO.md
+    - MASP:  terminology/MASP.md
+    - FPT:  terminology/FPT.md
     - CR & MCR:  terminology/CR.md
+    - Pool Net Value:  terminology/Netvalue.md
+
   
 
  

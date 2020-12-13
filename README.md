@@ -8,7 +8,7 @@ See [`mkdocs.yml`](../mkdocs.yml) for further information about extension settin
 
 Run the following to get all the required dependencies:
 
-`pip install -r requirements.txt`
+`pip3 install -r requirements.txt`
 
 ## Commands
 

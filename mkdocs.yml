@@ -1,6 +1,6 @@
 # Basic project details.
 site_name: 'FinNexus Documentation'
-site_description: 'Decentralised Protocol Clusters'
+site_description: 'Decentralized Protocol Clusters'
 site_author: 'FinNexus Team'
 site_url: ''
 
@@ -18,28 +18,29 @@ docs_dir: 'content'
 
 # Top level headings become tabs at the top due to `tabs: true` in the theme.
 nav:
-
+  - Introduction: index.md
   - About FinNexus: 
-    - Introduction: index.md
     - Whitepapers(old): whitepapers/index.md
     - Community and Partners: community/index.md
     
   - Products: 
     - Introduction: products/index.md
-    - FinNexus Protocol for Options (FPO): options/index.md
-    - Liquidity Mining: products/liquidity.md
-    - Jack's Pot: products/jackspot.md
-    - Wandora Box: products/wandora.md
+    - Derivatives:
+      - FinNexus Protocol for Options (FPO): products/options.md
+    - Gaming:
+      - Jack's Pot: products/jackspot.md
+      - Wandora Box: products/wandora.md
+    - DeFi:
+      - FPO Liquidity Mining: products/liquidity.md
 
   - Options Protocol (FPO):
-    - Introduction:  options/index.md
-      - Option Basics: options/guide.md
-      - Option Key Terms:  options/terms.md
+    - Options Basics:  options/index.md
+    - Options Key Terms:  options/terms.md
     - FPO v0.1:  options/v0.1.md
-      - v0.1 Smart Contracts:  options/contracts.md
+    - v0.1 Smart Contracts:  options/contracts.md
     - FPO v1.0:  options/v1.0.md
-      - Risks in FPO v1.0: options/Risks.md
-      - Making FPO v1.0 Secure: options/Safe and Secure.md
+    - Risks in FPO v1.0: options/Risks.md
+    - Making FPO v1.0 Secure: options/Safe and Secure.md
     
   - FinNexus Token (FNX): 
     - FNX Address: community/FNX address.md
@@ -53,7 +54,7 @@ nav:
   - Terminology:
     - Overview:  terminology/index.md
     - CR & MCR:  terminology/CR.md
-
+  
 
  
 # These social links will be rendered as icons in the footer, as long as the type corresponds to FontAwesome glyph.
@@ -82,8 +83,12 @@ theme:
   logo: 'img/logos/square.png'
   favicon: 'img/favicon.ico'
   feature:
-    tabs: true
+    tabs: false
     instant: false
+    sections: true
+    expand: true
+    
+    
 
 
 plugins:
@@ -95,6 +100,7 @@ plugins:
 markdown_extensions:
   - toc:
       permalink: True # Generates permanent links for each page section.
+      toc_depth: 10
   - admonition # Small descriptive elements for notes, warnings, etc.
   - pymdownx.arithmatex # Math rendering.
   - pymdownx.tasklist: # Allows nested and better checkboxes.

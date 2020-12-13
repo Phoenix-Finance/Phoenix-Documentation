@@ -4,7 +4,7 @@ The FNX token is the network token for the entire suite of FinNexus protocol clu
 
 ## Tokenomics
 
-Please go to [FNX dashboard](fnx.finnexus.io) for circulation details.
+Please go to [FNX dashboard](https://fnx.finnexus.io) for circulation details.
 
 | **Items**                                                               | **Amount**    | **Percentage** | **Status**      | **Time to Release/Burn**     | **Duration of Release**                      |
 |---------------------------------------------------------------------|-----------|------------|----------------|--------------------------|-------------------------------------------|

@@ -47,7 +47,7 @@ To stake and begin earning FNX liquidity mining rewards:
 
 1. After successfully contributing your crypto (you will need to approve FNX and/or ETH to interact with the Uniswap smart contract first), liquidity providers will receive UNI-V2 pool tokens. These UNI-V2 tokens represent your share of the FNX/ETH liquidity pool. You can track the size of the pool and your share of it [here](https://etherscan.io/token/0x722885cab8be10b27f359fcb225808fe2af07b16#balances). The share of liquidity provided by FinNexus Foundation located [here](https://etherscan.io/token/0x722885cab8be10b27f359fcb225808fe2af07b16?a=0xe596470d291cb2d32ec111afc314b07006690c72) will of course be excluded from earning rewards. **Please note that merely providing liquidity will NOT earn you FNX rewards, you MUST complete the next step.**
 
-1. Visit the mining UI (which will be on [liquidity.finnexus.io](https//liquidity.finnexus.io)). With the UNI-V2 tokens from the previous step in your address, enter the amount of FNX/ETH UNI-V2 tokens you want to stake from your wallet. Once you have completed this step, you will begin to accrue FNX rewards.
+1. Visit the mining UI (which will be on [liquidity.finnexus.io](https://liquidity.finnexus.io)). With the UNI-V2 tokens from the previous step in your address, enter the amount of FNX/ETH UNI-V2 tokens you want to stake from your wallet. Once you have completed this step, you will begin to accrue FNX rewards.
 
 ## Distribution of FNX
 

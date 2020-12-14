@@ -36,6 +36,7 @@ nav:
   - Options Protocol (FPO):
     - Options Basics:  options/index.md
     - Options Key Terms:  options/terms.md
+    - Options Strategies: options/strategies.md
     - FPO v0.1:  options/v0.1.md
     - FPO v0.1 Smart Contracts:  options/contracts.md
     - FPO v1.0:  options/v1.0.md

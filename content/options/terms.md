@@ -72,3 +72,13 @@ Settlement is the process for the terms of an options contract to be resolved be
 <br>
 
 With the apple example above, if the apple price is higher than $4/kg in August, if the options were physically settled options, it would mean that the fruit store purchases the apples at the previously agreed upon price and the orchard owner makes the delivery. If the options were cash settled options, it would mean that the orchard owner pays the difference in cash between the market price and the previously agreed upon price, times the total kilograms covered by the contract, to the fruit store.
+
+## 8. Option Moneyness
+
+In-the-money, at-the-money and out-of-the-money are commonly used terms that refer to an option's moneyness, an insight into the [intrinsic value](https://www.investopedia.com/terms/i/intrinsicvalue.asp) of these derivatives contract.
+
+At-the-money (ATM) options have a strike price exactly equal to the current price of the underlying asset.
+
+Out-of-the-money (OTM) options have no intrinsic value, only "time value", and occur when a call's strike is higher than the current market, or a put's strike is lower than the market.
+
+In-the-money (ITM) options have intrinsic value, meaning you can exercise the option immediately for a profit opportunity - i.e. if a call's strike is below the current market price or a put's strike is higher.

@@ -1,3 +1,4 @@
+## FPT
 FPT means the FinNexus Pool Token, as the shares in the FPO v1.0 liquidity pools.
 
 FPO v1.0 is a decentralized options protocol with a peer-to-pool model. The liquidity pool is created when individual liquidity providers contribute liquidity by locking their crypto assets in the pool. The liquidity provider receives a pool token, as FPT, which represents their share of ownership in the pool. 

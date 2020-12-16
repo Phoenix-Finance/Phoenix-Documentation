@@ -9,7 +9,7 @@ Adopting such a strategy does not put an absolute limit on the potential profits
 
 ![image|690x437](https://aws1.discourse-cdn.com/standard17/uploads/community12/original/1X/2958cb8fb0e32b2ffb508249f3456f3faa1652b7.jpeg) 
 
-### Example of Protective Put
+**Example of Protective Put**
 
 You own 100 ETH, with each ETH valued at $500. You believe that the price of ETH will increase in the future. However, you want to hedge against the risk of an unexpected price decline. Therefore, you decide to purchase 100 protective put contracts with a strike price of $500. The premium of one protective put is $10.
 

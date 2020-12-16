@@ -54,14 +54,10 @@ nav:
     - FNX Token API v0.1 Alpha:  apis/token.md
   - Terminology:
     - Overview:  terminology/index.md
-    - IV: terminology/IV.md
-    - FPO:  terminology/FPO.md
-    - Liquidity Pools: terminology/LP.md
-    - MASP:  terminology/MASP.md
-    - FPT:  terminology/FPT.md
-    - Pool Net Value:  terminology/Netvalue.md
-    - CR & MCR:  terminology/CR.md
-    - Chill Time: terminology/Chilltime.md
+    - DeFi Terms: terminology/DeFiterms.md
+    - Options Terms: terminology/Optionterms.md
+    - FPO Terms:  terminology/FPOterms.md
+    
   
 
  

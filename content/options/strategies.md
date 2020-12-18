@@ -35,3 +35,7 @@ A strangle is a good strategy if you think the underlying security will experien
 
 The cost of a strangle can be lower than a straddle, as the options are [OTM](https://www.investopedia.com/terms/o/outofthemoney.asp).
 The example is just like the one in the straddle strategy, well with different strike prices.
+
+## IL Hedging
+
+[Hedging Against Impermanent Loss: A Deep Dive With FinNexus Options](https://coinmarketcap.com/alexandria/article/hedging-against-impermanent-loss-a-deep-dive-with-finnexus-options) on Coinmarketcap Alexandria by FinNexus Cofounder Ryan Tian

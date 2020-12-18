@@ -2,7 +2,7 @@
 
 In addition to the basic introduction of FinNexus Protocol for Options (FPO) model. There are several important mechanisms elaborately designed for security purposes. It is highly recommended that, before jumping into the pool or purchasing options on the FPO platform, one should go through these innovative mechanisms, in order to have a better understanding of the FPO model.
 
-FPO v1.0 has been audited by PeckShield. Please find the audit report [here](https://github.com/FinNexus/Pdfs/blob/master/PeckShield-Audit-FinnexusOptionsV1.0.pdf)
+FPO v1.0 has been audited by PeckShield. Please find the audit report [here](https://github.com/FinNexus/Pdfs/blob/master/PeckShield-Audit-FinnexusOptionsV1.0.pdf).
 
 ### 1. Minimum Collateral Requirement
 

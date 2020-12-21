@@ -100,3 +100,17 @@ Implied volatility is often used to price options contracts: High implied volati
 Implied volatility does not predict the direction in which the price change will proceed. Low volatility means that the price likely won't make broad, unpredictable changes.
 
 Implied volatility can be determined by using an option pricing model. It is the only factor in the model that isn't directly observable in the market. Instead, the mathematical option pricing model uses other factors to determine implied volatility and the option's premium.
+
+## Greeks
+
+"Greeks" is a term used in the options market to describe the different dimensions of risk involved in taking an options position. These variables are called Greeks because they are typically associated with Greek symbols. Each risk variable is a result of an imperfect assumption or relationship of the option with another underlying variable. 
+
+Delta (Δ) represents the rate of change between the option's price and a $1 change in the underlying asset's price. 
+
+Theta (Θ) represents the rate of change between the option price and time, or time sensitivity - sometimes known as an option's time decay. 
+
+Gamma (Γ) represents the rate of change between an option's delta and the underlying asset's price. 
+
+Vega (v) represents the rate of change between an option's value and the underlying asset's implied volatility. 
+
+Rho (p) represents the rate of change between an option's value and a 1% change in the interest rate.

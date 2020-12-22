@@ -2,6 +2,8 @@
 
 FinNexus is aimed to be live with fully decentralized governance by its community. This will give control of the protocol to FNX tokenholders, meaning that updates to the protocol and management of the treasury can only be performed with approval from FNX holders.
 
+These rules have been set as temporary rules by the FinNexus team in order to get governance kicked off, they will evolve over time based on future proposals and votes. 
+
 ## Process
 
 Decentralized governance is done, via forum discussions and, voting on proposals held on the FinNexus Snapshot on [Ethereum](https://snapshot.page/#/finnexus) and [Wanchain](https://vote.wandevs.org/#/).

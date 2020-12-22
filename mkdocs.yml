@@ -20,8 +20,8 @@ docs_dir: 'content'
 nav:
   - Introduction: index.md
   - About FinNexus: 
-    - Whitepapers(old): whitepapers/index.md
-    - Community and Partners: community/index.md
+    - Whitepapers(old): about/papers.md
+    - Official Links: about/links.md
     
   - Products: 
     - Introduction: products/index.md
@@ -40,15 +40,15 @@ nav:
     - FPO v0.1:  options/v0.1.md
     - FPO v0.1 Smart Contracts:  options/contracts.md
     - FPO v1.0:  options/v1.0.md
-    - Risks in FPO v1.0: options/Risks.md
-    - Making FPO v1.0 Secure: options/Safe and Secure.md
+    - Risks in FPO v1.0: options/risks.md
+    - Making FPO v1.0 Secure: options/security.md
     
   - FinNexus Token (FNX): 
-    - FNX Address: community/FNX address.md
+    - Addresses: token/addresses.md
     - Tokenomics: token/index.md
-    - How to get FNX: token/howtogetfnx.md
-    - FNX mining: token/FNXmining.md
-    - Add FNX to Wanchain Wallet: community/add_fnx.md
+    - How to get FNX: token/markets.md
+    - FNX mining: token/mining.md
+    - Add FNX to Wanchain Wallet: token/add_fnx.md
   - Governance: 
     - Overview: governance/index.md
   - APIs:
@@ -56,9 +56,9 @@ nav:
     - FNX Token API v0.1 Alpha:  apis/token.md
   - Terminology:
     - Overview:  terminology/index.md
-    - DeFi Terms: terminology/DeFiterms.md
-    - Options Terms: terminology/Optionterms.md
-    - FPO Terms:  terminology/FPOterms.md
+    - DeFi Terms: terminology/defi.md
+    - Options Terms: terminology/options.md
+    - FPO Terms:  terminology/fpo.md
     
   
 

@@ -49,7 +49,8 @@ nav:
     - How to get FNX: token/howtogetfnx.md
     - FNX mining: token/FNXmining.md
     - Add FNX to Wanchain Wallet: community/add_fnx.md
-  - Governance: governance/FNXgovernance.md
+  - Governance: 
+    - Overview: governance/index.md
   - APIs:
     - Overview:  apis/index.md
     - FNX Token API v0.1 Alpha:  apis/token.md

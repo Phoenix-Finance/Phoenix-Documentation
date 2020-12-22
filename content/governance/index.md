@@ -21,7 +21,7 @@ If a Snapshot proposal passes and no code is required to be implemented, the app
 3. Votes on Ethereum and Wanchain snapshot will be counted and added together.
 4. After meeting conditions of rule 1, a simple majority is required for a winning vote.
 5. Proposals must be posted on both the Wanchain and Ethereum Snapshots, and the start and ending times must be the same plus or minus 12 hours.
-6. The voting period must be 7 full days, plus or minus 12 hours.
+6. The voting period must be at least 5 full days, and recommended to be no longer than 7 days.
 7. Proposals must be in English. Any other translation is welcome.
 
 

@@ -2,6 +2,8 @@
 
 In order to get FinNexus governance kicked off, we have established these interim governance rules. The rules will change and evolve over time according to community proposals and votes. While the long term goal is 100% community controlled governance, during this interim period, the FinNexus team will take a more hands on role in making certain that governance gets off on the right foot. 
 
+These rules have been set as temporary rules by the FinNexus team in order to get governance kicked off, they will evolve over time based on future proposals and votes. 
+
 ## Process
 
 Governance will take place primarily through the official discussion forum and through [Snapshot](https://snapshot.page/). Proposals must be made on both the [Ethereum Snapshot](https://snapshot.page/#/finnexus) and [Wanchain Snapshot](https://vote.wandevs.org/#/) pages. Proposals must be identical for each Snapshot, and the voting time should be set to occur on a block which occurs at roughly the same time on both chains.
@@ -20,6 +22,7 @@ If a Snapshot proposal passes and no code is required to be implemented, the app
 4. After meeting conditions of rule 1, a simple majority is required for a winning vote.
 5. Proposals must be posted on both the Wanchain and Ethereum Snapshots, and the start and ending times must be the same plus or minus 12 hours.
 6. The voting period must be 7 full days, plus or minus 12 hours.
+7. Proposals must be in English. Any other translation is welcome.
 
 
 ## Estimating Block Times

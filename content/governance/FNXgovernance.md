@@ -17,7 +17,7 @@ If a Snapshot proposal passes and no code is required to be implemented, the app
 ## Criteria for a Valid, Binding Vote
 
 1. Proposals will only be considered valid if at least 5% of circulating FNX participates in the vote.
-2. Votes will be scored as 1 FNX = 1 VOTE. 
+2. Votes will be scored as 1 FNX = 1 VOTE. This includes FNX in the address of the voter as well as any FNX locked in [FPO](https://options.finnexus.io/), or in the [FNX/ETH Uniswap pool](https://info.uniswap.org/pair/0x722885cab8be10b27f359fcb225808fe2af07b16).
 3. Votes on Ethereum and Wanchain snapshot will be counted and added together.
 4. After meeting conditions of rule 1, a simple majority is required for a winning vote.
 5. Proposals must be posted on both the Wanchain and Ethereum Snapshots, and the start and ending times must be the same plus or minus 12 hours.

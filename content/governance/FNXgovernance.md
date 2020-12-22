@@ -1,22 +1,29 @@
-## Overview
+## Interim Governance Rules
 
-FinNexus is aimed to be live with fully decentralized governance by its community. This will give control of the protocol to FNX tokenholders, meaning that updates to the protocol and management of the treasury can only be performed with approval from FNX holders.
+In order to get FinNexus governance kicked off, we have established these interim governance rules. The rules will change and evolve over time according to community proposals and votes. While the long term goal is 100% community controlled governance, during this interim period, the FinNexus team will take a more hands on role in making certain that governance gets off on the right foot. 
 
 ## Process
 
-Decentralized governance is done, via forum discussions and, voting on proposals held on the FinNexus Snapshot on [Ethereum](https://snapshot.page/#/finnexus) and [Wanchain](https://vote.wandevs.org/#/).
+Governance will take place primarily through the official discussion forum and through [Snapshot](https://snapshot.page/). Proposals must be made on both the [Ethereum Snapshot](https://snapshot.page/#/finnexus) and [Wanchain Snapshot](https://vote.wandevs.org/#/) pages. Proposals must be identical for each Snapshot, and the voting time should be set to occur on a block which occurs at roughly the same time on both chains.
 
-The governance process begins on the [FinNexus Governance Forum](https://forum.finnexus.io/) where proposals are first submitted for discussion. If the community signals its interest and any necessary modifications to the proposal are made, the proposal is submitted to Snapshot off-chain community governance, where tokenholders can vote with their token balances.
+The governance process begins on the [FinNexus Governance Forum](https://forum.finnexus.io/) where proposals are first submitted for discussion. If the community signals its interest and any necessary modifications to the proposal are made, the proposal is submitted to Snapshot for voting.
 
-Only proposals posted to the Snapshot voting system by CORE can be considered binding if passed with a quorum. The Core proposals are decided by the FinNexus team.
+During the interim governance period, only Core proposals are binding. Core proposals are those made by addresses whitelisted by the FinNexus team.
 
-If a Snapshot proposal is passed and no code is required to be implemented, the approved action can be taken. If code deployment is required, the code will go to audit if necessary, and then be proposed via on-chain governance at which point tokenholders will vote once more to deploy if the audit suggests big changes.
+If a Snapshot proposal passes and no code is required to be implemented, the approved action will be taken directly by the team. If code deployment is required, the code will go to audit if necessary, and there will be a period for public review of at least one week before the code is deployed.
+
+## Criteria for a Valid, Binding Vote
 
 1. Proposals will only be considered valid if at least 5% of circulating FNX participates in the vote.
 2. Votes will be scored as 1 FNX = 1 VOTE. 
 3. Votes on Ethereum and Wanchain snapshot will be counted and added together.
 4. After meeting conditions of rule 1, a simple majority is required for a winning vote.
+5. Proposals must be posted on both the Wanchain and Ethereum Snapshots, and the start and ending times must be the same plus or minus 12 hours.
+6. The voting period must be 7 full days, plus or minus 12 hours.
 
-## LP Governance Participation
 
-FNX token holders and LPs that are staked in the FPO or other LP contracts can participate in governance. Initially, FNX Votes in all these addresses will be regarded the same and scored as 1 FNX = 1 VOTE. In later stages, different voting power may be granted.
+## Estimating Block Times
+
+For Ethereum, you can assume 1 block is 13.5 seconds. Therefore one day is 6400 blocks (60 * 60 * 24 / 13.5). Use this to estimate which block to choose.
+
+For Wanchain, you can assume 1 block is 5 seconds. Therefore one day is 17280 blocks (60 * 60 * 24 / 5). Use this to estimate which block to choose.

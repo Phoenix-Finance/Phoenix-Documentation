@@ -12,10 +12,11 @@ Only proposals posted to the Snapshot voting system by CORE can be considered bi
 
 If a Snapshot proposal is passed and no code is required to be implemented, the approved action can be taken. If code deployment is required, the code will go to audit if necessary, and then be proposed via on-chain governance at which point tokenholders will vote once more to deploy if the audit suggests big changes.
 
-1. Proposals will only be considered valid if at least 5% of circulating FNX participates in the vote.
-2. Votes will be scored as 1 FNX = 1 VOTE. 
-3. Votes on Ethereum and Wanchain snapshot will be counted and added together.
-4. After meeting conditions of rule 1, a simple majority is required for a winning vote.
+1. Valid proposals require at least 5% of circulating FNX to participate in the vote.
+2. 1 FNX = 1 vote.
+3. The final vote is a combination of the Snapshot votes on Ethereum and Wanchain.
+4. After meeting the conditions of rule 1, a simple majority is required for a winning vote.
+5. Proposals should be in English. Any other translation is welcome.
 
 ## LP Governance Participation
 

@@ -40,6 +40,7 @@ nav:
     - FPO v0.1:  options/v0.1.md
     - FPO v0.1 Smart Contracts:  options/contracts.md
     - FPO v1.0:  options/v1.0.md
+    - Returns in the pool: options/financials.md
     - Risks in FPO v1.0: options/risks.md
     - Making FPO v1.0 Secure: options/security.md
     

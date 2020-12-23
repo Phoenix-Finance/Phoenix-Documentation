@@ -104,7 +104,7 @@ Implied volatility can be determined by using an option pricing model. It is the
 ## BS Pricing Model
 
 The Black Scholes model, also known as the Black-Scholes-Merton (BSM) model, is a mathematical model for pricing an options contract. It is the best known model for pricing options. The model won the Nobel prize in economics.
-For a mathematical expression, please check the details [here](https://www.investopedia.com/terms/b/blackscholes.asp).
+For the mathematical expression, please check the details [here](https://www.investopedia.com/terms/b/blackscholes.asp).
 
 ## Put-Call Parity
 

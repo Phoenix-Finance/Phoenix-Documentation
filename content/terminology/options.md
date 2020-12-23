@@ -101,6 +101,28 @@ Implied volatility does not predict the direction in which the price change will
 
 Implied volatility can be determined by using an option pricing model. It is the only factor in the model that isn't directly observable in the market. Instead, the mathematical option pricing model uses other factors to determine implied volatility and the option's premium.
 
+## BS Pricing Model
+
+The Black Scholes model, also known as the Black-Scholes-Merton (BSM) model, is a mathematical model for pricing an options contract. It is the best known model for pricing options. The model won the Nobel prize in economics.
+For a mathematical expression, please check the details [here](https://www.investopedia.com/terms/b/blackscholes.asp).
+
+## Put-Call Parity
+
+Put-call parity is a principle that defines the relationship between the price of European put options and European call options of the same class, that is, with the same underlying asset, strike price, and expiration date.
+The equation expressing put-call parity is:
+
+C + PV(x) = P + S
+
+where:
+
+C = price of the European call option
+
+PV(x) = the present value of the strike price (x), discounted from the value on the expiration date at the risk-free rate
+
+P = price of the European put
+
+S = spot price or the current market value of the underlying asset
+
 ## Greeks
 
 "Greeks" is a term used in the options market to describe the different dimensions of risk involved in taking an options position. These variables are called Greeks because they are typically associated with Greek symbols. Each risk variable is a result of an imperfect assumption or relationship of the option with another underlying variable. 

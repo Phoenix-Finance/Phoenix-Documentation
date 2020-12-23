@@ -42,7 +42,9 @@ None
 
 .....
 # **CollateralPool** #
-This Contract store funds depositted from users and supply inquirement service which is related with collateral. Excepting inquirement service the contract does not supply any functions outside.
+This Contract store funds deposited from users and supply inquirement service which is related with collateral. Excepting inquirement service the contract does not supply any functions outside.
+
+FNX Collateral Pool: 0x919a35a4f40c479b3319e3c3a2484893c06fd7de
 
 **Responsibility**
 - Stores funds depositted from users

@@ -101,6 +101,28 @@ Implied volatility does not predict the direction in which the price change will
 
 Implied volatility can be determined by using an option pricing model. It is the only factor in the model that isn't directly observable in the market. Instead, the mathematical option pricing model uses other factors to determine implied volatility and the option's premium.
 
+## BS Pricing Model
+
+The Black Scholes model, also known as the Black-Scholes-Merton (BSM) model, is a mathematical model for pricing an options contract. It is the best known model for pricing options. The model won the Nobel prize in economics.
+For the mathematical expression, please check the details [here](https://www.investopedia.com/terms/b/blackscholes.asp).
+
+## Put-Call Parity
+
+Put-call parity is a principle that defines the relationship between the price of European put options and European call options of the same class, that is, with the same underlying asset, strike price, and expiration date.
+The equation expressing put-call parity is:
+
+C + PV(x) = P + S
+
+where:
+
+C = price of the European call option
+
+PV(x) = the present value of the strike price (x), discounted from the value on the expiration date at the risk-free rate
+
+P = price of the European put
+
+S = spot price or the current market value of the underlying asset
+
 ## Greeks
 
 "Greeks" is a term used in the options market to describe the different dimensions of risk involved in taking an options position. These variables are called Greeks because they are typically associated with Greek symbols. Each risk variable is a result of an imperfect assumption or relationship of the option with another underlying variable. 
@@ -114,3 +136,22 @@ Gamma (Γ) represents the rate of change between an option's delta and the under
 Vega (v) represents the rate of change between an option's value and the underlying asset's implied volatility. 
 
 Rho (p) represents the rate of change between an option's value and a 1% change in the interest rate.
+
+## VIX
+
+The Cboe Volatility Index, or VIX, is a real-time market index representing the market's expectations for volatility over the coming 30 days. Investors use the VIX to measure the level of risk, fear, or stress in the market when making investment decisions. Derived from the price inputs of the S&P 500 index options, it provides a measure of market risk and investors' sentiments. It is also known by other names like "Fear Gauge" or "Fear Index."
+
+## Volatility Smile
+
+Volatility smiles are implied volatility patterns that arise in pricing financial options.  
+Theoretically, for options with the same expiration date, we expect the implied volatility to be the same regardless of which strike price we use. However, in reality, the IV we get is different across the various strikes. This disparity is known as the volatility skew.
+If you plot the IV against the strike prices, you might get the following U-shaped curve resembling a smile. Hence, this particular volatility skew pattern is better known as the volatility smile.
+![](https://www.investopedia.com/thmb/hCk5O800WeWofg9Fp7Xnkc-NbPA=/6251x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/VolatilitySmileDefinitionandUses2-6adfc0b246cf44e2bd5bb0a3f2423a7a.png)
+
+## Volatility Surface
+
+The volatility surface is a three-dimensional plot of the implied volatility of options, where the x-axis is the time to maturity, the z-axis is the strike price, and the y-axis is the implied volatility. 
+An example of BTC Volatility Surface is shown as below.
+
+![](https://pbs.twimg.com/media/EbG0-PhWoAcO3WW.jpg)
+

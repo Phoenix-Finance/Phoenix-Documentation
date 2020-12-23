@@ -114,3 +114,22 @@ Gamma (Γ) represents the rate of change between an option's delta and the under
 Vega (v) represents the rate of change between an option's value and the underlying asset's implied volatility. 
 
 Rho (p) represents the rate of change between an option's value and a 1% change in the interest rate.
+
+## VIX
+
+The Cboe Volatility Index, or VIX, is a real-time market index representing the market's expectations for volatility over the coming 30 days. Investors use the VIX to measure the level of risk, fear, or stress in the market when making investment decisions. Derived from the price inputs of the S&P 500 index options, it provides a measure of market risk and investors' sentiments. It is also known by other names like "Fear Gauge" or "Fear Index."
+
+## Volatility Smile
+
+Volatility smiles are implied volatility patterns that arise in pricing financial options.  
+Theoretically, for options with the same expiration date, we expect the implied volatility to be the same regardless of which strike price we use. However, in reality, the IV we get is different across the various strikes. This disparity is known as the volatility skew.
+If you plot the IV against the strike prices, you might get the following U-shaped curve resembling a smile. Hence, this particular volatility skew pattern is better known as the volatility smile.
+![](https://www.investopedia.com/thmb/hCk5O800WeWofg9Fp7Xnkc-NbPA=/6251x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/VolatilitySmileDefinitionandUses2-6adfc0b246cf44e2bd5bb0a3f2423a7a.png)
+
+## Volatility Surface
+
+The volatility surface is a three-dimensional plot of the implied volatility of options, where the x-axis is the time to maturity, the z-axis is the strike price, and the y-axis is the implied volatility. 
+An example of BTC Volatility Surface is shown as below.
+
+![](https://pbs.twimg.com/media/EbG0-PhWoAcO3WW.jpg)
+

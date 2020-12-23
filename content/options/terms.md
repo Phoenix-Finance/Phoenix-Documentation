@@ -1,2 +1,2 @@
 
-Please Jump to the terminology section [here](terminology/options/) for details on option terms.
+Please Jump to the terminology section [here](terminology/options.md) for details on option terms.

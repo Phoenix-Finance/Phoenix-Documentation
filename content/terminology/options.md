@@ -12,7 +12,7 @@ As discussed above, options are contracts that give the buyer/holder the right, 
 
 [Put options](https://www.investopedia.com/terms/p/put.asp) allow the holder to sell an underlying asset at a certain price.
 
-In the specific example above, the fruit store wants to “buy” apples in August, hence, it is buying a call option contract.
+In the [specific example](https://www.docs.finnexus.io/options/), the fruit store wants to “buy” apples in August, hence, it is buying a call option contract.
 
 If we change the story a bit, the orchard owner worries that the apple price may drop in August, and he wants to fix his minimum profit. Therefore, he reaches a contract with the fruit store, that he may sell the apples at the price of $4/kg in August, but he doesn’t have to if the market price is higher. Then this contract is a typical put option contract.
 

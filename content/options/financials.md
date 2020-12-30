@@ -1,4 +1,4 @@
-# Financial Performance in the options collateral Pool
+# Financial Performance in the options collateral Pools
 
 ## Priced with probabilities
 
@@ -10,7 +10,7 @@ It is widely accepted that cryptoassets like Bitcoin (BTC) and Ethereum (ETH) ar
 
 **Is this true?**
 
-## How to measure the Financial Performance in the Pool
+## How to measure the Financial Performance in the Pools
 
 Before we jump into the mathematics, it is important to understand that volatility is an important parameter for pricing options. Options will be more expensive in more volatile assets. It is often known as implied volatility in pricing options in the BS model. Here in the following analysis, we use the historical average volatility to price options.
 
@@ -22,7 +22,7 @@ Third, suppose the same amount of puts and calls is written by the pool, we can 
 
 Last, we allocate different weights to the options in different expiry, referring to the transaction volume on Deribit. We can derive the pool’s average expected APR and the [maximum drawdown](https://www.investopedia.com/terms/m/maximum-drawdown-mdd.asp).
 
-## Results in BTC and ETH Options Pool
+## Results in BTC and ETH Options Pools
 
 The details of calculation can be found [here](https://docs.google.com/spreadsheets/d/1XN3lRwnKf__2PBCqHk9wVY-j2cxlJe4kB4JDPvD73x0/edit?usp=sharing). 
 

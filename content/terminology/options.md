@@ -84,10 +84,10 @@ In-the-money (ITM) options have intrinsic value, meaning you can exercise the op
 
 Exercise means to put into effect the right to buy or sell the underlying assets specified in an options contract.The holder of an option has the right, but not the obligation, to buy or sell the option's underlying asset at a specified price on or before a specified date in the future.
 
-If the owner of an option decides to buy or sell the underlying asset—instead of allowing the contract to expire, worthless or closing out the position—they will be "exercising the option," or making use of the right, or privilege that is available in the contract.
+If the owners of an option decide to buy or sell the underlying asset—instead of allowing the contract to expire, worthless or closing out the position—they will be "exercising the option," or making use of the right, or privilege that is available in the contract.
 
-Exercising a put option allows you to sell the underlying security at a stated price within a specific timeframe.
-Exercising a call option allows you to buy the underlying security at a stated price within a specific timeframe.
+Exercising a put option allows you to sell the underlying asset at a stated price within a specific timeframe.
+Exercising a call option allows you to buy the underlying asset at a stated price within a specific timeframe.
 
 ## IV
 

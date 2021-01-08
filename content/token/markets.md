@@ -4,7 +4,7 @@ Looking to get your hands on some FNX tokens?
 
 Note that FNX tokens are now live on both Ethereum as ERC20 tokens and Wanchain as WRC20 tokens.
 
-**On Ethereum:** The easiest way to trade FNX tokens is through Uniswap by clicking [here](https://uniswap.info/token/0xef9cd7882c067686691b6ff49e650b43afbbcc6b). 
+**On Ethereum:** The easiest way to trade FNX tokens is through Uniswap [here](https://uniswap.info/token/0xef9cd7882c067686691b6ff49e650b43afbbcc6b) and Sushiswap [here](https://exchange.sushiswapclassic.org/#/swap?outputCurrency=0xef9cd7882c067686691b6ff49e650b43afbbcc6b). 
 
 Before confirming your transaction, always verify the FNX token smart contract address: 0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B
 

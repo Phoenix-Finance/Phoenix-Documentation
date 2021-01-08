@@ -14,3 +14,6 @@
 
 ## Decentralized Liquidity Pools
 [Decentralized Liquidity Pools: A Deep Dive With FinNexus Options](https://coinmarketcap.com/alexandria/article/decentralized-liquidity-pools-a-deep-dive-with-finnexus-options) by FinNexus Cofounder [Ryan Tian](https://twitter.com/rainiefield) on [Coinmarketcap Alexandria](https://coinmarketcap.com/alexandria/) on 2020-12-20.
+
+## Protecting and Appreciating Crypto Wealth With Options: A How-To Guide With FinNexus Options
+[Protecting and Appreciating Crypto Wealth With Options](https://coinmarketcap.com/alexandria/article/protecting-and-appreciating-crypto-wealth-with-options) by FinNexus Cofounder [Ryan Tian](https://twitter.com/rainiefield) on [Coinmarketcap Alexandria](https://coinmarketcap.com/alexandria/) on 2021-01-06.

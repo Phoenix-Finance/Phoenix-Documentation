@@ -18,7 +18,7 @@ Please go to [FNX dashboard](https://www.finnexus.io/dashboard) for circulation 
 | Burnt tokens                          | 30580313  | 6.12%      | Burnt        | Burnt before 2020-08-23 | -                                         |
 | Circulation                                                         | 13745786  | 2.75%      | Circulating | -                        | -                                         |
 
-*(Please note that on 21st August 2020, FinNexus moved 1 million $FNX from the Community Rewards Fund (Mining Incentives & DAO) to the Uniswap mining smart contract address, in the mining pool, as stated [here](https://medium.com/finnexus/introducing-fnx-liquidity-mining-rewards-on-uniswap-24493fbe49d8).)*
+*(The table above is the distribution on 2020-08-01. Please check the dashboard above for the latest distribution.)*
 
 ## Potential FNX Circulation in Three Years:
 
@@ -35,7 +35,7 @@ At the end of this theoretical 3-year period, the circulating supply would be le
 
 ## Differences between old model and current model
 
-The FNX tokenomics were modified on August 25th, 2020 from the original tokenomics published during the token sale. This section is a brief overview of the changes. For a more in depth overview, please see this article from the [official FinNexus blog](https://medium.com/finnexus/fnx-tokenomics-update-382dcbc5d1b9).
+The FNX distribution was modified on August 25th, 2020 from the original one published during the token sale. This section is a brief overview of the changes. For a more in depth overview, please see this article from the [official FinNexus blog](https://medium.com/finnexus/fnx-tokenomics-update-382dcbc5d1b9).
 
 ![The original FNX token distribution plan accompanying our initial offering.](https://cdn-images-1.medium.com/max/2400/1*6zE_8Xe-VTZjK_wzmmRBTQ.png)*The original FNX token distribution plan accompanying our initial offering.*
 

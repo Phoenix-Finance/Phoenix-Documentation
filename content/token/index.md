@@ -18,7 +18,7 @@ Please go to [FNX dashboard](https://www.finnexus.io/dashboard) for circulation 
 | Burnt tokens                          | 30580313  | 6.12%      | Burnt        | Burnt before 2020-08-23 | -                                         |
 | Circulation                                                         | 13745786  | 2.75%      | Circulating | -                        | -                                         |
 
-*(The table above is the distribution on 2020-08-01. Please check the dashboard above for the latest distribution.)*
+*(The table above is the distribution on 2020-08-25. Please check the [FNX dashboard](https://www.finnexus.io/dashboard) for the latest distribution.)*
 
 ## Potential FNX Circulation in Three Years:
 

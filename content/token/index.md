@@ -2,9 +2,9 @@
 
 The FNX token is the network token for the entire suite of FinNexus protocol clusters. It serves a variety of purposes including payment medium, settlement medium, collateral, liquidity mining, governance, voting and more. In our flagship FinNexus Protocol for Options (FPO) product, its most important role is that of collateral. It is the value from which synthetic options may be generated. As FPO's options are all over-collateralized, the value of the assets in the FPO pool must always be enough to cover outstanding options contracts, and FNX will play a key role in providing that value. 
 
-## Tokenomics
+## Token Distribution
 
-Please go to [FNX dashboard](https://fnx.finnexus.io) for circulation details.
+Please go to [FNX dashboard](https://www.finnexus.io/dashboard) for circulation details.
 
 | **Items**                                                               | **Amount**    | **Percentage** | **Status**      | **Time to Release/Burn**     | **Duration of Release**                      |
 |---------------------------------------------------------------------|-----------|------------|----------------|--------------------------|-------------------------------------------|

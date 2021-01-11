@@ -46,7 +46,7 @@ nav:
     
   - FinNexus Token (FNX): 
     - Addresses: token/addresses.md
-    - Tokenomics: token/index.md
+    - Token Distribution: token/index.md
     - How to get FNX: token/markets.md
     - FNX mining: token/mining.md
     - Add FNX to Wanchain Wallet: token/add_fnx.md

@@ -20,6 +20,7 @@ docs_dir: 'content'
 nav:
   - Introduction: index.md
   - About FinNexus: 
+    - Product Paper: about/productpaper.md
     - Whitepapers(old): about/papers.md
     - Official Links: about/links.md
     

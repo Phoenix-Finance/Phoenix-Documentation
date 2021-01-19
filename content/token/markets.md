@@ -14,7 +14,7 @@ Before confirming your transaction, always verify the FNX token smart contract a
 
 ## Centralized Exchanges
 
-FNX tokens are listed on a number of centralized exchanges, including on [Bitmax](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/fnx), [Bitrue](https://www.bitrue.com/), [BKex](https://www.bkex.com/#/trade/FNX_USDT), [Hoo](https://hoo.com/spot/fnx-usdt), [jbex](https://www.jbex.com/exchange/FNX/USDT).
+FNX tokens are listed on a number of centralized exchanges, including on [Bitmax](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/fnx),[MXC](https://www.mxc.ai/trade/easy#FNX_USDT) ,[Bitrue](https://www.bitrue.com/), [BKex](https://www.bkex.com/#/trade/FNX_USDT), [Hoo](https://hoo.com/spot/fnx-usdt), [jbex](https://www.jbex.com/exchange/FNX/USDT).
 
 **Note that Bitrue and BKex have both WRC20 and ERC20 FNX tokens in circulation and users can exchanges FNX tokens to either technical standard freely.**
 

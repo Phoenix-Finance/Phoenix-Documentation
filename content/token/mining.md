@@ -2,6 +2,19 @@
 
 Currently there are two ways of participating in the FNX ecosystem and gaining FNX mining rewards.
 
+## FPO liquidity mining on Ethereum and Wanchain
+
+The official version of the FinNexus Protocol for Options (FPO) v1.0 is online on the Ethereum and the Wanchain mainnet. Both versions will be accessible from [a joint UI](https://options.finnexus.io/#/).
+
+A new mining program was online on 2021-01-25. Simply by depositing in the collateral pool from the UI, users will be eligible for mining rewards.
+
+![](https://cdn-images-1.medium.com/max/7014/1*XquoQv--yHdoJ4-6Re4wOw.jpeg)
+
+For more details about how the FPO mining works and how to maximize your rewards by 320X, please read it [here](https://finnexus.io/blog/the-finnexus-guide-to-mining-staking) on Ethereum and [here](https://github.com/FinNexus/Pdfs/blob/master/HowtoMine_WAN.pdf) on Wanchain.
+
+挖矿教程以及如何最大化挖矿收益（320x）请参考[太坊教程](https://finnexus.io/blog/new-mining-guide-chinese)以及[Wanchain的教程](https://github.com/FinNexus/Pdfs/blob/master/HowtoMine_WAN%20CHN.pdf)。
+
+
 ## [Uniswap liquidity mining](https://www.docs.finnexus.io/products/liquidity/)
 
 The FinNexus Options Liquidity Mining DApp rewards participants with extra FNX for providing liquidity to the [FNX/ETH Uniswap Pool](https://uniswap.info/pair/0x722885cab8be10b27f359fcb225808fe2af07b16).
@@ -10,13 +23,3 @@ Visit the [mining UI](https://liquidity.finnexus.io). With the UNI-V2 tokens you
 
 Please refer to the content [here](https://www.docs.finnexus.io/products/liquidity/) and [here](https://medium.com/finnexus/migrating-to-uniswap-liquidity-mining-phase-2-15e98a4e7bc2) for further information.
 
-## FPO collateal pool mining on [Ethereum](https://medium.com/finnexus/finnexus-defi-options-mainnet-goes-live-november-4th-on-ethereum-mark-the-date-46e49fe62ca4) and [Wanchain](https://medium.com/finnexus/finnexus-options-comes-to-wanchain-7528052faa8d)
-
-The official version of the FinNexus Protocol for Options (FPO) v1.0 is online on the Ethereum and the Wanchain mainnet. Both versions will be accessible from [a joint UI](https://options.finnexus.io/#/).
-
-Simply by depositing in the collateral pool from the UI, users will be eligible for the FNX mining rewards.
-
-
-![FNX mining](https://miro.medium.com/max/3000/1*lMO3yj-DFtc7cxKbibcR3g.png)
-
-Note: the WAN rewards on Wanchain ended on 2020-12-08.

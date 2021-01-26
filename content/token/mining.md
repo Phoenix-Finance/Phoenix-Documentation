@@ -72,6 +72,7 @@ The new mining program on Wanchain will apply a similar mechanism to the one pro
 ![](https://i.imgur.com/Jhsuqyn.jpg)
 
 However, please bear in mind:
+
 + The WAN/FNX pool on Wanchain will be equivalent to the FNX pool on Ethereum.
 + The stablecoin pool (wanUSDT Pool) on Wanchain will be equivalent to the USDC/USDT pool on Ethereum.
 + The total basic mining reward is set to be 2,000 FNX/Day.

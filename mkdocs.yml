@@ -23,7 +23,8 @@ nav:
     - Product Paper: about/productpaper.md
     - Whitepapers(old): about/papers.md
     - Official Links: about/links.md
-    
+  - Guides:
+    - How to Mine: guides/mining.md
   - Products: 
     - Introduction: products/index.md
     - Derivatives:
@@ -33,7 +34,6 @@ nav:
       - Wandora Box: products/wandora.md
     - Liquidity mining:
       - FPO Liquidity Mining: products/liquidity.md
-
   - Options Protocol (FPO):
     - Options Basics:  options/index.md
     - Options Key Terms:  options/terms.md

@@ -9,7 +9,11 @@ Currently there are two ways to mine FNX:
 
 The basic principle of FPO liquidity mining is that users first supply liquidity to the FPO platform, and in return, receive FPT tokens which represent their share of the FPO liquidity pool. Users then stake their FPT tokens in the FPO mining contract to earn rewards for providing liquidity. There are various ways to increase the level of rewards from mining. Read below to learn how to maximize your rewards.
 
-### Basic Mining
+### Mining Program on Ethereum
+
+*Note: the FPT-USDC/USDT refers to the pool share token in the USDC/USDT Pool (USDT is included as additional collateral on this update), while FPT-FNX indicates the pool share token in the FNX Pool.
+
+#### Basic Mining
 
 + Both USDC/USDT and FNX contributors in the USDC/USDT and FNX liquidity pools can participate in FNX mining, by simply staking FPT-USDC/USDT or FPT-FNX* pool share tokens in the mining contract.
 + Each user’s mining power is calculated according to her/his amount of  FPT-USDC/USDT or FPT-FNX tokens staked.
@@ -19,14 +23,14 @@ The basic principle of FPO liquidity mining is that users first supply liquidity
 + The total basic mining reward is set to be 20,000 FNX/Day.
 + FPT-FNX is required to be locked for a minimum period of 15 days to participate in basic mining. FPT-USDC/USDT does not require to be locked.
 
-### Mining Calculations
+#### Mining Calculations
 
 *User’s mining score = amt of FPT-USDC/USDT + amt of FPT-FNX + min(amt of FPT-USDC/USDT, 10×amt of FPT-FNX)×20
 Share of a miner = one’s mining score / total score of all miners
 Basic mining Amt = Total Basic Reward × Share of a miner
 Total Basic Reward = 20,000 FNX/Day*
 
-### Boosting
+#### Boosting
 
 + A reward multiplier is added to the basic mining amount.
 + The longer one locks FPT-FNX, the higher the boost will be. (See table below.)
@@ -40,11 +44,12 @@ Total Basic Reward = 20,000 FNX/Day*
 |reward multiplier|1|5|6|7|8|9|10|
 |locking period|21 months|24 months|27 months|30 months|33 months|36 months||
 |reward multiplier|11|12|13|14|15|16||
-　
-### Boosting Calculations
+
+#### Boosting Calculations
+
 *Total mining Amt = Basic mining Amt × reward multiplier*
 
-### Notes
+#### Notes
 
 + All FNX mined will be vested and linearly released in 6 months.
 + cFNX tokens will be minted and can be claimed anytime as a voucher for mining rewards.
@@ -52,7 +57,7 @@ Total Basic Reward = 20,000 FNX/Day*
 + cFNX can be transferred to FNX at a 1:1 ratio.
 + Once sent to the conversion contract, cFNX will be burnt and ⅙ FNX can be claimed monthly in 6 months.
 
-### Summary
+#### Summary
 
 + Greatly increases mining incentives compared with the current plan.
 + Creates a joint mining pool with new mining contracts for both the USDC/USDT and FNX pool.
@@ -67,11 +72,10 @@ The new mining program on Wanchain will apply a similar mechanism to the one pro
 ![](https://i.imgur.com/Jhsuqyn.jpg)
 
 However, please bear in mind:
+
 + The WAN/FNX pool on Wanchain will be equivalent to the FNX pool on Ethereum.
 + The stablecoin pool (wanUSDT Pool) on Wanchain will be equivalent to the USDC/USDT pool on Ethereum.
 + The total basic mining reward is set to be 2,000 FNX/Day.
-
-*Note: the FPT-USDC/USDT refers to the pool share token in the USDC/USDT Pool (USDT is included as additional collateral on this update), while FPT-FNX indicates the pool share token in the FNX Pool.
 
 ## [Uniswap liquidity mining](https://www.docs.finnexus.io/products/liquidity/)
 

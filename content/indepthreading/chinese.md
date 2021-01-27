@@ -23,3 +23,8 @@
 
 ## 期权市场流动性难题如何破解？
 [期权市场流动性难题如何破解？去中心化期权平台 FinNexus 提供了这样的思路](https://www.chainnews.com/articles/060659182386.htm) 发布于链闻 2021-1-21
+
+## 加密货币期权竞逐：FinNexus 的流动性聚合解法有何特色？
+[加密货币期权竞逐：FinNexus 的流动性聚合解法有何特色?](https://www.chainnews.com/articles/091863654556.htm) 发布于链闻 2021-1-27
+
+

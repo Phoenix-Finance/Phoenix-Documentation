@@ -49,7 +49,7 @@ nav:
     - Addresses: token/addresses.md
     - Token Distribution: token/index.md
     - How to get FNX: token/markets.md
-    - FNX mining: token/mining.md
+    - FNX mining: token/mining-fpo.md
     - Add FNX to Wanchain Wallet: token/add_fnx.md
   - Governance: 
     - Overview: governance/index.md

@@ -53,9 +53,10 @@ nav:
     - Add FNX to Wanchain Wallet: token/add_fnx.md
   - Governance: 
     - Overview: governance/index.md
-  - APIs:
-    - Overview:  apis/index.md
-    - FNX Token API v0.1 Alpha:  apis/token.md
+  - Developers:
+    - Overview:  developers/index.md
+    - FNX Token API v0.1 Alpha:  developers/token-api.md
+    - Smart Contracts:  developers/smart-contracts.md
   - Terminology:
     - Overview:  terminology/index.md
     - DeFi Terms: terminology/defi.md

@@ -1,6 +1,8 @@
 ## Interim Governance Rules
 
-In order to get FinNexus governance kicked off, we have established these interim governance rules. The rules will change and evolve over time according to community proposals and votes. While the long term goal is 100% community controlled governance, during this interim period, the FinNexus team will take a more hands on role in making certain that governance gets off on the right foot. 
+In order to get FinNexus governance kicked off, we have established interim governance rules. 
+
+Governance rules will change and evolve over time according to community proposals and votes. While the long term goal is 100% community controlled governance, during this interim period, the FinNexus team will take a more hands on role in making certain that governance gets off on the right foot. 
 
 These rules have been set as temporary rules by the FinNexus team in order to get governance kicked off, they will evolve over time based on future proposals and votes. 
 

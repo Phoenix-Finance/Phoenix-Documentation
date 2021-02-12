@@ -6,6 +6,8 @@ The FNX token is the network token for the entire suite of FinNexus protocol clu
 
 Please go to [FNX dashboard](https://www.finnexus.io/dashboard) for circulation details.
 
+Please note that FinNexus burned 292,601,955 FNX tokens on 12th Feb 2021. The following distribution is pending to be updated.
+
 | **Items**                                                               | **Amount**    | **Percentage** | **Status**      | **Time to Release/Burn**     | **Duration of Release**                      |
 |---------------------------------------------------------------------|-----------|------------|----------------|--------------------------|-------------------------------------------|
 | **FNX Maximum Supply**                                                  | **500000000** | **100.00%**   | **-**              | **-**                        | **Set in smart contract** |

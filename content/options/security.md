@@ -57,7 +57,7 @@ DeFi is still at a nascent experimental stage. We witnessed a number of exploits
 
 However, flash loans require that all assets borrowed should be returned before the end of the transaction, in the same mined block.
 
-To protect against possible flash loan exploits in FPO v1.0, a special mechanism called ‘Chill Time’ is designed, during which the options buyers cannot sell or exercise the options, and the pool participants cannot withdraw their assets out of the pool. ‘Chill Time’ is set to be one hour.
+To protect against possible flash loan exploits in FPO v1.0, a special mechanism called ‘Chill Time’ is designed, during which the options buyers cannot sell or exercise the options, and the pool participants cannot withdraw their assets out of the pool. ‘Chill Time’ for options exercise is set to be one hour. ‘Chill Time’ for pool withdrawal is set to be one day.
 
 ### 4. Moving Average IV and the IV Surface Mapping
 

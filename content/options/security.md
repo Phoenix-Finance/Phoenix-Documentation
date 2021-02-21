@@ -51,7 +51,7 @@ The more options written by the pool, the more expensive they are.*
 
 ![](https://miro.medium.com/max/875/1*gtx24oI7Rd6kh3idl-xiKQ.png "An example on options pricing influenced by the coefficient")
 
-### 3. One-hour Chill Time
+### 3. Chill Time
 
 DeFi is still at a nascent experimental stage. We witnessed a number of exploits in the past few months, among which a great proportion are done though [flash loans](https://news.bitcoin.com/defi-flash-loans/). These instant uncollateralized loans enable attackers to make nearly risk-free trials to hack decentralized protocols with little capital requirements and low costs beyond Ethereum gas fees and the time to research the potential exploit.
 

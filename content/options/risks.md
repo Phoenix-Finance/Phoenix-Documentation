@@ -1,6 +1,6 @@
 # On the Risks in FPO v1.0
 
-Before ‘jumping into the pool’ or starting buying options on the FPO v1.0, it is important to understand the potential risks of the protocol for every user. The liquidity/collateral pool is a risk-free, and participants can lose money/
+Before ‘jumping into the pool’ or starting buying options on the FPO v1.0, it is important to understand the potential risks of the protocol for every user. The liquidity/collateral pool is not risk-free, and participants can lose money/
 
 The risks below are presented in no particular order.
 

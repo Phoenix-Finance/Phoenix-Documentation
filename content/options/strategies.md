@@ -5,7 +5,7 @@ The long call option strategy is the most basic option trading strategy, whereby
 ![image|690x437](https://aws1.discourse-cdn.com/standard17/uploads/community12/original/1X/0bce6bc743ed0c8d30a496a7ad594c2199ebec5f.jpeg) 
 
 Sam is a ETH hodler and he is bullish due to the growing DeFi ecosystem on Ethereum. He is holding 1 ETH already. To maximize his gains if the ETH price goes up in the near future, Sam buys 1 ETH call with the strike price of $700 and the expiry of 15 days. The premium is $70 for each contract.
-If the price grows by 20% to $840 in two weeks, Sam will get $140 ($840-$700) by exercising the call, and the return is 100% (($140-$70)/$70). The call gives Sam a 5x leverage in return.
+If the price grows by 20% to $840 in two weeks, Sam will get $140 ( $840-$700 ) by exercising the call, and the return is 100% ( ( $140-$70 ) / $70 ). The call gives Sam a 5x leverage in return.
 
 If the price drops by 20% to $560 in two weeks, Sam will not exercise the call option and $70 is all he can lose. But for holding one ETH, Sam may lose $140 from the collapse.
 

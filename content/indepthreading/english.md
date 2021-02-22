@@ -17,3 +17,6 @@
 
 ## Protecting and Appreciating Crypto Wealth With Options: A How-To Guide With FinNexus Options
 [Protecting and Appreciating Crypto Wealth With Options](https://coinmarketcap.com/alexandria/article/protecting-and-appreciating-crypto-wealth-with-options) by FinNexus Cofounder [Ryan Tian](https://twitter.com/rainiefield) on [Coinmarketcap Alexandria](https://coinmarketcap.com/alexandria/) on 2021-01-06.
+
+## A Deep Dive Into Pooled Liquidity in DeFi Options
+[A Deep Dive Into Pooled Liquidity in DeFi Options](https://coinmarketcap.com/alexandria/article/a-deep-dive-into-pooled-liquidity-in-defi-options-finnexus) by FinNexus Cofounder [Ryan Tian](https://twitter.com/rainiefield) on [Coinmarketcap Alexandria](https://coinmarketcap.com/alexandria/) on 2021-02-18.

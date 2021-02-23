@@ -28,7 +28,7 @@ The basic principle of FPO liquidity mining is that users first supply liquidity
 *User’s mining score = amt of FPT-USDC/USDT + amt of FPT-FNX + min(amt of FPT-USDC/USDT, 10×amt of FPT-FNX)×20
 Share of a miner = one’s mining score / total score of all miners
 Basic mining Amt = Total Basic Reward × Share of a miner
-Total Basic Reward = 20,000 FNX/Day*
+Total Basic Reward = 20,000 CFNX/Day*
 
 #### Boosting
 
@@ -75,7 +75,7 @@ However, please bear in mind:
 
 + The WAN/FNX pool on Wanchain will be equivalent to the FNX pool on Ethereum.
 + The stablecoin pool (wanUSDT Pool) on Wanchain will be equivalent to the USDC/USDT pool on Ethereum.
-+ The total basic mining reward is set to be 500 FNX/Day.
++ The total basic mining reward is set to be 500 CFNX/Day.
 
 ## [Uniswap liquidity mining](https://www.docs.finnexus.io/products/liquidity/)
 

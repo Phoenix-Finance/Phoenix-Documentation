@@ -2,8 +2,8 @@
 
 Currently there are two ways to mine FNX:
 
-1. Uniswap liquidity mining
 1. FinNexus Protocol for Options (FPO) liquidity mining
+1. Sushiswap liquidity mining
 
 ## FPO Liquidity Mining
 
@@ -77,11 +77,31 @@ However, please bear in mind:
 + The stablecoin pool (wanUSDT Pool) on Wanchain will be equivalent to the USDC/USDT pool on Ethereum.
 + The total basic mining reward is set to be 500 CFNX/Day.
 
-## [Uniswap liquidity mining](https://www.docs.finnexus.io/products/liquidity/)
+## Sushiswap Liquidity Mining
 
-The FinNexus Options Liquidity Mining DApp rewards participants with extra FNX for providing liquidity to the [FNX/ETH Uniswap Pool](https://uniswap.info/pair/0x722885cab8be10b27f359fcb225808fe2af07b16).
+Following a favorable community vote, FinNexus is starting a new liquidity mining program on Sushiswap on February 10, 2021, with 3000 CFNX as daily mining rewards.
 
-Visit the [mining UI](https://liquidity.finnexus.io). With the UNI-V2 tokens you get from providing liquidity to the [FNX/ETH Uniswap Pool](https://uniswap.info/pair/0x722885cab8be10b27f359fcb225808fe2af07b16), enter the amount of FNX/ETH UNI-V2 tokens you want to stake from your wallet. Once you have completed this step, you will begin to accrue FNX rewards.
+Incentives will be paid in convertible FNX (CFNX), which can be exchanged 1:1 to FNX.
 
-Please refer to the content [here](https://www.docs.finnexus.io/products/liquidity/) and [here](https://medium.com/finnexus/migrating-to-uniswap-liquidity-mining-phase-2-15e98a4e7bc2) for further information.
+Liquidity mining on Uniswap will end at the same time.
+
+Please be aware that in order to convert, users must send the cFNX to the conversion contact. Afterward, 1/6th of the total cFNX burnt will be added to the user's redeemable FNX once a month over the following 6 months. The user may choose to redeem their FNX either once every month, or may choose to wait until they have accumulated enough and redeem it all together.
+
+### How to mine Sushi and FNX together?
+
+![](https://i.imgur.com/Sn3bmco.png)
+
+A notice will pop up once you open the [FinNexus Options UI](options.finnexus.io). This will take you to the [Sushi Onsen Program](https://www.sushiswap.fi/pair/0xaa500101c73065f755ba9b902d643705ef2523e3).
+
+By contributing liquidity to the FNX/ETH pair and staking in the Onsen Farming Program, you will be automatically eligible for both Sushi and FNX rewards.
+
+![](https://i.imgur.com/zDQf4mH.png)
+
+Sushi rewards can be claimed on the [Sushi Onsen page](https://www.sushiswap.fi/farms/special) by navigating to the FNX/ETH pair. Please note that the Sushi rewards will be vested according to [the Sushi farming rules](https://docs.sushiswap.fi/products/yield-farming/the-sushi-menu).
+
+![](https://i.imgur.com/TEwOp8B.png)
+
+FNX rewards can be claimed on the 1st day of every month from our UI pop-ups.
+
+The FinNexus team reserves the right to adjust the FNX mining rewards monthly according to the liquidity in the Sushiswap liquidity pool.
 

@@ -6,53 +6,18 @@ The FNX token is the network token for the entire suite of FinNexus protocol clu
 
 Please go to [FNX dashboard](https://www.finnexus.io/dashboard) for circulation details.
 
-Please note that FinNexus burned 292,601,955 FNX tokens on 12th Feb 2021. The following distribution is pending to be updated.
+||New Distribution|Percentage|Status|Time to Release/Burn|Duration of Release|
+|---|---|---|---|---|---|
+|Coded Max Supply| 500,000,000 |||||
+|Burnt (old)|323,504,593||burnt|burnt|NA|
+|Total Supply| 176,495,407 |100.00%||||
+|Current Circulation|24,023,182|13.61%||Circulating|-|
+|Institutional Reserve|3,472,225|1.97%|locked|08/26/2020|12 months|
+|Team|25,000,000|14.16%|locked|05/26/2021|30 months|
+|Operation|10,000,000|5.67%|locked|05/26/2021|60 months|
+|Insurance Fund|25,000,000|14.16%|locked|-|-|
+|Community Rewards|79,000,000|44.76%|locked|according to the incentive plan|-|
+|Future Token sales|10,000,000|5.67%|locked|TBD|-|-                        | -                                         |
 
-| **Items**                                                               | **Amount**    | **Percentage** | **Status**      | **Time to Release/Burn**     | **Duration of Release**                      |
-|---------------------------------------------------------------------|-----------|------------|----------------|--------------------------|-------------------------------------------|
-| **FNX Maximum Supply**                                                  | **500000000** | **100.00%**   | **-**              | **-**                        | **Set in smart contract** |
-| Institutional investors                                            | 8333333   | 1.67%      | Locked         | 08/26/20                 | 12 months                                 |
-| Team reserves                               | 25000000  | 5.00%      | Locked         | 05/26/21                 | 30 months                                 |
-| Community rewards fund (liquidity mining and DAO) | 350000000 | 70.00%     | Locked         | TBD                      | During periods of liquidity mining |
-| Insurance Pool                                                      | 25000000  | 5.00%      | Locked         | -                        | -                                         |
-| Operational Reserves | 22340567  | 4.47%      | Locked         | 05/26/21                 | 60 months                                 |
-| Future token sales                                    | 25000000  | 5.00%      | locked         | TBD                      | TBD                                       |
-| Burnt tokens                          | 30580313  | 6.12%      | Burnt        | Burnt before 2020-08-23 | -                                         |
-| Circulation                                                         | 13745786  | 2.75%      | Circulating | -                        | -                                         |
+*(The table above is the distribution on 2021-03-01) Please go to [FNX dashboard](https://www.finnexus.io/dashboard) for updated circulation details.
 
-*(The table above is the distribution on 2020-08-25. Please check the [FNX dashboard](https://www.finnexus.io/dashboard) for the latest distribution.)*
-
-## Potential FNX Circulation in Three Years:
-
-* *Given that [Uniswap liquidity incentives](../products/liquidity) will last for 1 year with 3.6m $FNX as incentive, and*
-
-* *Given that FPO liquidity incentives will last for 3 years with 9.6m $FNX / year*
-
-We anticipate the evolution of the FNX token supply to look like the following:
-
-![Potential FNX Circulation in 3 Years](https://cdn-images-1.medium.com/max/2584/1*a5FbB054p2CMHFCQBcrHxg.png)
-<center>*Potential FNX Circulation in 3 Years*</center>
-
-At the end of this theoretical 3-year period, the circulating supply would be less than 90m, or 18% of the maximum $FNX supply.
-
-## Differences between old model and current model
-
-The FNX distribution was modified on August 25th, 2020 from the original one published during the token sale. This section is a brief overview of the changes. For a more in depth overview, please see this article from the [official FinNexus blog](https://medium.com/finnexus/fnx-tokenomics-update-382dcbc5d1b9).
-
-![The original FNX token distribution plan accompanying our initial offering.](https://cdn-images-1.medium.com/max/2400/1*6zE_8Xe-VTZjK_wzmmRBTQ.png)*The original FNX token distribution plan accompanying our initial offering.*
-
-![The new community-oriented plan for FNX token distribution.](https://cdn-images-1.medium.com/max/2400/1*tl4MTkW2_bgnGioV2HHv7A.png)*The new community-oriented plan for FNX token distribution.*
-
-## Community-Oriented FNX Distribution
-
-1. Maintain the previously announced growth in circulating supply.
-
-1. Greatly decrease the allocation to team and founding investors.
-
-1. Establish an ecosystem fund.
-
-1. Establish an insurance fund.
-
-1. Decrease the operational reserves and future token sale reserves.
-
-1. Decrease the circulating supply on the market 3 years hence quite significantly compared with [the previous plan](https://medium.com/finnexus/a-note-on-fnx-circulating-supply-7820d668224f) for FNX token distribution.

@@ -12,12 +12,16 @@ Please go to [FNX dashboard](https://www.finnexus.io/dashboard) for circulation 
 |Burnt (old)|323,504,593||burnt|burnt|NA|
 |Total Supply| 176,495,407 |100.00%||||
 |Current Circulation|24,023,182|13.61%||Circulating|-|
-|Institutional Reserve|3,472,225|1.97%|locked|08/26/2020|12 months|
+|Institutional Reserve 1|3,472,225|1.97%|locked|08/26/2020|12 months|
 |Team|25,000,000|14.16%|locked|05/26/2021|30 months|
 |Operation|10,000,000|5.67%|locked|05/26/2021|60 months|
 |Insurance Fund|25,000,000|14.16%|locked|-|-|
 |Community Rewards|79,000,000|44.76%|locked|according to the incentive plan|-|
-|Future Token sales|10,000,000|5.67%|locked|TBD|-|-                        | -                                         |
+|Institutional Reserve 2|10,000,000|5.67%|locked|05/26/2021|12 months|-                        | -                                         |
 
-*(The table above is the distribution on 2021-03-01) Please go to [FNX dashboard](https://www.finnexus.io/dashboard) for updated circulation details.
+*(The table above is the distribution on 2021-03-09)
+
+Institutional Reserve 2 refers to the private sales in [this round](https://finnexus.io/blog/finnexus-completes-1-5-round-of-financing). 10,000,000 FNX tokens and 20% of the company's equity were sold to the investors.
+
+ Please go to [FNX dashboard](https://www.finnexus.io/dashboard) for updated circulation details.
 

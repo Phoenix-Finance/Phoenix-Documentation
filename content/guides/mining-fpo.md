@@ -1,5 +1,6 @@
 
 # How to Stake FPT and Mine FNX 
+***This guide was drafted with the last UI before March 2021, the mining logic remains the same while the UI appears to be a bit different from the current live one. We will update the guide once the new calculator is online. Thanks for your understanding.***
 
 ## Part 1: Provide Liquidity to Get FPT
 

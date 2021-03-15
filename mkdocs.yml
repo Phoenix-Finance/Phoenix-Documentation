@@ -24,6 +24,7 @@ nav:
     - Whitepapers(old): about/papers.md
     - Official Links: about/links.md
   - Guides:
+    - How to buy options: guides/buyoptions.md
     - How to Mine (FPO): guides/mining-fpo.md
   - Products: 
     - Introduction: products/index.md

@@ -20,3 +20,7 @@
 
 ## A Deep Dive Into Pooled Liquidity in DeFi Options
 [A Deep Dive Into Pooled Liquidity in DeFi Options](https://coinmarketcap.com/alexandria/article/a-deep-dive-into-pooled-liquidity-in-defi-options-finnexus) by FinNexus Cofounder [Ryan Tian](https://twitter.com/rainiefield) on [Coinmarketcap Alexandria](https://coinmarketcap.com/alexandria/) on 2021-02-18.
+
+## A DeFi Model for Decentralized Leveraged Tokens: FinNexus
+[A DeFi Model for Decentralized Leveraged Tokens: FinNexus](https://coinmarketcap.com/alexandria/article/a-defi-model-for-decentralized-leveraged-tokens-finnexus) by FinNexus Cofounder [Ryan Tian](https://twitter.com/rainiefield) on [Coinmarketcap Alexandria](https://coinmarketcap.com/alexandria/) on 2021-03-23.
+

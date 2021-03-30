@@ -1,5 +1,5 @@
 # FinNexus Protocol for Options
-The FinNexus Protocol for Options (FPO) is the cross-chain, permissionless protocol for options built by FinNexus. FPO launched on Wanchain and Ethereum, with future plans to expand across a variety of different blockchains.
+The FinNexus Protocol for Options (FPO) is the cross-chain, permissionless protocol for options built by FinNexus. FPO launched on Ethereum, Binance Smart Chain and Wanchain, with future plans to expand across a variety of different blockchains.
 
 The first experimental version of FPO v0.1 went live mid-year 2020 on Wanchain and was currently terminated for future upgrades. The official release of FPO v1.0 is scheduled to go live in Nov 2020.
 

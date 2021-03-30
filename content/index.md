@@ -2,9 +2,11 @@
 
 ### What is FinNexus?
 
-FinNexus is the new open finance protocol currently live on Ethereum and Wanchain blockchain. It is a hub for connecting different decentralized ledgers to each other and users, and also for connecting with traditional finance applications. The first iteration of FinNexus will be a marketplace for hybrid decentralized/traditional financial products.
+FinNexus is the new open finance protocol currently live on Ethereum, Binance Smart Chain and Wanchain. It is a hub for connecting different decentralized ledgers to each other and users, and also for connecting with traditional finance applications. The first iteration of FinNexus will be a marketplace for hybrid decentralized/traditional financial products.
 
-FinNexus is pioneering a cross-chain DeFi protocol for writing options exposure for multiple assets from within collateral pools. This groundbreaking Multi-Asset Single Pool (MASP) methodology for decentralized peer-to-pool options platforms enables anyone anywhere to leverage or hedge their positions in a variety of cryptoassets. Currently live on Ethereum and Wanchain, FinNexus intends to bring its blockchain-agnostic FinNexus Protocol for Options (FPO) to other chains.
+FinNexus is pioneering a cross-chain DeFi protocol for writing options exposure for multiple assets from within collateral pools. This groundbreaking Multi-Asset Single Pool (MASP) methodology for decentralized peer-to-pool options platforms enables anyone anywhere to leverage or hedge their positions in a variety of cryptoassets. Currently live on Ethereum, Binance Smart Chain and Wanchain, FinNexus intends to bring its blockchain-agnostic FinNexus Protocol for Options (FPO) to other chains.
+
+The next product under development is the decentralized leveraged token protocol, to be launched on Ethereum, Binance Smart Chain and Wanchain in Q2 2021.
 
 ### FNX Token
 

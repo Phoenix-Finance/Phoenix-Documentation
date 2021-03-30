@@ -3,24 +3,26 @@
 Currently there are two ways to mine FNX:
 
 1. FinNexus Protocol for Options (FPO) liquidity mining
-1. Sushiswap liquidity mining
+1. Sushiswap liquidity mining and PancakeSwap liquidity mining
 
 ## FPO Liquidity Mining
 
 The basic principle of FPO liquidity mining is that users first supply liquidity to the FPO platform, and in return, receive FPT tokens which represent their share of the FPO liquidity pool. Users then stake their FPT tokens in the FPO mining contract to earn rewards for providing liquidity. There are various ways to increase the level of rewards from mining. Read below to learn how to maximize your rewards.
 
-### Mining Program on Ethereum
+### Mining Program on Ethereum and Binance Smart Chain (BSC)
 
-*Note: the FPT-USDC/USDT refers to the pool share token in the USDC/USDT Pool (USDT is included as additional collateral on this update), while FPT-FNX indicates the pool share token in the FNX Pool.
+*Note: the FPT-USDC/USDT refers to the pool share token in the USDC/USDT Pool, while FPT-FNX indicates the pool share token in the FNX Pool. Similarly, on BSC, we have a BUSD/USDT Pool.
+A Frax Pool was added as an experimental pool in Q1 2021 on Ethereum.
+
 
 #### Basic Mining
+We take the USDC/USDT and FNX pools as an example in this guide. The same rule applies to other pools and on BSC and Wanchain.
 
 + Both USDC/USDT and FNX contributors in the USDC/USDT and FNX liquidity pools can participate in FNX mining, by simply staking FPT-USDC/USDT or FPT-FNX* pool share tokens in the mining contract.
 + Each user’s mining power is calculated according to her/his amount of  FPT-USDC/USDT or FPT-FNX tokens staked.
 + Each FPT-USDC/USDT or FPT-FNX counts as 1 point, while a group of overlapping FPT-USDC/USDT and FPT-FNX is considered 20 points.
 + The goal of the mining system is to increase the Total Value Locked (TVL) in the FinNexus Protocol for Options (FPO), especially in the USDC/USDT pool. When calculating the overlapping FPT-USDC/USDT and FPT-FNX groups, different weights will be given to the two FPT tokens, with FPT-USDC/USDT scoring 10 times higher than FPT-FNXs.
 + The share/weight of a miner is calculated as his/her mining score divided by the total score of all miners.
-+ The total basic mining reward is set to be 20,000 FNX/Day.
 + FPT-FNX is required to be locked for a minimum period of 15 days to participate in basic mining. FPT-USDC/USDT does not require to be locked.
 
 #### Mining Calculations
@@ -29,6 +31,8 @@ The basic principle of FPO liquidity mining is that users first supply liquidity
 Share of a miner = one’s mining score / total score of all miners
 Basic mining Amt = Total Basic Reward × Share of a miner
 Total Basic Reward = 20,000 CFNX/Day*
++ The total basic mining reward on Ethereum is set to be 20,000 FNX/Day, and begin halving in every 6 months from 2021-04-01.
++ The total basic mining reward on BSC is set to be 15,000 FNX/Day, and following the same halving rule as above.
 
 #### Boosting
 
@@ -44,6 +48,8 @@ Total Basic Reward = 20,000 CFNX/Day*
 |reward multiplier|1|5|6|7|8|9|10|
 |locking period|21 months|24 months|27 months|30 months|33 months|36 months||
 |reward multiplier|11|12|13|14|15|16||
+
+Please note that on BSC, the longest lock-up period for FNX is 6 months, and the largest reward multiplier is 6x.
 
 #### Boosting Calculations
 

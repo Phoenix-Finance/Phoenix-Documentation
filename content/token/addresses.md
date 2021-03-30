@@ -1,4 +1,4 @@
-FNX tokens are live both on Ethereum and Wanchain, existing in ERC20 and WRC20 form.
+FNX tokens are live both on Ethereum, Binance Smart Chain and Wanchain, existing in ERC20 and WRC20 form.
 
 **FNX ERC20 contract address:** 0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B
 

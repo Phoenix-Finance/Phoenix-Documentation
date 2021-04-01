@@ -71,7 +71,7 @@ Please note that on BSC, the longest lock-up period for FNX is 6 months, and the
 + Introduces a reward multiplier according to the lockup period in the FNX pool.
 + All FNX mining incentives will be vested and linearly released in 6 months.
 
-### New Mining Program on Wanchain
+### Mining Program on Wanchain
 
 The new mining program on Wanchain will apply a similar mechanism to the one proposed for Ethereum and described above.
 
@@ -85,7 +85,7 @@ However, please bear in mind:
 
 ## Sushiswap Liquidity Mining
 
-Following a favorable community vote, FinNexus is starting a new liquidity mining program on Sushiswap on February 10, 2021, with 3000 CFNX as daily mining rewards.
+Following a favorable community vote, FinNexus is starting a new liquidity mining program on Sushiswap on February 10, 2021, with 3000 CFNX as daily mining rewards, changed to 10000 CFNX from 1st April 2021.
 
 Incentives will be paid in convertible FNX (CFNX), which can be exchanged 1:1 to FNX.
 
@@ -97,7 +97,7 @@ Please be aware that in order to convert, users must send the cFNX to the conver
 
 ![](https://i.imgur.com/Sn3bmco.png)
 
-A notice will pop up once you open the [FinNexus Options UI](options.finnexus.io). This will take you to the [Sushi Onsen Program](https://www.sushiswap.fi/pair/0xaa500101c73065f755ba9b902d643705ef2523e3).
+A notice will pop up once you open the [FinNexus Options UI](options.finnexus.io). This will take you to the [Sushi Onsen Program](https://app.sushi.com/pair/0xaa500101c73065f755ba9b902d643705ef2523e3).
 
 By contributing liquidity to the FNX/ETH pair and staking in the Onsen Farming Program, you will be automatically eligible for both Sushi and FNX rewards.
 

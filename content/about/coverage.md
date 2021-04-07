@@ -11,7 +11,7 @@ Hackernoon - Crypto Options: Who to Know and What to Watch
 https://hackernoon.com/crypto-options-who-to-know-and-what-to-watch-vyr33hx 
 
 Bitcoinist - How FinNexus is Mainstreaming Decentralized Crypto Options
-Bitcoinist - https://bitcoinist.com/how-finnexus-is-mainstreaming-decentralized-crypto-options/ 
+https://bitcoinist.com/how-finnexus-is-mainstreaming-decentralized-crypto-options/ 
 
 Coinspeaker - FinNexus Moves to SushiSwap and Burns Massive Amount of Tokens
 https://www.coinspeaker.com/finnexus-sushiswap-burns-tokens/ 

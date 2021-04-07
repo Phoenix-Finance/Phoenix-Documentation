@@ -23,6 +23,7 @@ nav:
     - Product Paper: about/productpaper.md
     - Whitepapers(old): about/papers.md
     - Official Links: about/links.md
+    - media coverage: about/coverage.md
   - Guides:
     - How to buy options: guides/buyoptions.md
     - How to Mine (FPO): guides/mining-fpo.md

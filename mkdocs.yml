@@ -48,7 +48,7 @@ nav:
     - Making FPO v1.0 Secure: options/security.md
     
   - FinNexus Token (FNX): 
-    - Addresses: token/addresses.md
+    - Addresses and Cross-chain bridge: token/addresses.md
     - Token Distribution: token/index.md
     - How to get FNX: token/markets.md
     - FNX mining: token/mining-fpo.md

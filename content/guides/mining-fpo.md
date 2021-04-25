@@ -6,36 +6,31 @@
 
 1) Go to options.finnexus.io and choose the blockchain you plan to mine on from the top left of the page  
 
-  ![](https://cdn-images-1.medium.com/max/2000/1*8LFbCTqI01W4iG1IOujW9A.png)  
+  ![](https://i.imgur.com/Jr4caHg.png) 
 
 2) Click “Connect Wallet” on the top right to connect wallet  
 
   ![](https://cdn-images-1.medium.com/max/2000/1*v9kP8MeQfzZ22f4OGLdp8A.png)  
 
 
+3) Click “MINE”
 
-Notes: If you already supplied liquidity and already have FPT tokens, skip straight to Part 2
-
-3) Click “SUPPLY LIQUIDITY”
-
-![](https://cdn-images-1.medium.com/max/2000/1*EoeAOdd1pBPo7RtLZHehFA.png)
+![](https://i.imgur.com/1ofkTua.png)
 
 
+4) Click “Selected Pool and choose the asset you want to deposit from the drop-down menu
 
-4) Click “Select Asset” and choose the asset you want to deposit from the drop-down menu
-
-![](https://cdn-images-1.medium.com/max/2000/1*-aP0F_LjmvMYUbw5pcJQ7g.png)
+![](https://i.imgur.com/OehDSTh.png)
 
 
-5) Click “SUPPLY LIQUIDITY”
+5) Click “STAKE AND MINE”
 
-![](https://cdn-images-1.medium.com/max/2000/1*NOi2RtVrOw0iKYDEK2H7AA.png)
+![](https://i.imgur.com/7VxVYgH.png)
 
 
 6) Input the amount you want to deposit and click “NEXT”, and then “CONFIRM”
 
-![](https://cdn-images-1.medium.com/max/2566/1*BdeSRg1VQZ6dEk9LvdtHKA.png)
-
+![](https://i.imgur.com/iBtP8pJ.png)
 
 7) Complete the transaction in your browser extension wallet
 

@@ -32,37 +32,37 @@ This is an operating manual about how to mine on FPO, by providing liquidity in 
 
 ![](https://i.imgur.com/cT7FFEQ.png)
 
-7) Complete the transaction in your browser extension wallet. A transaction of approval for spending the relating asset may be needed for the first FPO interaction.
+8) Complete the transaction in your browser extension wallet. A transaction of approval for spending the relating asset may be needed for the first FPO interaction.
 
-8) After the transaction is confirmed on chain, your APY will be shown here. 
+9) After the transaction is confirmed on chain, your APY will be shown here. 
 
 ![](https://i.imgur.com/iAPbMmT.png)
 
-9) If you are not using the "Best Rewards Mining" mentioned above, you may need to manually stake some FNX to maximize the rewards. A detailed guide on how to max the APY is introduced [here](https://finnexus.io/blog/the-finnexus-guide-to-mining-staking).
+10) If you are not using the "Best Rewards Mining" mentioned above, you may need to manually stake some FNX to maximize the rewards. A detailed guide on how to max the APY is introduced [here](https://finnexus.io/blog/the-finnexus-guide-to-mining-staking).
 By clicking "Stake More FNX" button, you will be led to this page.
 
 ![](https://i.imgur.com/F6C8Mwg.png)
 
 ![](https://i.imgur.com/6lAYQ5a.png)
 
-10) Choose the amount of FNX you want to stake and the lock time period. Please note that the longer you lock FNX, the higher boosting factor you can get.
+11) Choose the amount of FNX you want to stake and the lock time period. Please note that the longer you lock FNX, the higher boosting factor you can get.
 After the transaction is processed on chain, you can check your mining details as follows on the same page.
 
 ![](https://i.imgur.com/e25nbpr.png)
 
-11) Please feel free to use the mining calculator here and try different combinations. 
+12) Please feel free to use the mining calculator here and try different combinations. 
 
 ![](https://i.imgur.com/Iqvy5M6.png)
 
 ![](https://i.imgur.com/UYylyXn.png)
 
-12) After staking, you may check the staked position and rewards on the "asset" page at the bottom.
+13) After staking, you may check the staked position and rewards on the "asset" page at the bottom.
 
 ![](https://i.imgur.com/WlBxFIX.png)
 
 ![](https://i.imgur.com/XHePQAt.png)
 
-13) cFNX as the mining reward is accumulated automatically and you can claim the cFNX to your address anytime.
+14) cFNX as the mining reward is accumulated automatically and you can claim the cFNX to your address anytime.
 
 As far as CFNX is concerned, please remember:
 

@@ -17,10 +17,10 @@ This is an operating manual about how to mine on FPO, by providing liquidity in 
 7) You may also try the "Best Rewards Mining" button to get the max rewards. BTW, you can input any amount in the box to find the best combination of FNX and stablecoins. This function will optimize the reward in a single step.
 ![](https://i.imgur.com/NvORmAX.png)
 ![](https://i.imgur.com/cT7FFEQ.png)
-7) Complete the transaction in your browser extension wallet. A transaction for approval for spending the relating asset may be needed for the first FPO interaction.
+7) Complete the transaction in your browser extension wallet. A transaction of approval for spending the relating asset may be needed for the first FPO interaction.
 8) After the transaction is confirmed on chain, your APY will be shown here. 
 ![](https://i.imgur.com/iAPbMmT.png)
-9) If you are not using the "Best Rewards Mining" mentioned above, you may manually stake some FNX to maximize the rewards. A detailed guide on how to max the APY is introduced [here](https://finnexus.io/blog/the-finnexus-guide-to-mining-staking).
+9) If you are not using the "Best Rewards Mining" mentioned above, you may need to manually stake some FNX to maximize the rewards. A detailed guide on how to max the APY is introduced [here](https://finnexus.io/blog/the-finnexus-guide-to-mining-staking).
 By clicking "Stake More FNX" button, you will be led to this page.
 ![](https://i.imgur.com/F6C8Mwg.png)
 ![](https://i.imgur.com/6lAYQ5a.png)
@@ -29,7 +29,7 @@ After the transaction is processed on chain, you can check your mining details a
 ![](https://i.imgur.com/e25nbpr.png)
 11) Please feel free to use the mining calculator here and try different combinations. 
 ![](https://i.imgur.com/Iqvy5M6.png)
-![](https://i.imgur.com/JfHV4F3.png)
+![](https://i.imgur.com/UYylyXn.png)
 12) After staking, you may check the staked position and rewards on the "asset" page at the bottom.
 ![](https://i.imgur.com/WlBxFIX.png)
 

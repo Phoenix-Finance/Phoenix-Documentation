@@ -19,11 +19,12 @@ docs_dir: 'content'
 # Top level headings become tabs at the top due to `tabs: true` in the theme.
 nav:
   - Introduction: index.md
-  - About FinNexus: 
+  - FinNexus Papers, links and Coverage: 
     - Product Paper: about/productpaper.md
     - Whitepapers(old): about/papers.md
     - Official Links: about/links.md
     - Media Coverage: about/coverage.md
+    - Videos and Podcasts: about/videos.md
   - Guides:
     - How to buy options: guides/buyoptions.md
     - How to Mine (FPO): guides/mining-fpo.md

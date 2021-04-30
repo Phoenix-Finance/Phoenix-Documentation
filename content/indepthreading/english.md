@@ -24,3 +24,5 @@
 ## A DeFi Model for Decentralized Leveraged Tokens: FinNexus
 [A DeFi Model for Decentralized Leveraged Tokens: FinNexus](https://coinmarketcap.com/alexandria/article/a-defi-model-for-decentralized-leveraged-tokens-finnexus) by FinNexus Cofounder [Ryan Tian](https://twitter.com/rainiefield) on [Coinmarketcap Alexandria](https://coinmarketcap.com/alexandria/) on 2021-03-23.
 
+## A Deep Dive Into Leverages in DeFi Borrowing, Margin Trading, Leveraged Tokens, perpetuals and Options: FinNexus
+[A Deep Dive Into Leverages in DeFi Borrowing, Margin Trading, Leveraged Tokens, perpetuals and Options: FinNexus](https://coinmarketcap.com/alexandria/article/a-deep-dive-into-leverages-in-defi-borrowing-margin-trading-leveraged-tokens-and-options-finnexus) by FinNexus Cofounder Ryan Tian on Coinmarketcap Alexandria on 2021-04-29.

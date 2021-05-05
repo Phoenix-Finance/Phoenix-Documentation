@@ -1,5 +1,7 @@
 # How to buy options on FPO v1.0
 
+**Video Guide**:
+
 [![](http://img.youtube.com/vi/flfr_xwZByQ/0.jpg)](http://www.youtube.com/watch?v=flfr_xwZByQ "")
 
 1) Go to [options.finnexus.io](options.finnexus.io) and choose the blockchain from the top left of the page

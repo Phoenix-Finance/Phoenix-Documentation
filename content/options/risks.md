@@ -48,7 +48,7 @@ Options on FPO v1.0 are all American types and options holders should exercise i
 
 ## 3. Smart contract risks
 
-The audit process of FPO v1.0 is still in progress. The whole DeFi is still in the early and experimenting stage. Please keep cautious of the smart contract risks and do not put your life savings inside. 
+Though the code audit of FPO v1.0 is [done in Dec 2020 by Peckshield](https://github.com/FinNexus/Pdfs/blob/master/PeckShield-Audit-FinnexusOptionsV1.0.pdf), the whole DeFi is still in the early and experimenting stage. Please keep cautious of the smart contract risks and do not put your life savings inside. 
 
 ## 4. Oracle risks
 

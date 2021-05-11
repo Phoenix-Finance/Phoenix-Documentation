@@ -33,6 +33,7 @@ Basic mining Amt = Total Basic Reward × Share of a miner
 Total Basic Reward = 20,000 CFNX/Day*
 + The total basic mining reward on Ethereum is set to be 20,000 FNX/Day, and begin halving in every 6 months from 2021-04-01.
 + The total basic mining reward on BSC is set to be 15,000 FNX/Day, and following the same halving rule as above.
++ Basic rewards will be re-allocated to each pool on the 1st day of each month according to the TVLs from 1st-May-2021. 
 
 #### Boosting
 
@@ -81,33 +82,27 @@ However, please bear in mind:
 
 + The WAN/FNX pool on Wanchain will be equivalent to the FNX pool on Ethereum.
 + The stablecoin pool (wanUSDT Pool) on Wanchain will be equivalent to the USDC/USDT pool on Ethereum.
-+ The total basic mining reward is set to be 500 CFNX/Day.
++ The total basic mining reward is initially set to be 500 CFNX/Day. And it will be adjusted according to the TVLs on the 1st day of each month.
 
-## Sushiswap Liquidity Mining
+## Sushiswap Liquidity Mining on Ethereum
 
 Following a favorable community vote, FinNexus is starting a new liquidity mining program on Sushiswap on February 10, 2021, with 3000 CFNX as daily mining rewards, changed to 10000 CFNX from 1st April 2021.
 
-Incentives will be paid in convertible FNX (CFNX), which can be exchanged 1:1 to FNX.
+By contributing liquidity to [the FNX/ETH pair](https://app.sushi.com/add/ETH/0xeF9Cd7882c067686691B6fF49e650b43AFBBCC6B) and staking the LP tokens in the 'LP Farm' on options.finnexus.io, you will be automatically eligible for both Sushi and CFNX rewards.
 
-Liquidity mining on Uniswap will end at the same time.
+Sushiswap incentives are paid in Sushi and FinNexus incentives are paid in convertible FNX (CFNX).
 
 Please be aware that in order to convert, users must send the cFNX to the conversion contact. Afterward, 1/6th of the total cFNX burnt will be added to the user's redeemable FNX once a month over the following 6 months. The user may choose to redeem their FNX either once every month, or may choose to wait until they have accumulated enough and redeem it all together.
 
-### How to mine Sushi and FNX together?
+## Pancakeswap Liquidity Mining on BSC
 
-![](https://i.imgur.com/Sn3bmco.png)
+By contributing liquidity to [the FNX/BUSD pair](https://exchange.pancakeswap.finance/#/add/0xdFd9e2A17596caD6295EcFfDa42D9B6F63F7B5d5/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56) and staking the LP tokens in the 'co-Farm' on options.finnexus.io, you will be automatically eligible for CFNX rewards.
 
-A notice will pop up once you open the [FinNexus Options UI](options.finnexus.io). This will take you to the [Sushi Onsen Program](https://app.sushi.com/pair/0xaa500101c73065f755ba9b902d643705ef2523e3).
+FinNexus incentives are paid in convertible FNX (CFNX).
 
-By contributing liquidity to the FNX/ETH pair and staking in the Onsen Farming Program, you will be automatically eligible for both Sushi and FNX rewards.
+Please be aware that in order to convert, users must send the cFNX to the conversion contact. Afterward, 1/6th of the total cFNX burnt will be added to the user's redeemable FNX once a month over the following 6 months. The user may choose to redeem their FNX either once every month, or may choose to wait until they have accumulated enough and redeem it all together.
 
-![](https://i.imgur.com/zDQf4mH.png)
+## Wanswap and Zookeeper Liquidty Mining on Wanchain
 
-Sushi rewards can be claimed on the [Sushi Onsen page](https://www.sushiswap.fi/farms/special) by navigating to the FNX/ETH pair. Please note that the Sushi rewards will be vested according to [the Sushi farming rules](https://docs.sushiswap.fi/products/yield-farming/the-sushi-menu).
-
-![](https://i.imgur.com/TEwOp8B.png)
-
-FNX rewards can be claimed on the 1st day of every month from our UI pop-ups.
-
-The FinNexus team reserves the right to adjust the FNX mining rewards monthly according to the liquidity in the Sushiswap liquidity pool.
+By contributing liquidity to [the FNX/WAN pair](https://wanswap.finance/#/add/WAN/0xC6F4465A6a521124C8e3096B62575c157999D361) and staking the LP tokens in the [Zookeeper mining pool](https://www.zookeeper.finance/), you will be automatically eligible for WASP and ZOO rewards together.
 

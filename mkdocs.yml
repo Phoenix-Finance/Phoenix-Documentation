@@ -30,7 +30,7 @@ nav:
   - Products: 
     - FinNexus Protocol for Options (FPO): 
       - Introduction: products/options.md
-      - Options Basics:  options/index.md
+      - Options Basics:  options/optionbasics.md
       - Options Key Terms:  options/terms.md
       - Options Strategies: options/strategies.md
       - FPO v1.0:  options/v1.0.md

@@ -28,7 +28,6 @@ nav:
     - How to buy options: guides/buyoptions.md
     - How to Mine (FPO): guides/mining-fpo.md
   - Products: 
-    - Introduction: products/index.md
     - FinNexus Protocol for Options (FPO): products/options.md
     - FinNexus Protocol for Leveraged Tokens (FPLT): : products/leveragedtokens.md
     - Jack's Pot: products/jackspot.md

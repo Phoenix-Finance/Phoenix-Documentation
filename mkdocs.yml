@@ -21,7 +21,6 @@ nav:
   - Introduction: index.md
   - FinNexus Papers, links and Coverage: 
     - Product Paper: about/productpaper.md
-    - Whitepapers(old): about/papers.md
     - Official Links: about/links.md
     - Media Coverage: about/coverage.md
     - Videos and Podcasts: about/videos.md
@@ -32,12 +31,10 @@ nav:
     - Introduction: products/index.md
     - Derivatives:
       - FinNexus Protocol for Options (FPO): products/options.md
+      - FinNexus Protocol for Leveraged Tokens (FPLT): : products/leveragedtokens.md
     - Gaming:
       - Jack's Pot: products/jackspot.md
-      - Wandora Box: products/wandora.md
-    - Liquidity mining:
-      - AMM Liquidity Mining: products/liquidity.md
-  - Options Protocol (FPO):
+   - Options Protocol (FPO):
     - Options Basics:  options/index.md
     - Options Key Terms:  options/terms.md
     - Options Strategies: options/strategies.md

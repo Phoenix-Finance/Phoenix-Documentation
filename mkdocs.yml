@@ -28,20 +28,17 @@ nav:
     - How to buy options: guides/buyoptions.md
     - How to Mine (FPO): guides/mining-fpo.md
   - Products: 
-    - FinNexus Protocol for Options (FPO): products/options.md
-    - FinNexus Protocol for Leveraged Tokens (FPLT): : products/leveragedtokens.md
+    - FinNexus Protocol for Options (FPO): 
+      - Introduction: products/options.md
+      - Options Basics:  options/index.md
+      - Options Key Terms:  options/terms.md
+      - Options Strategies: options/strategies.md
+      - FPO v1.0:  options/v1.0.md
+      - Returns in the pool: options/financials.md
+      - Risks in FPO v1.0: options/risks.md
+      - Making FPO v1.0 Secure: options/security.md
+    - FinNexus Protocol for Leveraged Tokens (FPLT): products/leveragedtokens.md
     - Jack's Pot: products/jackspot.md
-   - Options Protocol (FPO):
-    - Options Basics:  options/index.md
-    - Options Key Terms:  options/terms.md
-    - Options Strategies: options/strategies.md
-    - FPO v0.1:  options/v0.1.md
-    - FPO v0.1 Smart Contracts:  options/contracts.md
-    - FPO v1.0:  options/v1.0.md
-    - Returns in the pool: options/financials.md
-    - Risks in FPO v1.0: options/risks.md
-    - Making FPO v1.0 Secure: options/security.md
-    
   - FinNexus Token (FNX): 
     - Addresses: token/addresses.md
     - Token Distribution: token/index.md

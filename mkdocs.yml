@@ -37,7 +37,13 @@ nav:
       - Returns in the pool: options/financials.md
       - Risks in FPO v1.0: options/risks.md
       - Making FPO v1.0 Secure: options/security.md
-    - FinNexus Protocol for Leveraged Tokens (FPLT): products/leveragedtokens.md
+    - FinNexus Protocol for Leveraged Tokens (FPLT):
+      - Introduction: leveragedtokens/introduction.md
+      - Leveraged Token Basics: leveragedtokens/basics.md
+      - Comparison: leveragedtokens/comparison.md
+      - FPLT v1.0:
+        - Introduction: leveragedtokens/FPLT1.0/intro.md
+        - How does FPLT v1.0 work: leveragedtokens/FPLT1.0/howtowork.md
     - Jack's Pot: products/jackspot.md
   - FinNexus Token (FNX): 
     - Addresses: token/addresses.md

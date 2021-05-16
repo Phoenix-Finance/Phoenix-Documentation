@@ -7,7 +7,7 @@ For example, the ETHBULL/USD — also known as 3X Long Ethereum Token — is an 
 Leveraged tokens usually offer fixed leverages or leverage ranges through rebalancing mechanisms that maintain the target leverages.
 
 ## Rebalancing
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bringyourfinancestolife.com%2F2017%2F03%2Fwhy-your-portfolio-may-be-overdue-for-a-rebalance%2F&psig=AOvVaw2IfhWGA_aTYAjB_vIz8TjJ&ust=1621245043162000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDbu8r2zfACFQAAAAAdAAAAABAD)
+![](https://www.bringyourfinancestolife.com/wp-content/uploads/2017/03/rebalance.jpg)
 
 Rebalancing is a very important element in the design of leveraged tokens, for it is the mechanism that keeps the leverage at the targeted level. 
 

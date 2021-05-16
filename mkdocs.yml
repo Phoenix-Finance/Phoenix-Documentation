@@ -44,6 +44,9 @@ nav:
       - FPLT v1.0:
         - Introduction: leveragedtokens/FPLT1.0/intro.md
         - How does FPLT v1.0 work: leveragedtokens/FPLT1.0/howtowork.md
+        - Lending Pools: leveragedtokens/FPLT1.0/lendingpool.md
+        - Rebalancing Mechanism: leveragedtokens/FPLT1.0/rebalance.md
+      - Risks: leveragedtokens/risks.md
     - Jack's Pot: products/jackspot.md
   - FinNexus Token (FNX): 
     - Addresses: token/addresses.md

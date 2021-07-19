@@ -1,3 +1,12 @@
+## What is an option?
+An option is a binding contract that allows you (as the buyer) to sell or buy an underlying asset (goods, stocks, indexes, etc.) at a predetermined price within a set time frame. You as the buyer of an option contract, have the right, but not the obligation, to buy or sell the underlying asset. That’s the big difference between options contracts and futures contracts. With futures you are obligated to take delivery of the underlying asset. In the case of oil, since there are some costs associated with delivery and storage of the underlying, futures contracts can actually be negatively priced!
+With options, in order to get that right to buy or sell a particular asset at a predetermined price, you have to pay the option seller a price, which is called the option premium.
+
+For example, a fruit store wants to buy 500 kg of apples from an orchard owner, but the apples are not ripe yet until August. The fruit store worries about the rise of the price, affected by drought this year. Therefore, it reaches an agreement with the orchard owner, that it may purchase the apples at the price of $4/kg in August. But it doesn’t have to do so if there is some cheaper price on the market. In order to have this right, the fruit store pays the orchard owner $100 as compensation.
+
+The contract above is a typical option. It is called a [Plain Vanilla](https://www.investopedia.com/terms/p/plainvanilla.asp) call option.
+The following terms are essential to understanding the nature of options products. 
+
 ## Underlying Assets
 
 Underlying assets are the assets upon which an option is based. Underlying assets represent the assets from which the options derive their value. As in the example above, the apples are basically the option’s underlying asset.
@@ -12,7 +21,7 @@ As discussed above, options are contracts that give the buyer/holder the right, 
 
 [Put options](https://www.investopedia.com/terms/p/put.asp) allow the holder to sell an underlying asset at a certain price.
 
-In the [specific example](https://www.docs.finnexus.io/options/), the fruit store wants to “buy” apples in August, hence, it is buying a call option contract.
+In the specific example, the fruit store wants to “buy” apples in August, hence, it is buying a call option contract.
 
 If we change the story a bit, the orchard owner worries that the apple price may drop in August, and he wants to fix his minimum profit. Therefore, he reaches a contract with the fruit store, that he may sell the apples at the price of $4/kg in August, but he doesn’t have to if the market price is higher. Then this contract is a typical put option contract.
 
@@ -25,8 +34,7 @@ As the holder of a call option, he/she holds the underlying asset already expect
 ## Sellers and Buyers
 
 A contract normally has two parties, a seller and a buyer. An **option seller** is selling (shorting) an option contract to a buyer and getting the premium(the price of the option). An **option buyer** is buying (longing) an option contract from a seller and paying the premium. Also, note that the option can be a call or a put.
-
-![](../img/options/options12.png)
+[](https://miro.medium.com/max/875/1*OX0XE8mtoYP3kfTbf2f9Lw.png)
 <center>*Sellers and buyers*</center>
 <br>
  
@@ -44,11 +52,6 @@ Owners of **American-style options** may exercise at any time before the option 
 
 The expiration dates may also have a significant influence on the value of the options. In general, the longer an option contract has to expiration, the higher value it will have.
 
-
-![](../img/options/options13.jpeg "Options are the answer")
-<center>*Volatile markets like bitcoin and cryptocurrency demand means to protect against both upside and downside risk. Options are the answer. Photo by [M. B. M.](https://unsplash.com/@m_b_m?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/stock-options?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).*</center>
-<br>
-
 ## Price Volatility
 
 Price volatility, in relation to the options market, refers to the degree of fluctuation in the market price of the underlying asset. Price volatility data sometimes is not easily acquired and often calculated as a prediction of the degree to which underlying asset price moves in the future.
@@ -62,11 +65,6 @@ Settlement is the process for the terms of an options contract to be resolved be
 **Physically settled options** require the actual delivery of the underlying assets. When exercising, the holder of physically settled call options would, therefore, buy the underlying assets, whereas the holder of physically settled put options would sell the underlying assets.
 
 **Cash-settled options** do not require the actual delivery of the underlying assets. Instead, the market value, at the exercise date, of the underlier is compared to the strike price, and the difference (if in a favorable direction) is paid by the option seller to the owner.
-
-![](../img/options/options14.jpeg)
-<center>*Photo by [George Huffman](https://unsplash.com/@ghuffmanphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/apple?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-*</center>
-<br>
 
 With the apple example above, if the apple price is higher than $4/kg in August, if the options were physically settled options, it would mean that the fruit store purchases the apples at the previously agreed upon price and the orchard owner makes the delivery. If the options were cash settled options, it would mean that the orchard owner pays the difference in cash between the market price and the previously agreed upon price, times the total kilograms covered by the contract, to the fruit store.
 

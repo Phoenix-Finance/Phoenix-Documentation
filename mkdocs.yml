@@ -1,12 +1,12 @@
 # Basic project details.
-site_name: 'FinNexus Documentation'
+site_name: 'Phoenix Documentation'
 site_description: 'Decentralized Protocol Clusters'
-site_author: 'FinNexus Team'
+site_author: 'Phoenix Team'
 site_url: ''
 
-# Links to the core FinNexus smart contract repository.
-repo_name: 'FinNexus'
-repo_url: 'https://github.com/FinNexus'
+# Links to the core 'Phoenix smart contract repository.
+repo_name: ''Phoenix'
+repo_url: 'https://github.com/'Phoenix-Finance'
 
 # Setting `edit_uri` to an empty string disables the edit button, which points to the wrong page.
 # If at some point this documentation is moved into the core  repository, then this can be
@@ -19,14 +19,9 @@ docs_dir: 'content'
 # Top level headings become tabs at the top due to `tabs: true` in the theme.
 nav:
   - Introduction: index.md
-  - FinNexus Papers, links and Coverage: 
+  - FinNexus Papers and links: 
     - Product Paper: about/productpaper.md
     - Official Links: about/links.md
-    - Media Coverage: about/coverage.md
-    - Videos and Podcasts: about/videos.md
-  - Guides:
-    - How to buy options: guides/buyoptions.md
-    - How to Mine (FPO): guides/mining-fpo.md
   - Products: 
     - FinNexus Protocol for Options (FPO): 
       - Introduction: products/options.md
@@ -57,15 +52,11 @@ nav:
     - Add FNX to Wanchain Wallet: token/add_fnx.md
   - Governance: 
     - Overview: governance/index.md
-  - Developers:
-    - Overview:  developers/index.md
-    - FNX Token API v0.1 Alpha:  developers/token-api.md
-    - Smart Contracts:  developers/smart-contracts.md
   - Terminology:
     - Overview:  terminology/index.md
     - DeFi Terms: terminology/defi.md
     - Options Terms: terminology/options.md
-    - FPO Terms:  terminology/fpo.md
+    - FPO Terms:  terminology/ppo.md
   - In-depth Reading: 
     - English: indepthreading/english.md
     - Chinese: indepthreading/chinese.md

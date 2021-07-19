@@ -6,11 +6,6 @@ An option is a binding contract that allows you (as the buyer) to sell or buy an
 
 With options, in order to get that right to buy or sell a particular asset at a predetermined price, you have to pay the option seller a price, which is called the **option premium**.
 
-![](../img/options/options08.jpeg "Apple tree")
-<center>*Photo by [Nathan Hulsey](https://unsplash.com/@nhulz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/apple?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*</center>
-<br>
-<br>
-
 For example, a fruit store wants to buy 500 kg of apples from an orchard owner, but the apples are not ripe yet until August. The fruit store worries about the rise of the price, affected by drought this year. Therefore, it reaches an agreement with the orchard owner, that it may purchase the apples at the price of $4/kg in August. But it doesn’t have to do so if there is some cheaper price on the market. In order to have this right, the fruit store pays the orchard owner $100 as compensation.
 
 The contract above is a typical option. It is called a [Plain Vanilla](https://www.investopedia.com/terms/p/plainvanilla.asp) call option.
@@ -39,10 +34,7 @@ Due to the unparalleled nature of the rights and responsibilities of the buyer a
 
 **(1) The profit-loss chart of shorting (selling) and longing (buying) a call option looks like this:**
 
-![](../img/options/options09.png "Call options chart")
-<center>*Call options chart*</center>
-<br>
-<br>
+![](https://miro.medium.com/max/1250/1*NqLVFFfwxa7TUOkgAWlUjg.png)
 
 A *call* is a bullish position on the underlying asset.
 
@@ -52,10 +44,8 @@ When longing a call, the option contract will not be ‘activated’ if the mark
 
 **(2) The profit-loss chart of shorting (selling) and longing (buying) a put option looks like this:**
 
-![](../img/options/options10.png "Put options chart")
-<center>*Put options chart*</center>
-<br>
-<br>
+![](https://miro.medium.com/max/1250/1*FZLhy9a_6R2R5ujeZ8DhIw.png)
+
 Remember that a *put* is a bearish position on the underlying asset. It is a right to sell the underlying asset at a particular strike price. It is the opposite of a call option.
 
 When shorting (selling) a put (which is a bullish position on the underlying asset), one is at profit in the green zone, when the price is not below the Break-even point. The maximum profit for the option seller/writer is the premium paid for that option when it was created. The goal for the option seller/writer is that the price of the underlying asset remains higher than the strike price obligated in the option contract, meaning that the put option would not be exercised. The option seller/writer is at a loss in the red zone. The loss will be more significant as the market price decreases.
@@ -68,7 +58,7 @@ The put option itself is in profit for the option buyer/holder when the price of
 
 There are several popular options pricing models, like the [Black Scholes Model](https://www.investopedia.com/terms/b/blackscholes.asp) and [Binomial Option Pricing Model](https://www.investopedia.com/terms/b/binomialoptionpricing.asp#what-is-the-binomial-option-pricing-model). I am not going to delve into the mathematical details of these models, yet it is useful for option investors to learn the basic interrelations among the different factors affecting the price.
 
-![](../img/options/options11.png "Basic factors affecting the price of an option")
+![](https://miro.medium.com/max/3000/1*lmqbfCBFyK3lLJdkIxxMjg.png)
 <center>*Basic factors affecting the price of an option*</center>
 <br>
 

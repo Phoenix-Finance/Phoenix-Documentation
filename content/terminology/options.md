@@ -34,7 +34,7 @@ As the holder of a call option, he/she holds the underlying asset already expect
 ## Sellers and Buyers
 
 A contract normally has two parties, a seller and a buyer. An **option seller** is selling (shorting) an option contract to a buyer and getting the premium(the price of the option). An **option buyer** is buying (longing) an option contract from a seller and paying the premium. Also, note that the option can be a call or a put.
-[](https://miro.medium.com/max/875/1*OX0XE8mtoYP3kfTbf2f9Lw.png)
+![](https://miro.medium.com/max/875/1*OX0XE8mtoYP3kfTbf2f9Lw.png)
 <center>*Sellers and buyers*</center>
 <br>
  

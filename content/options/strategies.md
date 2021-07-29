@@ -36,7 +36,7 @@ If the price gets higher than $760, she will sell when the option buyers exercis
 
 In this example, Lucy employs a covered call strategy as she intends to hold the underlying asset for a long time but does not expect an appreciation in price in the short term, and she is satisfied with selling the assets at a predetermined price.
 
-Please note that FPO v1.0 on FinNexus doesn’t allow for selling options for now.
+Please note that PPO v1.0 on Phoenix Finance doesn’t allow for selling options for now.
 
 ## Straddle Strategy
 
@@ -51,8 +51,6 @@ What is more beneficial is that I can exercise the options and collect the profi
 This is a typical straddle strategy.
 
 ## Strangle Strategy
-
-
 The **long strangle** involves going long (buying) both a [call option](https://en.wikipedia.org/wiki/Call_option) and a [put option](https://en.wikipedia.org/wiki/Put_option) of the same underlying security. Like a [straddle](https://en.wikipedia.org/wiki/Straddle), the options expire at the same time, but unlike a straddle, the options have different [strike prices](https://en.wikipedia.org/wiki/Strike_price).
 ![image|601x305](https://aws1.discourse-cdn.com/standard17/uploads/community12/original/1X/e6c44ffaa78cc4012afff1b0e1ebb327f51be4f6.png)  
 
@@ -63,4 +61,4 @@ The example is just like the one in the straddle strategy, well with different s
 
 ## IL Hedging
 
-[Hedging Against Impermanent Loss: A Deep Dive With FinNexus Options](https://coinmarketcap.com/alexandria/article/hedging-against-impermanent-loss-a-deep-dive-with-finnexus-options) on Coinmarketcap Alexandria by FinNexus Cofounder Ryan Tian
+[Hedging Against Impermanent Loss: A Deep Dive With FinNexus Options](https://coinmarketcap.com/alexandria/article/hedging-against-impermanent-loss-a-deep-dive-with-finnexus-options) on Coinmarketcap Alexandria by Phoenix Finance Cofounder Ryan Tian

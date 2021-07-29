@@ -1,6 +1,6 @@
 # On the Risks in PPO v1.0
 
-Before ‘jumping into the pool’ or starting buying options on the PPO v1.0, it is important to understand the potential risks of the protocol for every user. The liquidity/collateral pool is not risk-free, and participants can lose money/
+Before ‘jumping into the pool’ or starting trading options on PPO v1.0, it is important to understand the potential risks of the protocol for every user. The liquidity/collateral pool is not risk-free, and participants can lose money/
 
 The risks below are presented in no particular order.
 
@@ -24,7 +24,7 @@ However, even when the pool is in a relatively balanced status, in cases of extr
 
 PPO v1.0 may have hybrid pools, that accept multiple assets as accepted collateral in the options liquidity pool. The liquidity pool will somehow work like a mutual fund, where after transferring the crypto assets in the pool, you are holding the equivalent shares and entitled to benefits as measured in PPT( Phoenix Pool Token). All the values in the pool are calculated in USD, therefore, the net value of the share, as PPT, will be subject to the changes of the USD value of these collateral assets.
 
-The PPO pools are made of one or several stable coins, whose value is more likely to remain stable and pegged to USD. But in the USDT/USDC hybrid pools, in case that one stablecoin, say USDT, as the collateral asset losses its peg, it may lead to risks and losses to the PPO pool participants, even to the USDC contributors.
+The PPO pools are made of one or several stable coins, whose value is more likely to remain stable and pegged to USD. But for example, in the USDT/USDC hybrid pools, in case that one stablecoin, say USDT, as the collateral asset losses its peg, it may lead to risks and losses to the PPO pool participants, even to the USDC contributors.
 
 ### (4) Liquidity risks
 
@@ -32,14 +32,13 @@ To maintain the security of PPO, Phoenix Finance introduces the minimum collater
 
 In cases when the collateral in the pool is fully occupied, pool withdrawal will be paused. Also, the liquidity pool will cease to write new option contracts, until the collateral utilization ratio recovers to be above the MCUR level. Therefore, the withdrawal request will be marked as ‘pending’, until the portal reopens as stated above. The pool participants may have to wait to withdraw their shares of assets out of the pool and suffer from the pool liquidity risks.
 
-Also, to protect against possible flash loan exploits, a pool participant can only quit the pool one hour after making the initial deposit.
+Also, to protect against possible flash loan exploits, a pool participant can only quit the pool one hour after making deposits.
 
 ## 2. Risks for option buyers
 
 ### (1) Multi-asset consideration and settlement risks
 
-PPO v1.0 has provided friendly choices for option buyers by setting their customized option terms when buying options, including a selection of currencies to pay. However,
-with hybrid liquidity pools, like the USDC/USDT pool, both of the two stablecoins are regarded as the collateral assets. This liquidity pool is the sole counterparty for all options.
+PPO v1.0 has provided friendly choices for option buyers by setting their customized option terms when buying options, including a selection of currencies to pay. With hybrid liquidity pools, like the USDC/USDT pool, for example, both of the two stablecoins are regarded as the collateral assets. This liquidity pool is the sole counterparty for all options.
 
 When exercising options, the holder is trading against the pool, therefore, the crypto assets as consideration or settlement are transacted from the compositions in the pool. Due to the pool’s multi-asset nature, upon settlement, users will get a basket of tokens that reflects the current composition of these assets (USDC/USDT) in the pool. Therefore, users will get risk exposure to the crypto assets in the pool.
 

@@ -11,12 +11,12 @@ The PHX token is the protocol token for the entire suite of Phoenix protocol clu
 | PHX@Wanchain | 0xF17c59bF0f6326dA7A8cC2CE417e4F53a26707bd   |
 
 
-+ cPHX token is the convertible PHX. After tranferring into the conversion contract, 1/6 PHX can be claimed in every 30 days. The first 1/6 will be released immediately.
++ cPHX token is the convertible PHX, as the incentives for mining rewards. After tranferring cPHX into the conversion contract, 1/6 PHX can be claimed in every 30 days. The first 1/6 will be released immediately.
 
 |Public Chain |Address  |
 | --- | --- |
 | cPHX@Ethereum  |  0xBdD50c7B6c871D9aFB278445d5b74fDc4705a234  |
-| cPHX@Polygon |  | 
+| cPHX@Polygon |  0x54a02fd4aefc77aa97cd3d30322f3e7a7d875a27   |
 | cPHX@BSC    |   0xd8fa6921b24ab1cd52ab553d1f99aaedc321e562  |
 | cPHX@Wanchain | 0xD8Fa6921b24AB1cD52ab553d1F99aAEdc321e562   |
 

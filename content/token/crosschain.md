@@ -3,7 +3,7 @@ PHX and cPHX token are live on Ethereum, Polygon, BSC and Wanchain. PHX and cPHX
 ### Etherum ⇄ Polygon
 The portal for moving between Etherem and Polygon is https://wallet.matic.network/bridge/.
 1. After connecting your wallet, it will direct you to the following page.
-![enter description here][1]
+![](https://z3.ax1x.com/2021/08/02/fSQi1U.png)
 2. Press the 'Move funds from Ethereum to Polygon' button, and you will see the bridge interface as below.
 ![enter description here][2]
 3. Select 'Phoenix Token' from the drop-down menu. 
@@ -22,14 +22,3 @@ Wanchain is providing decentralized bridges for moving assets across Etherum, BS
 ![enter description here][8]
 4. It may take a few minutes to complete the cross-chain transactions.
 ![enter description here][9]
-
-
-  [1]: ./images/1627818060239.jpg "1627818060239.jpg"
-  [2]: ./images/1627818114202.jpg "1627818114202.jpg"
-  [3]: ./images/1627818519041.jpg "1627818519041.jpg"
-  [4]: ./images/1627818902444.jpg "1627818902444.jpg"
-  [5]: ./images/1627818978104.jpg "1627818978104.jpg"
-  [6]: ./images/1627819205240.jpg "1627819205240.jpg"
-  [7]: ./images/1627819270956.jpg "1627819270956.jpg"
-  [8]: ./images/1627822698913.jpg "1627822698913.jpg"
-  [9]: ./images/1627822793560.jpg "1627822793560.jpg"

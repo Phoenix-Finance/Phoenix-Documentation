@@ -23,33 +23,27 @@ nav:
     - Product Paper: about/productpaper.md
     - Official Links: about/links.md
   - Products: 
-    - FinNexus Protocol for Options (FPO): 
+    - Phoenix Protocol for Options (PPO): 
       - Introduction: products/options.md
       - Options Basics:  options/optionbasics.md
       - Options Key Terms:  options/terms.md
       - Options Strategies: options/strategies.md
-      - FPO v1.0:  options/v1.0.md
+      - PPO v1.0:  options/v1.0.md
       - Returns in the pool: options/financials.md
-      - Risks in FPO v1.0: options/risks.md
-      - Making FPO v1.0 Secure: options/security.md
-    - FinNexus Protocol for Leveraged Tokens (FPLT):
+      - Risks in PPO v1.0: options/risks.md
+      - Making PPO v1.0 Secure: options/security.md
+    - Phoenix Protocol for Leveraged Tokens (PPLT):
       - Introduction: leveragedtokens/introduction.md
       - Leveraged Token Basics: leveragedtokens/basics.md
       - Comparison: leveragedtokens/comparison.md
-      - FPLT v1.0:
-        - Introduction: leveragedtokens/FPLT1.0/intro.md
-        - How does FPLT v1.0 work: leveragedtokens/FPLT1.0/howtowork.md
-        - Lending Pools: leveragedtokens/FPLT1.0/lendingpool.md
-        - Rebalancing Mechanism: leveragedtokens/FPLT1.0/rebalance.md
+      - PPLT v1.0:
+        - Introduction: leveragedtokens/PPLT1.0/intro.md
+        - How does FPLT v1.0 work: leveragedtokens/PPLT1.0/howtowork.md
+        - Lending Pools: leveragedtokens/PPLT1.0/lendingpool.md
+        - Rebalancing Mechanism: leveragedtokens/PPLT1.0/rebalance.md
       - Risks: leveragedtokens/risks.md
-    - Jack's Pot: products/jackspot.md
-  - FinNexus Token (FNX): 
-    - Addresses: token/addresses.md
-    - Token Distribution: token/index.md
-    - How to get FNX: token/markets.md
-    - FNX Crosschain bridge: token/crosschain.md
-    - FNX mining: token/mining-fpo.md
-    - Add FNX to Wanchain Wallet: token/add_fnx.md
+  - Phoenix Token (PHX): 
+    - Addresses: token/address.md
   - Governance: 
     - Overview: governance/index.md
   - Terminology:

@@ -10,7 +10,4 @@ Lending pools power the tokens’ leverage. When leveraged tokens are created, t
 
 ## Basic Modelling Structure
 
-![PPLT v1.0 structure][1]
-
-
-  [1]: ./images/0001.jpg "0001.jpg"
+![](https://z3.ax1x.com/2021/08/03/fCgD2t.md.jpg)

@@ -23,9 +23,8 @@ nav:
     - Product Paper: about/productpaper.md
   - Products: 
     - Phoenix Protocol for Options (PPO): 
-      - Introduction: products/options.md
+      - Introduction: products/introduction.md
       - Options Basics:  options/optionbasics.md
-      - Options Key Terms:  options/terms.md
       - Options Strategies: options/strategies.md
       - PPO v1.0:  options/v1.0.md
       - Returns in the pool: options/financials.md

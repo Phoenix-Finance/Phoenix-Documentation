@@ -49,7 +49,6 @@ In a nutshell,
 And vice versa, if there are more puts than calls written by the liquidity pool, puts are more expensive.
 The more options written by the pool, the more expensive they are.*
 
-![](https://miro.medium.com/max/875/1*gtx24oI7Rd6kh3idl-xiKQ.png "An example on options pricing influenced by the coefficient")
 
 ### 3. Chill Time
 

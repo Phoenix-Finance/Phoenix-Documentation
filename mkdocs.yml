@@ -62,13 +62,13 @@ extra:
     - js/image_zoom.js
   social:
     - icon: 'brands/github'
-      link: 'https://github.com/FinNexus'
+      link: 'https://github.com/phoenix-finance'
     - icon: 'brands/twitter'
-      link: 'https://twitter.com/fin_nexus'
+      link: 'https://twitter.com/Phoenix__PHX'
     - icon: 'brands/reddit'
       link: 'https://www.reddit.com/r/finnexus/'
     - icon: 'brands/medium'
-      link: 'https://medium.com/finnexus/'
+      link: 'https://medium.com/phoenix-finance/'
     - icon: 'brands/discord'
       link: 'https://discord.gg/bCDMHN7'
 

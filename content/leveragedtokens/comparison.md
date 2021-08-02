@@ -1,6 +1,6 @@
 ## Differences between Leveraged Tokens and other derivatives
 
-![enter description here][1]
+![](https://z3.ax1x.com/2021/08/03/fCczDS.jpg)
 
 The biggest difference between leveraged tokens and margin trading/perpetuals is that leveraged tokens will rebalance themselves both periodically and when reaching a certain threshold, in order to maintain certain leverage.
 
@@ -8,5 +8,3 @@ This is obviously different from both margin trading and perpetuals - products w
 
 You can check [this article](https://coinmarketcap.com/alexandria/article/a-deep-dive-into-leverages-in-defi-borrowing-margin-trading-leveraged-tokens-and-options-finnexus) for more details about leverages in different DeFi products.
 
-
-  [1]: ./images/ec09b6d6070045d18e298ac3a3fa0278-0001.jpg "ec09b6d6070045d18e298ac3a3fa0278-0001.jpg"

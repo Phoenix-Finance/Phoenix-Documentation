@@ -79,7 +79,7 @@ theme:
   language: 'en'
   palette:
     primary: 'indigo'
-    accent: 'deep purple'
+    accent: 'deep orange'
   logo: 'img/logos/PHX_LOGO_128x128.png'
   favicon: 'img/favicon.ico'
   feature:

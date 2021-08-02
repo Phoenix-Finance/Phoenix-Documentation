@@ -19,9 +19,8 @@ docs_dir: 'content'
 # Top level headings become tabs at the top due to `tabs: true` in the theme.
 nav:
   - Introduction: index.md
-  - FinNexus Papers and links: 
+  - Phoenix Papers: 
     - Product Paper: about/productpaper.md
-    - Official Links: about/links.md
   - Products: 
     - Phoenix Protocol for Options (PPO): 
       - Introduction: products/options.md

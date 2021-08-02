@@ -79,7 +79,7 @@ theme:
   palette:
     primary: 'deep orange'
     accent: 'deep purple'
-  logo: 'img/logos/PHX logo white_2.png'
+  logo: 'img/logos/PHX_LOGO_256x256.png'
   favicon: 'img/favicon.ico'
   feature:
     tabs: false

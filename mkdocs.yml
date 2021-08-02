@@ -80,7 +80,7 @@ theme:
   palette:
     primary: 'indigo'
     accent: 'deep purple'
-  logo: 'img/logos/square.png'
+  logo: 'VI/logo256x256.png'
   favicon: 'img/favicon.ico'
   feature:
     tabs: false

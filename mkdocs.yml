@@ -21,7 +21,7 @@ nav:
   - Introduction: index.md
   - Phoenix Papers: about/productpaper.md
   - Products: 
-    - Phoenix Protocol for Options (PPO): 
+    - Options (PPO): 
       - Introduction: options/introduction.md
       - Options Basics:  options/optionbasics.md
       - Options Strategies: options/strategies.md
@@ -29,7 +29,7 @@ nav:
       - Returns in the pool: options/financials.md
       - Risks in PPO v1.0: options/risks.md
       - Making PPO v1.0 Secure: options/security.md
-    - Phoenix Protocol for Leveraged Tokens (PPLT):
+    - Leveraged Tokens (PPLT):
       - Introduction: leveragedtokens/introduction.md
       - Leveraged Token Basics: leveragedtokens/basics.md
       - Comparison: leveragedtokens/comparison.md

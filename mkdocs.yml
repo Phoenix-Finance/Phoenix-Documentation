@@ -78,8 +78,8 @@ theme:
   name: 'material'
   language: 'en'
   palette:
-    primary: 'indigo'
-    accent: 'deep orange'
+    primary: 'deep orange'
+    accent: 'deep purple'
   logo: 'img/logos/PHX_LOGO_128x128.png'
   favicon: 'img/favicon.ico'
   feature:

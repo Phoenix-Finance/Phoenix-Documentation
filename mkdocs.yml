@@ -80,7 +80,7 @@ theme:
   palette:
     primary: 'indigo'
     accent: 'deep purple'
-  logo: 'VI/logo256x256.png'
+  logo: 'img/logos/PHX_LOGO_128x128.png'
   favicon: 'img/favicon.ico'
   feature:
     tabs: false

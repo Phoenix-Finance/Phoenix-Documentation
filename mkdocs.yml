@@ -19,8 +19,7 @@ docs_dir: 'content'
 # Top level headings become tabs at the top due to `tabs: true` in the theme.
 nav:
   - Introduction: index.md
-  - Phoenix Papers: 
-    - Product Paper: about/productpaper.md
+  - Phoenix Papers: about/productpaper.md
   - Products: 
     - Phoenix Protocol for Options (PPO): 
       - Introduction: options/introduction.md

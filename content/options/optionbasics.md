@@ -1,4 +1,4 @@
-*See our [Key Terms](terms.md) page for an explanation of some of the key options terms used throughout this section.*
+*See our [Key Terms](https://docs.phx.finance/terminology/options/) page for an explanation of some of the key options terms used throughout this section.*
 
 ## What is an option?
 

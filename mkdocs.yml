@@ -40,7 +40,8 @@ nav:
         - Rebalancing Mechanism: leveragedtokens/PPLT1.0/rebalance.md
       - Risks: leveragedtokens/risks.md
   - Phoenix Token (PHX): 
-    - Addresses: token/address.md
+    - PHX Addresses: token/address.md
+    - Crosschain: token/crosschain.md
   - FAQ: FAQ/FAQ.md
   - Governance: 
     - Overview: governance/index.md

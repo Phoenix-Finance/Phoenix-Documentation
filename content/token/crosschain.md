@@ -1,5 +1,7 @@
 PHX and cPHX token are live on Ethereum, Polygon, BSC and Wanchain. PHX and cPHX holders can move the tokens freely among these chains.
 
+The following example is how to cross PHX tokens among different chains. cPHX cross-chain will follow the same steps, by selecting cPHX in the interfaces.
+
 ### Etherum ⇄ Polygon
 The portal for moving between Etherem and Polygon is https://wallet.matic.network/bridge/.
 

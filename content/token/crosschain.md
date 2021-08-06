@@ -9,8 +9,10 @@ The portal for moving between Etherem and Polygon is https://wallet.matic.networ
 3. Select 'Phoenix Token' from the drop-down menu. 
 ![](https://z3.ax1x.com/2021/08/02/fS1Bwj.png)
 4. Press transfer button and it will trigger the cross-chain transaction. It may take a few minutes to complete.
+
 ![](https://z3.ax1x.com/2021/08/02/fS16f0.png)
 ![](https://z3.ax1x.com/2021/08/02/fS1yYq.png)
+
 
 ### Etherum ⇄ BSC ⇄ Wanchain
 Wanchain is providing decentralized bridges for moving assets across Etherum, BSC and Wanchain at https://bridge.wanchain.org/.

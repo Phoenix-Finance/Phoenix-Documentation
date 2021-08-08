@@ -34,8 +34,10 @@ In which N is the effective staking amount, and T is the number of months in loc
 
 Please note that you have to stake enough PHX or cPHX so that N is no smaller than 500, to have an effective multiplier, which is greater than 1.
 
-For example, if locking your tokens for 6 months, the multiplier chart will shape as follows:
+For example, if locking your tokens for 6 months, the multiplier chart against the PHX locked amount will shape as follows:
 ![](https://z3.ax1x.com/2021/08/08/flay1U.png)
+For example, if locking 50,000 PHX tokens, the multiplier chart against the lock time will shape as follows:
+![](https://z3.ax1x.com/2021/08/09/f13WO1.png)
 ### Miscellaneous
 #### Boosting designation
 If a user has boosted rewards in a pool, the reward enhancement can be transferred to other pools at any time. You can transfer the multiplier or the boosting re-designation by moving the locked PHX or cPHX (vePHX) between pools. A partial transfer is also possible. 

@@ -8,8 +8,8 @@ Phoenix Finance is launching the following liquidity pools for options and lever
 
  - USDC/USDT options pools on Polygon, BSC and Wanchain 
  - USDC lending pools for leveraged tokens on Polygon and BSC 
- - WBTC lending pools for leveraged tokens on Polygon and BSC ETH 
- - lending pools for leveraged tokens on Polygon and BSC
+ - WBTC lending pools for leveraged tokens on Polygon and BSC  
+ - ETH lending pools for leveraged tokens on Polygon and BSC
 
 For the options pool, other stable coins will be added as collateral assets in the future. For any newly added leveraged token, there will be an additional lending pool with its related underlier. For instance, a $MATIC lending pool will be established when launching $MATIC leveraged tokens and so forward.
 ### Mining Incentives

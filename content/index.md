@@ -12,5 +12,22 @@ The next product  is the decentralized leveraged token protocol, launched on Pol
 
 The PHX token is the network token for the entire suite of FinNexus protocol clusters. It serves a variety of purposes including liquidity mining, governance, voting, reward boosting and more.
 
+### Important links:
+
+Website: https://www.phx.finance/
+
+Twitter: https://twitter.com/Phoenix__PHX
+
+Telegram: https://t.me/Phoenix_Finance 
+
+Discord: https://discord.gg/bCDMHN7 
+
+Medium: https://medium.com/phoenix-finance 
+
+Github: https://github.com/phoenix-finance 
+
+Linkedin: https://www.linkedin.com/company/phx-finance/
+
+Facebook: https://www.facebook.com/PHXFinance/ 
 
 

@@ -5,7 +5,7 @@ site_author: 'Phoenix Team'
 site_url: ''
 
 # Links to the core 'Phoenix smart contract repository.
-repo_name: 'Phoenix'
+repo_name: 'Phoenix Finance'
 repo_url: 'https://github.com/Phoenix-Finance'
 
 # Setting `edit_uri` to an empty string disables the edit button, which points to the wrong page.

@@ -2,8 +2,8 @@ PHX and cPHX token are live on Ethereum, Polygon, BSC and Wanchain. PHX and cPHX
 
 The following example is how to cross PHX tokens among different chains. cPHX cross-chain will follow the same steps, by selecting cPHX in the interfaces.
 
-### Etherum ⇄ Polygon
-The portal for moving between Etherem and Polygon is https://wallet.matic.network/bridge/.
+### Ethereum ⇄ Polygon
+The portal for moving between Ethereum and Polygon is https://wallet.matic.network/bridge/.
 
 1. After connecting your wallet, it will direct you to the following page.
 ![](https://z3.ax1x.com/2021/08/02/fSQi1U.png)
@@ -20,8 +20,8 @@ The portal for moving between Etherem and Polygon is https://wallet.matic.networ
 ![](https://z3.ax1x.com/2021/08/02/fS1yYq.png)
 
 
-### Etherum ⇄ BSC ⇄ Wanchain
-Wanchain is providing decentralized bridges for moving assets across Etherum, BSC and Wanchain at https://bridge.wanchain.org/.
+### Ethereum ⇄ BSC ⇄ Wanchain
+Wanchain is providing decentralized bridges for moving assets across Ethereum, BSC and Wanchain at https://bridge.wanchain.org/.
 
 1. Select PHX from the drop-down menu at the top right as below. 
 ![](https://z3.ax1x.com/2021/08/02/fS1579.png)

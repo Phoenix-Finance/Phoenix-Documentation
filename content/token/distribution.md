@@ -1,6 +1,6 @@
 The total supply of PHX token is 176,406,168.  Please find [the details here](https://etherscan.io/token/0xaec65404ddc3af3c897ad89571d5772c1a695f22) on Etherscan.
 
-It is native on Etheruem and can be bridged to Polygon, BSC and Wanchain with decentralized bridges. 
+It is native on Ethereum and can be bridged to Polygon, BSC and Wanchain with decentralized bridges. 
 
 Please find the major token holders here (on 2021/8/8):
 

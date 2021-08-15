@@ -1,6 +1,6 @@
 # On the Risks in PPO v1.0
 
-Before ‘jumping into the pool’ or starting trading options on PPO v1.0, it is important to understand the potential risks of the protocol for every user. The liquidity/collateral pool is not risk-free, and participants can lose money/
+Before ‘jumping into the pool’ or starting trading options on PPO v1.0, it is important to understand the potential risks of the protocol for every user. The liquidity/collateral pool is not risk-free, and participants can lose money.
 
 The risks below are presented in no particular order.
 

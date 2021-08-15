@@ -2,7 +2,7 @@
 
 In addition to the basic introduction of Phoenix Protocol for Options (PPO) model. There are several important mechanisms elaborately designed for security purposes. It is highly recommended that, before jumping into the pool or trading options on the PPO platform, one should go through these innovative mechanisms, in order to have a better understanding of the PPO model.
 
-PPO v1.0 has been audited by PeckShield. Please find the audit report here.
+PPO v1.0 has been audited by PeckShield. 
 
 ### 1. Minimum Collateral Requirement
 

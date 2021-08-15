@@ -2,11 +2,11 @@
 
 ### What is Phoenix?
 
-Phoenix is the new open finance protocol currently live on Ethereum, Polygon, Binance Smart Chain and Wanchain. It is a hub for connecting different decentralized ledgers to each other and users, and also for connecting with traditional finance applications. The first iteration of Phoenix will be a marketplace for DeFi derivatives.
+Phoenix is the new open finance protocol currently live on Ethereum, Polygon, Binance Smart Chain and Wanchain. It is a DeFi platform specialised in crypto financial derivatives. Besides mining and staking opportunities, our users can trade both options and decentralized leveraged tokens. 
 
 Phoenix is pioneering a cross-chain DeFi protocol for writing options exposure for multiple assets from within collateral pools. This Multi-Asset Single Pool (MASP) methodology for decentralized peer-to-pool options platforms enables anyone anywhere to leverage or hedge their positions in a variety of cryptoassets. 
 
-The next product  is the decentralized leveraged token protocol, launched on Polygon, Binance Smart Chain and Wanchain in Q3 2021. It provides a decentralized way for creating and trading decentralized leveraged tokens on cryptoassets, like BTC, ETH, etc., on different chains.
+The second product is the decentralized leveraged token protocol, launched on Polygon, Binance Smart Chain and Wanchain in Q3 2021. It provides a decentralized way for creating and trading decentralized leveraged tokens on cryptoassets, like BTC, ETH, etc., on different chains. It alse provide stable leverage, simplicity and do away with the usual difficulties associated with trading on margin.
 
 ### PHX Token
 

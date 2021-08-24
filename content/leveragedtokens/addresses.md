@@ -10,6 +10,7 @@ Leveraged Tokens on Polygon
 |MATIC_BEAR 3X|0x0c6fa26e1b104ef82f9da3f0e915331633bb2b10|
 
 Leveraged Tokens on BSC
+
 |Name|Address|
 |---|---|
 |BTCB_BULL 3X|0x2f18f4f4beffe57141d811e89dc4f91fdd4e272b|
@@ -18,6 +19,7 @@ Leveraged Tokens on BSC
 |BNB_BEAR 3X|0x2e25891288b647d4d0be5280fa899e6e47d30f99|
 
 Leveraged Tokens on Wanchain
+
 |Name|Address|
 |---|---|
 |WAN_BULL 3X|0x7fc47e269d29094d0c10a70fddc0fee73a068a4b|

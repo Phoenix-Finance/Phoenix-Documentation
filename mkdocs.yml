@@ -45,7 +45,8 @@ nav:
     - PHX Addresses: token/address.md
     - Distribution: token/distribution.md
     - Crosschain: token/crosschain.md
-  - How To: howto/tradeoptions.md
+  - How To: 
+     - Trade Options: howto/tradeoptions.md
   - FAQ: FAQ/FAQ.md
   - Governance: 
     - Overview: governance/index.md

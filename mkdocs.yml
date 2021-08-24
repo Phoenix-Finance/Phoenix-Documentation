@@ -39,11 +39,13 @@ nav:
         - Lending Pools: leveragedtokens/PPLT1.0/lendingpool.md
         - Rebalancing Mechanism: leveragedtokens/PPLT1.0/rebalance.md
       - Risks: leveragedtokens/risks.md
+      - Lev Tokens Addresses: leveragedtokens/addresses.md
     - Rewarding and Boosting System: Mining/mining.md
   - Phoenix Token (PHX): 
     - PHX Addresses: token/address.md
     - Distribution: token/distribution.md
     - Crosschain: token/crosschain.md
+  - How To: howto/tradeoptions.md
   - FAQ: FAQ/FAQ.md
   - Governance: 
     - Overview: governance/index.md

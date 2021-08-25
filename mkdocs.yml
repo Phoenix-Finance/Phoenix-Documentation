@@ -49,6 +49,8 @@ nav:
      - Trade Options: howto/tradeoptions.md
      - Trade Lev Tokens: howto/tradelev.md
   - FAQ: FAQ/FAQ.md
+  - Developers:
+     - Contract Address: about/contracts.md
   - Governance: 
     - Overview: governance/index.md
   - Terminology:

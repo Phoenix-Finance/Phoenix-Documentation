@@ -48,7 +48,7 @@ nav:
   - How To: 
      - Trade Options: howto/tradeoptions.md
      - Trade Lev Tokens: howto/tradelev.md
-     - Trade Lev Tokens: howto/contributeliquidity.md
+     - Earn: howto/contributeliquidity.md
   - FAQ: FAQ/FAQ.md
   - Developers:
      - Contract Address: about/contracts.md

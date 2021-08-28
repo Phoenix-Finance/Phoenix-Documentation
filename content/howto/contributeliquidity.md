@@ -9,12 +9,12 @@ First of all, you have to navigate to the [Phoenix homepage](phx.finance), go to
 
 ## Step 2
 Now choose the blockchain you would like to rely on to make transactions and connect your wallet.
-![](https://miro.medium.com/max/3000/1*upkB4Yh2cBpU9PgXGLJgJQ.png)
+![](https://z3.ax1x.com/2021/08/28/h3A1KA.png)
 
 At present, we support Metamask, WalletConnect, WanMask, WanWallet and ezDeFi. More will be added in the future.
 
 Click on “Connect Wallet” on the top right of the screen to link your funds to Phoenix.
-![](https://miro.medium.com/max/3000/0*UDyu6-KE85TGOlk9)
+![](https://z3.ax1x.com/2021/08/28/h3Aa8g.png)
 
 ## Step 3
 You may find 3 types of pools on the right bottom of the screen, 'Options Pools', 'Lending Pools for Leveraged Tokens' and 'Liquidity on Dexes'. 
@@ -28,7 +28,7 @@ Select a pool you want to contribute and press the 'stake' button at the end of 
 ![](https://z3.ax1x.com/2021/08/28/h3iJET.png)
 
 In the pop-up, you can see the details of your contribution. In this example, you may choose USDC or USDT to provide liquidity. Please input the amount you would like to contribute.  Then press 'stake'.
-![](https://z3.ax1x.com/2021/08/28/h3F3zd.png)
+![](https://z3.ax1x.com/2021/08/28/h3kzNT.png)
 
 ## Step 5
 There will be an extra request to spend your cryptoassets in your wallet in the first contract interaction.

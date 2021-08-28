@@ -14,14 +14,14 @@ Or you may just check on [the app UI](app.phx.finance) and navigate to the “le
 ## Step 2
 
 Now choose the blockchain you would like to rely on to trade.
-![](https://miro.medium.com/max/3000/1*upkB4Yh2cBpU9PgXGLJgJQ.png)
+![](https://z3.ax1x.com/2021/08/28/h3A1KA.png)
 
 ## Step 3
 
 In order to start trading, you must first connect a wallet. At present, we support Metamask, WalletConnect, WanMask, WanWallet and ezDeFi. More will be added in the future.
 
 Click on “Connect Wallet” on the top right of the screen to link your funds to Phoenix.
-![](https://miro.medium.com/max/3000/0*UDyu6-KE85TGOlk9)
+![](https://z3.ax1x.com/2021/08/28/h3Aa8g.png)
 
 ## Step 4
 

@@ -8,7 +8,7 @@ But how do you actually trade these potentially lucrative contracts? Here is a s
 
 First of all, you have to navigate to the [Phoenix homepage](phx.finance). Here, navigate to the “Launch App” button on the top right and click on it. Then select the product you would like to access. For the purpose of this guide, please click on “options”.
 
-Or you may just to go [the app UI](app.phx.finance) and navigate to the options section.
+Or you may just check on [the app UI](app.phx.finance) and navigate to the options section.
 ![](https://miro.medium.com/max/849/0*kJa7POAcY-fxRrGT)
 
 ## Step 2
@@ -49,6 +49,8 @@ You have now bought your first Phoenix options contract. Congratulations and may
 ## Step 7
 You can exercise ‘in-the-money’ options from here at any time before expiration, by clicking the ‘exercise’ button in the ‘Your Options’ section.
 ![](https://miro.medium.com/max/830/1*wIaRBfn7c9JjOFhG2lUc9A.png)
+
+----------
 
 If you need more information, do not forget to follow us on our social media channels.
 

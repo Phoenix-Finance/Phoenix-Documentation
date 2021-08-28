@@ -6,9 +6,9 @@ But how do you actually trade leveraged tokens to get constant leveraged exposur
 
 ## Step 1
 
-First of all, you have to navigate to the [Phoenix homepage](phx.finance). Here, navigate to the “Launch App” button on the top right and click on it. Then select the product you would like to access. For the purpose of this guide, please click on “leveraged tokens”.
+First of all, you have to navigate to the [Phoenix homepage](phx.finance). Here, navigate to the “DApp” button on the top right and click on it. Then select the product you would like to access. For the purpose of this guide, please click on “leveraged tokens”.
 
-Or you may just to go [the app UI](app.phx.finance) and navigate to the “leveraged tokens” section.
+Or you may just check on [the app UI](app.phx.finance) and navigate to the “leveraged tokens” section.
 ![](https://miro.medium.com/max/849/0*kJa7POAcY-fxRrGT)
 
 ## Step 2

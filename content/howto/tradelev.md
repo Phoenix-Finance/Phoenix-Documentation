@@ -3,7 +3,7 @@
 ![](https://z3.ax1x.com/2021/09/01/h0eRLn.png)
 Phoenix Finance allows users to trade leveraged tokens based on a variety of underliers, backed by lending pools and in collaboration with decentralized exchanges.
 
-But how do you actually trade leveraged tokens to get constant leveraged exposure? Here is a short, hands-on guide from the Phoenix team.
+But how do you trade leveraged tokens to get constant leveraged exposure? Here is a short, hands-on guide from the Phoenix team.
 
 ## Step 1
 
@@ -34,11 +34,11 @@ Simply pressing the 'Buy' button at the bottom and it will lead you to the buyin
 
 ## Step 5
 
-Simply input the amount of tokens you would like to buy, or the amount you would like to pay on the buying page. Noted that you can change the curreny for payment. In this very case, you may pay with USDC or WBTC to buy WBTC BULL x3.
+Simply input the amount of tokens you would like to buy, or the amount you would like to pay on the buying page. Noted that you can change the currency for payment. In this very case, you may pay with USDC or WBTC to buy WBTC BULL x3.
 
-The 'Token Information' part will introduce you the basics of this leveraged tokens, like the current leverage, borrowing APR (the cost from borrowing assets to power leverages), total transaction fee.
+The 'Token Information' part will introduce you to the basics of the leveraged tokens, like the current leverage, borrowing APR (the cost from borrowing assets to power leverages), total transaction fee.
 
-Please also note that the 'asset' and 'debt' per token show the actual holdings backing one unit of the leveraged tokens. Bull tokens will have underlying coins as asset and borrowing stablecoins. Bear tokens will have stablecoins as assets and borrow the underliers.
+Please also note that the 'asset' and 'debt' per token show the actual holdings backing one unit of the leveraged tokens. Bull tokens will have underlying coins as assets and borrowing stablecoins. Bear tokens will have stablecoins as assets and borrow the underliers.
 
 ![](https://z3.ax1x.com/2021/08/25/hEpszR.png)
 
@@ -46,7 +46,7 @@ Please also note that the 'asset' and 'debt' per token show the actual holdings 
 
 There will be an extra request to spend your cryptoassets in your wallet in the first contract interaction.
 
-After the transactions are excuted on chain, you can check them on the 'leveraged token' section in below.
+After the transactions are executed on chain, you can check them on the 'leveraged token' section below.
 
 ![](https://z3.ax1x.com/2021/08/25/hEp6Q1.png)
 

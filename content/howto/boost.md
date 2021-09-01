@@ -48,7 +48,7 @@ Please double confirm the staking information in the next pop-up.
 There will be an extra request to spend your cryptoassets in your wallet in the first contract interaction.
 
 ## Step 8
-After the transactions are excuted on chain, you can check them on the 'your staking' section. The staked PHX or cPHX will be shown as vePHX.
+After the transactions are executed on chain, you can check them on the 'your staking' section. The staked PHX or cPHX will be shown as vePHX.
 
 ![](https://z3.ax1x.com/2021/08/28/h33T6x.png)
 

@@ -50,6 +50,7 @@ nav:
      - Trade Lev Tokens: howto/tradelev.md
      - Earn: howto/contributeliquidity.md
      - Boost Rewards: howto/boost.md
+     - Move Boosting Effects: howto/changeboost.md
   - FAQ: FAQ/FAQ.md
   - Developers:
      - Contract Address: about/contracts.md

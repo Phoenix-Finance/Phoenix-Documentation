@@ -34,7 +34,7 @@ In the pop-up, you can see the details of your contribution. In this example, yo
 ## Step 5
 There will be an extra request to spend your cryptoassets in your wallet in the first contract interaction.
 
-After the transactions are excuted on chain, you can check them on the 'your staking' section.
+After the transactions are executed on chain, you can check them on the 'your staking' section.
 ![](https://z3.ax1x.com/2021/08/28/h3FjYD.png)
 Congratulations, you have successfully provided liquidity in the Phoenix Finance's protocols, and the mining will automatically start.
 

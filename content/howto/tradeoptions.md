@@ -37,9 +37,9 @@ Phoenix Finance does not need you to actually own a specific coin, as the underl
 
 ## Step 6
 
-You must now select the appropriate parameters for your options, (if you are not clear with the options terms, please go [here](https://docs.phx.finance/terminology/options/) for more details), starting with whether you would like to buy a call or put option, then input the size of the contract you’d like to purchase and the strike price. This is the price at which you can exercise the options, or to be more specific when the options move “in the money”. If an options contract does not reach the selected strike price, it will expire worthlessly.
+You must now select the appropriate parameters for your options, (if you are not clear with the options terms, please go [here](https://docs.phx.finance/terminology/options/) for more details), starting with whether you would like to buy a call or put option, then input the size of the contract you’d like to purchase and the strike price. This is the price at which you can exercise the options, or be more specific when the options move “in the money”. If an options contract does not reach the selected strike price, it will expire worthlessly.
 
-You will then need to select an expiration date — the day on which your contract will cease to be exercisable. Please notice that the farther away the expiration date, the more expensive the premium on the option will be. This is because over a longer period of time there are more chances that the options contract will move into the money and therefore sellers will demand a higher premium.
+You will then need to select an expiration date — the day on which your contract will cease to be exercisable. Please notice that the farther away from the expiration date, the more expensive the premium on the option will be. This is because over a longer period of time there are more chances that the options contract will move into the money and therefore sellers will demand a higher premium.
 
 ![](https://miro.medium.com/max/749/0*c5E8S-Q6P39gsm9H)
 The cost of your contract will be displayed here, both in your selected token and in its equivalent in US dollars.

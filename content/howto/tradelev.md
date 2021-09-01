@@ -1,5 +1,6 @@
 # How to Leveraged Tokens with Phoenix Finance
 
+![](https://z3.ax1x.com/2021/09/01/h0eRLn.png)
 Phoenix Finance allows users to trade leveraged tokens based on a variety of underliers, backed by lending pools and in collaboration with decentralized exchanges.
 
 But how do you actually trade leveraged tokens to get constant leveraged exposure? Here is a short, hands-on guide from the Phoenix team.

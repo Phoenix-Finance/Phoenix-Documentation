@@ -1,4 +1,5 @@
 # How to Boost Your Rewards by staking PHX or cPHX
+![](https://z3.ax1x.com/2021/09/01/h0e2ss.png)
 
 Phoenix Finance allows users to contribute stablecoins into the options pool to earn options premiums, or relating cryptoassets into the lending pool for leveraged tokens to earn interest. In order to incentivize the contribution, Phoenix Finance provides mining rewards for the liquidity contributors in cPHX.
 

@@ -1,4 +1,4 @@
-# FinNexus System Documentation
+# Phoenix Finance System Documentation
 
 
 These pages are built with MkDocs; for full documentation visit [mkdocs.org](https://mkdocs.org).

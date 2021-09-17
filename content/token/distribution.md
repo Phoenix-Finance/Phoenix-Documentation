@@ -39,7 +39,7 @@ Please find the major token holders and contracts' balances here (on 2021/8/26):
 ----------
 
 
-|Type|Address on BSC|Balance on 2021/8/25|
+|Type|Address on Wanchain|Balance on 2021/8/25|
 |---|---|---|
 |PHX in the boosting contract|0xeeafc3c679f17165c245aeb6252a1101d7c451a3| 534,666.00 |
 |PHX in the compensation contract|0x18e243aef86b4fF3De99Cd0eE1E4333Ca5DF56E5| 1,097,072.00 |

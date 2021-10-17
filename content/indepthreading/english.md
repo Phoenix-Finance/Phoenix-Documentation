@@ -26,3 +26,6 @@
 
 ## A Deep Dive Into Leverages in DeFi Borrowing, Margin Trading, Leveraged Tokens, perpetuals and Options 
 [A Deep Dive Into Leverages in DeFi Borrowing, Margin Trading, Leveraged Tokens, perpetuals and Options](https://coinmarketcap.com/alexandria/article/a-deep-dive-into-leverages-in-defi-borrowing-margin-trading-leveraged-tokens-and-options-finnexus) by Cofounder  [Ryan Tian](https://twitter.com/rainiefield) on [Coinmarketcap Alexandria](https://coinmarketcap.com/alexandria/) on 2021-04-29.
+
+## Chinese Government is banning Bitcoin AGAIN, but Why?
+[Chinese Government is banning Bitcoin AGAIN, but Why?](https://medium.com/phoenix-finance/chinese-government-is-banning-bitcoin-again-but-why-3bc273a306c0) by Cofounder  [Ryan Tian](https://twitter.com/rainiefield) on [Medium Channel](https://medium.com/@rainiefield) on 2021-05-25.

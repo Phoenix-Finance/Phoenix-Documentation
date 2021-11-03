@@ -29,3 +29,6 @@
 
 ## Chinese Government is banning Bitcoin AGAIN, but Why?
 [Chinese Government is banning Bitcoin AGAIN, but Why?](https://medium.com/phoenix-finance/chinese-government-is-banning-bitcoin-again-but-why-3bc273a306c0) by Cofounder  [Ryan Tian](https://twitter.com/rainiefield) on [Medium Channel](https://medium.com/@rainiefield) on 2021-05-25.
+
+## Things One Needs To Know About Decentralized Leveraged Tokens
+[Things One Needs To Know About Decentralized Leveraged Tokens](https://medium.com/coinmonks/things-one-needs-to-know-about-decentralized-leveraged-tokens-7703b344044f) by Cofounder  [Ryan Tian](https://twitter.com/rainiefield) on [Medium Channel](https://medium.com/@rainiefield) on 2021-10-21.
